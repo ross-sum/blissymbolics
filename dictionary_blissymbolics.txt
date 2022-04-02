@@ -1,0 +1,3181 @@
+	Blissymbolics, world writing
+	Blissymbolic symbol, semantographic symbol
+	!, speciality, specialities, It is, It's
+	question, Have, Will, Do, Is, What, Are, what
+	Are, Will, Have
+	percentage
+	not, opposite
+	number
+	repeating (from above), which
+	:, that
+	a, an
+	that, those
+	the
+	this, these
+	but
+	if
+	then
+	person, individual, I
+	people, we
+1	I, myself, me, mine
+2	you
+3	he, she
+3	she
+1	we
+2	you, youse
+3	they
+1	mine, my
+1	our
+2	yours, your
+3	his, their
+	whom
+	whose
+	anyone, anybody
+	male, man, gentleman
+	men, gentlemen
+	the man
+	to man
+	manly
+1	I, myself, me, mine
+2	you
+3	he, him
+3	they
+	man's
+1	mine, my
+2	yours
+3	his
+3	theirs
+	of man
+	who, whom
+	whose
+	corpse
+1	solo man
+2	duo
+3	trio
+	group, board, committee, society, company, crowd, crew
+	passenger
+,	adolescent
+	age (of man)
+	neighbour
+	anyone, anybody
+	body part, body division
+	female, woman, lady
+	womanly
+	women, ladies
+1	I, myself, me, mine
+2	you
+3	she, her
+3	they
+	corpse
+1	solo woman
+2	duo
+3	trio
+	woman's
+1	mine, my
+2	yours
+3	hers
+3	theirs
+	of woman
+	whom
+	whose
+	group
+,	adolescent
+	age (of woman)
+	anyone, anybody
+	it
+	its (plural)
+	its
+	theirs
+	men, people, folks
+	couple, people, folks
+	group
+	people (BPB)
+	citizen
+	citizens
+	citizen of state, citizen, nationality
+	group of citizens
+	nation, people
+	nation, very many people
+	nation
+	flag
+	state, country, territory
+	territory, state
+	territories
+	state
+	province, countryside
+	to lead, to govern, to guide
+	governing
+	governs, to govern
+	is governed, to be governed
+	manager
+	to govern state, to govern
+	governor
+	government
+	the government (rulers of people)
+	the government (people's servants)
+1.	Prime Minister
+1.	president, king
+1.	president, queen
+1.	his Majesty
+1.	her Majesty
+	Minister
+	foreign country
+	foreign country
+	foreigner
+	home country
+	frontier, state boundary
+	elector, voter
+	electee, deputy, politician
+	consul (in general)
+	British Consul
+	US Consul, USA Consul, American Consul
+	Australian Consul
+	New Zealand Consul
+	international
+	father
+	the father
+	to father
+	fatherly
+	mother
+	the mother
+	to mother
+	motherly
+	birth
+	birth certificate
+	married couple
+	parents
+	husband
+	husbands
+	wife
+	wives
+,	bride groom
+,	bride
+,	fiancee, boyfriend
+	lover
+,	girlfriend
+	lover
+	son
+	daughter
+2	brother
+2	sister
+	marriage
+	married
+	will marry
+	to marry
+,	engagement
+	wedding day, wedding
+,	widower
+,	widow
+	divorcee
+	divorcee
+	divorcee
+	divorcee
+	orphan
+	orphan
+	grandfather
+	grandfather
+	grandmother
+	grandmother
+	grandson, grand children
+	granddaughter
+	grandson
+	granddaughter
+2	uncle
+2	uncle
+2	aunty, aunt, auntie
+2	aunty, aunt, auntie
+2	niece
+2	niece
+2	nephew
+2	nephew
+	mother-in-law
+	mother-in-law
+	father-in-law
+	father-in-law
+2	brother-in-law
+2	brother-in-law
+2	sister-in-law
+2	sister-in-law
+	family
+	family relation, relation
+	related
+	relative, male relative
+	relative, female relative
+	male
+	female
+	ring
+	life, existence, exists, lives
+	to live, to be, to exist
+	living, being, living thing
+	lively
+	death
+	to die
+	to kill, to make dead, kills, killer
+	killing, killed
+	mortal
+	dead
+	death certificate
+	lifeless, dead
+	become lifeless, dieing
+	blood
+	to be, to exist (in-animated), is
+	thing
+	will stay, to stay, will be
+	to be (in mind), there is, is
+	to be
+	were, was
+	will be
+	may be, might be
+	may be, might be
+	may be, might be
+	may be, might be
+	is not
+	is not, does not
+	occurrence
+	real
+	part (+), partition, divorce
+	yes!
+	no!
+	yes
+	no, don't, do not, will not, shall not, not
+	not, under no circumstances
+	sun
+	the sun
+	to sun (verb), to shine, sunning, shining
+	sunny
+	sunrise
+	morning
+	sunset
+	day
+	days
+	noon
+	Monday
+	Tuesday
+	Wednesday
+	Thursday
+	Friday
+	Saturday
+	Sunday
+	week
+	weekday
+	weekend
+	fortnight
+2	day before yesterday
+	yesterday
+	today
+	tomorrow
+2	day after tomorrow
+	hello!, good day!, good morning!, g'day
+1	spring
+2	summer
+3	autumn
+4	winter
+1	season
+	month
+	January
+	February
+	March
+	April
+	May
+	June
+	July
+	August
+	September
+	October
+	November
+	December
+	last month, month before
+	next month
+	this month
+	year
+	year before, last year
+	next year
+	this year
+	holiday
+	light, to shine, illuminate, glows, shines, lamp
+	light, torch, optical source
+	bright
+	dim
+	darkness, dark
+	dark
+	electric light, lamp
+	electric light, lamp
+	photon (?)
+	moon
+	the moon
+	moony
+	moon shine
+	moons
+	night
+	tonight
+	midnight
+	moon rise
+	evening
+	full moon
+	new moon
+	first quarter
+	second quarter
+	third quarter
+	star
+	the star
+	twinkle, star shine
+	starry
+	stars
+	constellation
+	comet
+	twin star
+	planet, globe, earth
+	earth's crust
+	centre of the earth
+	north pole
+	south pole
+	northern hemisphere
+	southern hemisphere
+	north
+	south
+	east
+	west
+	compass
+Fe	magnetic compass
+	gyro compass
+	house, building
+	the house, the dwelling, the building
+	houses, buildings
+	to house, lodging
+	dweller
+	hotel
+	builder
+	house's
+	of house
+	house number
+	street
+	floor
+	floor number
+	chimney
+	village
+	town
+	hamlet
+	outpost
+	backyard
+	post office
+	roof, cover, care, protection, clad
+	the roof, the cover, the cladding
+	to cover, to protect
+	roofs, covers
+	covered, cladded
+	protector, police
+	protection for future
+	walls
+	theatre
+	show places, stadium, theatre
+,	opera, opera house
+,	comedy
+,	musical comedy
+,	drama
+,	play, plays
+,	ballet
+	concert hall
+	cinema, flicks, movies
+,	Olympiad, sports field, sports stadium
+,k2	belodrome, bicycle race stadium
+,	boxing ring, ring
+	addition
+	the addition
+	to add, addition, now adding
+	addition, addition result
+	have added
+	will add
+	addable
+	added
+	to actively add
+	to be passively added, are summed
+	additionally, additional, totalled
+	oxidation
+	oxide
+	to possess, to own, to have
+	possession
+	possessive, possessively
+	the possessiveness
+	owner, possessor
+	the ownership, the possessorship
+	wealth, riches, fortune
+	rich, wealthy
+	almost rich, almost wealthy
+	rich man
+	interest (in general), dividend
+	has, have
+	had
+	subtraction, waste
+	the subtraction
+	to subtract
+	have subtracted
+	will subtract
+	to actively subtract
+	to be passively subtracted
+	discount
+	multiplication
+	the multiplication, multitude
+	to multiply, multiplication
+	have multiplied
+	will multiply
+	to actively multiply
+	to be passively multiplied
+	multiple
+	division
+	the division, part, piece, bit, section, component
+	to divide
+	have divided
+	will divide
+	partially, partial
+	to divide (active), partial
+	to be divided (passively), review (?)
+	dividable
+	divided
+	divisions, parts, pieces, bits, sections
+	which?
+	the divisibility
+	the dividedness
+	more than, in relation to, greater than
+	the related
+	to relate
+	to relate
+	is related to, to be related
+	related, relative
+	relatively
+	to relate
+	relatively
+	relatively
+	absoluteness
+	position, order, level
+	to pose
+	positions, states
+	point of view (emotional)
+	point of view (reasoned)
+	point of view (conscience)
+	first alternative
+	purpose
+	cause
+	the cause
+	to cause, causing
+	causal, causative
+	causer
+	effect
+	the effect
+	to effect
+	effectual, effective
+	cause and effect, causation
+	affected (thing), sensitive
+	affecting
+	shall affect, will affect, will depend (?)
+	cause
+	effect
+	causer, effector
+	less than, in relation to
+	second alternative
+	choosing (emotional)
+	choosing (reasoned), choice (?)
+	choosing (conscience)
+	counter purpose
+	of, about, on
+	at, on, here, in
+	either
+	neither
+	for, in favour of, to
+	here
+	therefore, consequently, by, causes
+	why?
+	because
+	of, by, on
+	or
+	nor
+	against
+	there
+	by, caused by
+	and, to, also, positive, plus, with, too, further, besides, et
+	etcetera, furthermore, as well as, along with, over and above, in addition to, in conjunction with
+	with (help with)
+	belongs to, 's (possessive)
+	from same (repeat with possession)
+	minus, negative, without
+	without
+	without
+	many, much, well, very, multi
+	very much, very many
+	how much?, how many, quantity
+	few, little
+	very few, very little
+	many things (?), group (physical)
+1	once, single, one times
+2	twice, double, two times
+3	thrice, triple
+1	once
+2	twice
+	always, all times, constant
+	never (?)
+	regular
+	usual
+	unusual
+	more
+	to increase
+	to be increased, will increase
+	less, reduce, reduction, decrease
+	prefer
+	most, best, formal
+	mostly, essentially
+	least
+	the muchness
+	all (within limits)
+	all (everything)
+	nothing, none
+1	each, every
+1	only, single, singular
+2	pair
+12	dozen
+144	gross
+1	to single out, to sample
+2	double
+3	triple
+1	unit, sample, example
+1	first
+1	to make first
+1	firstly, first
+1	fundamental (?)
+1	uniqueness, singularity, entity, novel
+1	spontaneous (?)
+2	second, next
+3	third
+1	last
+	forward, to, progress, go, on, advance, dynamic, direction, way, path
+	forward, progressive
+	forwardable, progressable, transmissive (?)
+	progressed, transmission (?)
+	moving forward, progressing, pushing, push
+	moving forward, progressing, pushing, push
+	to have moved forward, to be progressed, to be transmitted (?)
+	progressed thing, forwarded, the transmission (?)
+	forwarded, will proceed
+	proceeded, transmitted (?)
+	sender
+	receiver, addressee
+	backward, return, reverse, retreat
+	moving backward, returns
+	backwards, regressive
+	regressed thing
+	to and fro, vice-versa
+	attraction
+	to meet
+	conformity, concord, harmony, agreement
+	conform, harmonise, agree
+	agree (?), accept (?)
+	the conformity
+	competition, race, versus
+	racing, competing
+	to race, to compete
+	to be competitive, to be racy
+	racingly, competitively
+	raceable, competable
+	raced, competitive
+	shall race, shall compete
+	did race, did compete
+	been competitive, been racy
+	the race, the competition
+	obstacle, opposition, difficulty, trouble, counter force, complexity (?)
+	in spite of, spite
+	in spite of, though, although, notwithstanding, nevertheless
+	success
+	up (arrow), goes up, lift, take off, rise, shift (?)
+	the lift, the rise, offset (?)
+	remove, to lift, increasing, rising
+	raised, drew up
+	down (arrow), goes down, drop, fall
+	put down
+	downward
+	up and down
+	shake, vibrate
+	collection, meeting
+	gathering
+	meeting
+	separation
+	repulsion, separate
+	to repulse, to separate
+	expansion
+	distribution
+	moving up
+	moving up
+	moving down
+	moving down
+	start, begin, depart
+	startable, transmissable (?)
+	commenced (adjective), transmitting (?)
+	to start, to begin, starts, sends (?), transmits (?)
+	to start, to begin, starts, sends (?), transmits (?)
+	to have started, begun
+	will depart, will start, will begin, depart, to start, start
+	started, flared up
+	departure, dispatched, leave, send
+	will depart, will leave, will send
+	approach, approaches, arrives
+	coming, arriving, come, will come
+	arrival, stop, end, to, off, halt
+	stop, terminate
+	will arrive, will stop, will end, arriving, arrives, will halt
+	arrived, came, stopped, halted, terminated
+	bombards, bombarding
+	to pass by
+	past
+	to continue
+	to continue (active), go on
+	to be continued
+	to continue, still
+	will continue, shall continue
+	did continue
+	been continued
+	continuable
+	continuous (?)
+	through, pass through, non-stop, break through
+	pierce
+	to pass
+	splits into, which disintegrates into, turns into
+	splitter
+	that
+	that (he said:)
+	but, however
+	to, till, to the
+	where to
+	from, since, to, for
+	off, away
+	towards
+	medical service
+	medicine, medical
+	medical practitioner
+Dr	doctor of medicine
+	nurse
+	medical science
+	first aid station
+	pharmacy, chemist (BPB)
+	bandage
+	to bandage
+	medicine, pharmaceutical
+	liquid medicine
+	medical tool to hear heart
+	stethoscope
+	stethoscope (abbreviated)
+	medical tool to inject liquids
+	syringe
+	subcutaneous injection, injection, to inject
+ILEUMCOLON	intussusception
+	money, cash, price
+	money
+	currency, unit of money
+	business, trade
+	business man, trader, merchant
+	company
+	company limited, Pty Ltd
+	insurance business
+	premium, insurance premium
+	policy, insurance policy
+	fire insurance, insurance against fire
+	transport insurance
+	war risk insurance
+	to pay, payment, to cash
+	payment, paid
+	payment, payment due, shall make payment, will pay
+	part payment, instalment
+1	down-payment, first payment
+	monthly instalment
+	advance payment, money to be paid before
+	margin, part advance payment, repayment
+	gratis, free
+	to receive money, payments
+	shall receive, shall get the money, charge
+	received, receipted, money received
+	docket, receipt, paper
+	paper on money
+	security, securities
+	share, shares
+	share
+	company on shares
+	stock exchange
+	bonds
+	to hold money
+	holdings
+	holding money for future, saving,reserving money
+	savings, reserve
+	credit
+	creditor
+	debit
+	debtor
+	letter of credit
+	profit, gain
+	loss
+	assets
+	liabilities
+	accrual, accrued income, money to come in
+	loans received
+	payment for goods received, accrued expenses
+	tax payment, payment for taxes
+	tax, taxes
+	buy, purchase, book
+	sell, sale
+	interest
+	safe
+	night safe
+	bank
+	bank rate
+	banker, bank man
+1	bank manager
+	department (of bank)
+1	department manager
+	loans department
+	clearing
+	notes, paper money
+	coins, coin
+	coins
+Au	gold
+Ag	silver
+Ni	nickel
+Cu	copper
+Al	aluminium
+	cheque
+	cheque book
+	bank cheque, bank draft
+	rate of exchange, exchange rate
+	rate of exchange
+	exchange, money exchange
+	transfer, funds transfer
+	account
+	ledger
+	accountant
+1	chief accountant
+	surplus (?), account plus
+	overdraft
+	settling account
+	duplicates
+	statement
+	safe custody
+	penniless
+	bankrupt, bankruptcy
+	price
+	price
+	amount, total sum, total
+	dear, expensive
+	much
+	most expensive
+	cheap, bargains
+	valuable, valuables
+	business house
+	office
+	shop, store
+	order
+	invoice
+	purser
+	carrying fee, carrier fee, courier fee
+	free delivery, no carrying fee
+	bill of lading, transport document
+	disc, pill
+	music, musical note
+	musician, band
+	composer
+	beat (?)
+	to cross out, to blot out, destroy
+	destructive
+	destroyable, disintegratable, crumbly
+	destroyed
+	cross, blot, extinguish, delete
+	to destroy (active)
+	to be destroyed (passive), disintegrates (?)
+	shall destroy
+	have destroyed, did destroy
+	been destroyed
+	the destruction (unit of action)
+	the destruction (thing destroyed)
+	a ruin
+	equal, equals, are, same
+	equally, identical, match
+	equalable, equality
+	equalled, matched
+	to equal
+	to equal, the matching
+	to be equalled, equalisation (?)
+	shall equal
+	did equal
+	been equalled
+	the equal
+	the equalling
+1	the equal
+	not equal, different
+	the inequality, difference
+	inequalities, differences
+	is proportional to (?)
+	thing, chemical thing
+	what?
+1	piece
+	solid, solid thing
+	melting
+	solidifying
+	solid to gas, 1st phase of sublimation
+	gas to solid, 2nd phase of sublimation
+	metal
+	solidifying metal
+	casting metal
+	melting metal
+	corrosion of metal
+	metal ore
+	high grade
+	low grade
+	raw material, material
+	crystal
+	to crystallise
+	crystalline, crystal like
+	classification of crystals
+	crystal axis
+	classification of crystal by axis
+	allotropy
+	thing on earth
+	soap
+	overlap (?)
+	conjunction, junction, joint, union, combination, coalition, alliance, connection, link, couple
+	to connect, join, unite, combine, to link, to couple
+	joining tool
+	connection, junction (basic)
+	to connect, join, unite (basic)
+	joining tool (basic)
+	chains
+	to chain
+	chain (basic symbol)
+	gas
+	gas-filled
+	vacuum
+	evacuated
+	evacuating
+	liquid to gas
+	gas to liquid
+	thermometer
+	the thermometer
+	measuring heat, using a thermometer
+	tripod
+	glass flask, Erlenmeyer
+	cock, tap
+	burette
+	temperature:
+C	temperature (C)
+	rising temperature
+	falling temperature
+	boiling point of water, boiling point
+	boiling point (any liquid)
+	melting point of metal
+	melting point (any solid)
+	kindling point
+	measuring pressure of gas
+	manometer, air pressure
+	measuring gas pressure, using a manometer
+	filter process
+	funnel, filtration
+	filtration (laboratory)
+	the filter
+	to filter
+	filtered
+	have filtered
+	will filter
+	test tube
+	calibrated cylinder, measuring glass
+	solution
+	solution
+	soluble
+	dissolved
+	solubility
+	solvent
+	solute
+	concentrate, concentration
+	dilute, dilution
+100%	saturation
+	precipitation
+	solution plus sediment
+	solution plus crystal sediment
+	diaphragm
+	filtration (in industry)
+	osmosis
+	dialysis (colloid-solution)
+	ionisation
+	ionisation
+	action, the act, physical action, Affairs
+	to act
+	stable (position)
+	how, what action
+	so
+	to act
+	to work, occupation, job
+	work like, yacka (adverb)
+	workable
+	worked, jobbing (adjective)
+	to work, works
+	to work, works
+	to be worked, to be employed
+	shall work, will work
+	did work, have worked
+	the work (unit of action)
+	the job, the occupation
+	the works, the jobs, the occupations
+	the working (verbal noun)
+1	the work (verbal noun)
+	toilers
+	laboratory
+	project (?), collection of work (?)
+	present, presence
+	now, just
+	past
+	happy memory
+	unhappy memory
+	future
+	then, ago, when
+	then, hence, when
+	evaluation, the value, human evaluation
+	labile, unstable (position)
+	to evaluate
+	ability, the active ability, to enable
+	ability, the passive ability
+	quality, value, rational evaluation
+	can, being able, actively can
+	can, being able, passively can
+	able
+	unable
+	how, what quality
+	nature, creation, safety sign, universe
+	creature
+	created
+	warning!, safety warning, danger, beware
+	alarm bell
+	alarm sound, alarm
+	the structure of nature
+	structured (?), natural (?)
+	man made, make, prepare, produce
+	man made
+	to make, made, to prepare, to produce, to process
+	was made, produced
+	will make
+	manufacturing, industry
+	supra natural, supra-natural
+	creator, god
+	opposition
+	heart, conscience, emotion, passion, imulse, id
+	heart
+	to feel, feeling
+	emotional, impulsive
+	happiness, uplifting, joy, happy
+	will be happy, shall be happy
+	sadness, downheartedness, worry, unhappiness,  sad, sorrow, sorry, unhappy
+	sadly, deplorably
+	jubilant, jubilation, delight, delightful
+	bliss, rapture
+	little enjoyment
+	hardly pleased
+	grief, depression
+	desperation, desolation
+	strong feeling, ardor, zeal
+	passion, ecstasy
+	emotionless, feelingless
+	surprise
+	was surprised
+	astonishment
+	sensation
+	excitement
+	please
+	thanks, thank you
+	humour
+	smile
+	laugh
+	haughty, proud
+	humble, meek
+	to like, liking, good
+	famous
+	to dislike, disliking, bad
+	freedom, liberty
+	liberty, freedom, free
+	oppression, oppressive, oppressed, tyranny
+	feeling of worries
+	harmony
+	disharmony
+	much emotion
+	passion, ecstasy
+	attraction
+	repulsion
+	feeling opposed, feeling of opposition, against (emotional)
+	anger
+	fury
+	luck
+	cruel, cruelty
+	hunger
+	thirst
+	behaviour
+	play
+	fear
+	to fear
+	fear, will fear
+	feared, a danger
+	hope
+	hope, happy anticipation
+	safe, feeling of protection, feeling of security
+	security, protection
+	rest, calm
+	disturb
+	peace (of mind)
+	tolerance
+	hospitality
+	Dear (introduction), sincerely
+	believe it
+	truth
+	mind, emotion, means
+	brain
+	thinking, thought, intention, to think, thinks, to mind, thoughtful, mindful
+	have thought
+	shall think, will think
+	reason, ego, reasoning, rational thought
+	super ego (conscience)
+	brain conscience
+	to moralise
+	morally, conscientious, moral
+	conscience
+	intelligence
+	vision
+	thoughtless
+	human evaluation
+	doubt
+	doubt
+	certainty
+	certainty
+	certain
+	probability
+	improbability
+	guess, hypothesis
+	hypothesise, assumes
+	the guess, the hypothesis, the assumption
+	classification
+	the classification
+	to classify
+	to classify
+	to classify as, to be classified
+	classified
+	will classify
+	typical
+	interest
+	strong interest
+	idea, mind flash
+	the interest
+	correct
+	correctingly
+	correctable
+	corrected (adjective)
+	to correct
+	to correct
+	to be corrected, correction
+	shall correct
+	did correct
+	been corrected
+	the correct (unit of action)
+	the correction (thing transformed)
+	the correction
+	corrections
+	good
+	could be good
+	incorrect
+	bad
+	tolerance
+	moral tolerance
+	right, good
+	very right
+	wrong, bad, immoral
+	very wrong
+	evil
+	the wrong, the evil
+	elation
+	depressive
+	shame
+	apology
+	opinion
+	opinion (voiced), to opine
+	the opinion
+	observation
+	observable, perceivable
+	perceived, observed (adjective)
+	perception, to observe
+	perception, to observe, to perceive
+	to be perceived, to be observed
+	shall perceive, shall observe
+	did perceive, did observe, observed
+	been observed, been perceived
+	the perception
+	intent, purpose of mind
+	proposal, propose
+	to propose, proposing, suggest (?)
+	will propose
+	did propose, proposed, recommended
+	proposals
+	proposal
+	opposition, contradiction, objection
+	oppose (?), reject (?)
+	opposition, contradiction, objection
+	worries, troubles, trouble
+	progress
+	spite, courage
+	success
+	wish, desire, want
+	desire, wish, want, like to have, like
+	lust, desire, glutton
+	stupid
+,	idiot
+	drawing the line
+1	egoistic
+1	egotism
+2	altruistic
+2	altruism
+	hairdresser, hair
+	shall be responsible, be responsible
+	use, useful
+	to use
+	to use, using
+	to be used
+	useful
+	useable
+	used
+	shall use
+	did use
+	been used
+	the use (unit of action)
+	uses
+	directions
+	security
+	security, contemplated security
+	select, elect, vote
+	electable, selectable
+	elected (adjective), selected
+	to elect, to select
+	to be elected, to be selected, selection (?), candidate (?)
+	shall elect, shall select
+	did elect, did select
+	been elected, been selected
+	will
+	willingly
+	refusal
+	permission
+	allow, permit
+	decision
+	decide
+	decidedly
+	experience, past
+	expert
+	anticipation, future, prophecy, prediction, forecast
+	could predict, might predict
+	prophet
+	knowledge
+	to know, knowing
+	to know
+	to be known, known as
+	knowingly
+	knowable
+	shall know
+	known
+	did know
+	been known
+	the knowledge, point
+	the knowledge
+	knowledges, information, tips, profile (?)
+	the knowing
+1	the know
+	knowledge
+	wisdom, much knowledge
+	man who knows
+	man who knows
+	to learn, to study
+	student, learner
+	to teach, to educate
+	learned, educated
+	educatable
+	educational
+	teacher, educator
+	school
+	university, institute
+	learned society, professional society
+	to understand, understanding
+	closed, enclosed, square, engaged
+	closed, enclosed, shut
+	to enclose, to close
+	enclosure
+	will be enclosed
+	bottom, oven
+	lid, top, hotplate
+	side
+	middle (?), centre (?), core (?)
+	middles (?), centres (?)
+	left plate
+	right plate
+	unit of enclosure
+	into, to move into, to enter, to insert, to deposit, to input, absorption
+	will deposit, will insert, will enter
+	deposited, inserted
+	entered, inserted, deposited, absorption
+	entry receipt, deposit document
+	to move out, to exit, out of, exhaust, spray, to leave, extract, to output
+	emission
+	to be left, check out
+	enclosure with nucleus
+	crust, shell
+	nucleus
+	trap
+	open, vacant
+	to open
+	open
+	opening, big pot, big container
+	will be open, to open
+	latch
+	question, INFORMATION, information, problem
+	did question, questioned, is investigated
+	trial, attempt, experiment, test, probe
+	answer, solution
+	result
+	unconscious, asleep, fainted
+	subconscious, awake
+	preconscious
+	conscious of emotions
+	conscious of reason
+	conscious of conscience
+	love, affection, loves
+	did love
+	will love
+	hate, animosity
+	loveless
+	adoration
+	idolisation
+	detestation
+	abhorrence
+	admiration
+	admires
+	is admired by
+	congratulation
+	feeling of doubt
+	doubt
+	feeling of certainty
+	beautiful
+	the beauty
+	beauty, loveliness, beautiful
+	beauty parlour
+	ugliness, depressing sight
+	gorgeousness
+	gorgeous
+	science, philosophy, mind contemplating nature, research
+	scientist, philosopher
+	science of chemistry
+	science of physics
+	science of medicine
+	science of people, humanities
+	science of mathematics
+	knowledge of mathematics
+	calculate
+	calculator
+	calculation
+	to calculate, to figure out
+	calculators
+	a cardinal number, a cipher, a figure, digital (?)
+	figures
+	ordinal number
+	equation (?), formula (?)
+	equations (?), formulae (?)
+	any number, arbitrary number
+	metallurgy, science of metals
+	crystallography, science of crystals
+	doubt, truth (in a human's mind)
+	scientific theory, theory
+	hypothesis
+	a scientific hunch
+	law of nature
+	congress (science meeting)
+	congresses, science meetings
+	designing, planning, design, plan, method
+	the design, the plan, the method, the algorithm, the programme
+	methododically, planingly, designingly, procedurally
+	methodical, plannable, designable, procedural, programmable (?)
+	planned, designed, processed
+	designing, planning, processing
+	to design, to plan, to process (active)
+	to be designed, to planned, to be processed (passive)
+	shall design, shall plan, shall process
+	did design, did plan, did process
+	the method, the plan, the design, the procedure
+	methods, plans, designs
+	designer, planner
+	plan
+	architect
+	engineer, inventor
+	applied chemistry, practical chemistry
+	organic chemistry
+	benzine chemistry
+	to organise, to arrange (BRG)
+	eye, seeing
+	the eye
+	vision, to see, to visualise, to sight
+	shall see
+	saw
+	to see, to show (?), to demonstrate (?), scanning (?)
+	seen
+	1 look, 1 glance, 1 view, 1 inspection, 1 vision, 1 sight
+	visual
+	visible
+	sighted
+	been sighted
+	sight
+	look!
+	look out!
+	really look!
+	seem, it seems
+	seemingly
+	upper eye lid
+	eye brow
+	clear, transparent
+	opaque
+	translucent
+	awake
+	watch
+	search
+	asleep, sleep
+	make sleep, sleep
+	tear, tears
+	tear
+	crying
+	crying
+	find, discovery
+	discoverer, discovery
+	discovered
+	picture, photo, photograph, view finder, depict, image
+	picture frame
+	art, painting, artwork, style (?)
+	the piece of art
+	pieces of art
+	art gallery
+	art galleries
+	artist
+	observer
+	eye: side view
+	retina
+	lens (eye)
+	cornea
+	mark spot, mark blot
+	form, shape, pattern (?)
+	optics
+	optical
+	camera
+	film
+	photo studio
+	movie camera
+	projector
+	projector
+	movie, film
+	colour
+	red
+	orange
+	yellow
+	green
+	blue
+	indigo
+	violet
+	black
+	green-blue
+	white
+	pink
+	grey
+	pale
+127	Cerise
+139	English vermilion
+44	Khaki
+87	Persian blue
+400nm	violet
+445nm	indigo
+475nm	blue
+510nm	green
+570nm	yellow
+590nm	orange
+650nm	red
+900nm	near infra-red
+	colourless
+	paint, dye
+	to paint
+	painted
+	shall paint
+	paintable
+	liquid paint, water based paint, water colour
+	bleach
+	bleach
+	bleaching
+	ear
+	the ear
+	hearing, to hear, to listen
+	1 hearing, 1 audition
+	auditory, aural, acoustic
+	deaf
+	listen
+	listen!
+	auricle, ear auricle
+	earlobe, ear lobe, lobe
+	tip of the ear, ear tip
+	auditory passage, ear auditory passage
+	sound, noise, disturbance, disturb
+	loud noise
+	bang, crash
+	silent, quiet
+	bell
+	bell
+	music
+sonata	sonata
+	listener
+	news
+	newspaper
+	newspaper man, paper boy
+	nose
+	the nose
+	smell
+	olfactory
+	odour, smell
+	perfume, fragrance
+	air
+	depression
+NO	air
+	mouth
+	the mouth
+	to speak, speech, speaking, saying, says, to call, announces, to talk
+	to speak, to talk (active)
+	to be spoken (passive)
+	speakable
+	spoken (adjective)
+	1 talk, 1 speech, 1 report, 1 tale, 1 narrative, 1 saying
+	verbal, oral, verbatim
+	will say, will speak, will tell
+	has said, did speak, did tell, spoke
+	been spoken, been said, told (?)
+	the speaking
+1	the speech
+	the speeches, the talks
+	upper lip
+	upper lip
+	chatter, prattle, gabble, rant, gossip
+	chatterer, prattler, gossiper
+	lecture, orate, recite, declaim
+	lecturer, orator, reciter, declamator
+	dumb
+	discussion
+	greeting
+	hearty greetings
+	admittance, agreeance
+	denial
+	speechless
+	speaker, storyteller
+	speakers, storytellers
+	cry
+	shout
+	yell
+	generalisation
+	to generalise
+	general
+	name, sign, signature, name is
+	names
+	did name, did cite (?)
+	named (adjective), cited, termed
+	nameable, citable (?)
+	name and address
+	open speech, public
+	secret, private
+	to secret
+	was secret
+	private secretary, secretary
+	code department, code
+	betrayal
+	food
+	to eat, to feed, meal
+	edible
+	diner, eater
+	cook, chef
+	vomit
+	vomited
+	taste
+	to taste
+	tasty, yummy, delicious
+	sweet (food), sugar
+	the sweet, the sugar
+	sour (food)
+	bitter (food)
+	ice-cream
+	cheese
+	bread, cake
+	meat
+	meat sandwich
+	ham sandwich
+	veggies, salad, greens
+,	salads
+	menu
+	ration card
+1	breakfast
+2	lunch
+	waiter
+	drink waiter
+17:30-8:30	breakfast served: 7:30-8:30
+	drink (BPB)
+	drinking (BPB)
+	spitting
+	spitting
+	spittoon
+	no spitting
+	breath
+	breathless
+	inhale
+	exhale
+	cough
+a	vowel
+b	consonant
+ab	syllable
+	language
+	word
+	words, text
+	worded
+	will word
+	font (?)
+	sentence
+	telephone, phone
+	shall telephone, shall phone
+	telephoned, phoned
+	telephoning, phoning
+	mobile telephone, mobile phone
+	telephone apparatus, telephone handset
+	telephone receiver, receiver
+	translation
+	translate, interpret
+	to be translated, translated, translate, interpret
+	translator, interpreter
+	song
+	singer
+	singer
+	spitting
+	smoking
+	smoking
+	no smoking
+	smoking room
+	hand
+	the hand
+	to touch
+	tactile
+	hands
+	slap
+	hit
+	blow
+	punch
+	to point
+	boxing
+	palm (?)
+	palm like (?)
+	(mid) thing, matter
+	unit of goods
+	anything, whatever, whatsoever
+	thing forwarded
+	tool, instrument
+	use, uses, with (?)
+	useful, instrumental
+	usable
+	used, instrumented, tooled, tooled up
+	to use (active)
+	to be used (passive)
+	did use, used
+	will use
+	been used
+	the use (unit of action)
+	the tool, the instrument
+	tools, instruments
+	most used (?), common (?)
+	lifter, jack
+	musical instrument
+	musical instrument
+	bugle, horn
+	electrical tool, electrical appliance
+	tool of protection
+	kitchen tools
+	kitchen tool
+	cut around outside, to strip (?)
+	clap
+	sweat
+	arm, left arm
+	right arm
+	the arm
+	arms
+	elbow
+	upper arm
+	strong individual
+	strong, intense (?)
+	to make strong, to become strong, strengthen
+	to force
+	to force, must
+	to be forced, must
+	legs and feet
+	to go, goes
+	shall go, will go
+	has gone
+1	1 step, one step
+	leg
+	foot
+	heel
+	sole
+	toe
+	dance
+	head
+	face
+	chin
+	neck
+	profile
+	back of head
+	trunk
+	shoulder
+	chest
+	stomach
+	teeth
+	thinker
+Ross	Ross' thinking, feeling, understanding
+Ross	Ross now
+Ross	Ross yesterday
+	to fix
+	time, date
+	to time
+	when, what time, when goes
+	any time, whenever
+	watch
+	watch
+	wrist watch
+	5:45pm
+	7:15pm
+	early
+	late
+	late, overdue
+	hour, hours
+	minute, minutes
+	second, seconds
+	time of departure, departure time
+	will be off at, will be gone by
+	time of arrival, time of reception, reception time
+	will approach at
+COLOMBO	will stay in Colombo for
+	time interval, time limit, it takes, duration
+	during, while
+	to date
+	date of dispatch
+	exposure time (camera)
+	starting time
+	angle, phase (angular)
+	degree
+	minute
+	second
+	right angle
+	orthogonal
+	sky
+	ground, earth
+	place, address
+	to place, to put
+	places, locations
+	address
+	where?
+	anywhere, wherever
+	world
+	lightning
+	lightnings, lightning strike
+	thunder
+	wind
+100km	storm 100km/h
+150km	storm 150km/h
+	cyclone, hurricane
+	ventilation
+	ventilator
+	ground fog, fog
+	low ceiling
+	mountain
+	the mountain
+	mountainous
+	to mount
+	mountains
+	base, basis
+	foot
+	slope
+	summit
+	ridge
+	precipice
+	foot of precipice
+	strata horizontal
+	strata oblique
+	angle
+	syncline
+	anticline
+	mine
+	mining
+	mining
+	valley, plain
+	range, mountain range
+	massif
+m	mountain height 3000m
+,	hill
+,	mound
+	the mountainousness
+	volcano (BPB)
+	volcanic eruption (BPB)
+	rock
+	boulder
+	stone
+	stone
+	the stone
+	to stone
+	stony
+	stones
+	ore
+	ore
+,	rock, boulder
+	sand
+	sand, dirt, powder, dust
+,	dust, powder
+	dust
+	vacuum cleaner
+	vacuuming
+	dust bag
+	clean, cleaning
+	dryclean, drycleaning
+	hole
+	water hole
+	water, moisture
+	the water
+	to water, watering
+	watery
+	waters
+	have watered, watered
+	will water
+	wettable
+	wet
+	rain
+	rain
+	raining
+	rainy
+	snow
+	hail
+	steam, vapour, boiling water
+	the steam, the vapour
+	to boil, boiling
+	steamy
+	puddle, water on ground
+	lake
+	ocean, sea
+	pond
+	puddle
+	drop
+	droplet
+	stream, current
+	river
+	rivulet
+	downpour
+	cloudburst
+	shower
+	drizzle
+	slippery road
+	freshly oiled road
+	water below ground
+	sinking a bore
+	artesian well, spring
+	deliquescence (water to hygroscopic)
+	efflorescence
+	cloud
+	to cloud, clouding
+	cloudy
+	freezing
+	frozen
+	to freeze, freezing
+	refrigerator, fridge
+	ice
+	thawing, defrosting
+	island
+	beach
+	liquid
+	liquid, similar to water
+	weather
+	change
+	to change, to alterate, to mutate, to modulate, to vary, to permutate, varying
+	changed (thing), changing, product, transform
+	changingly, varyingly, mutatingly
+	changeable, variable, mutatable, transformable
+	changed, varied, mutated, alternated, modulated, permutated, transformed
+	to change, to alterate, to mutate, to modulate, to vary, to permutate, to overturn
+	to be changed, to be altered, to be mutated, to be modulated, to be varied, to be permutated, to be overturned
+	the change, the alteration, the mutation, the modulation, the variation, the permutation, version (Unit of Action)
+	transforms
+	to revert (?)
+	development
+	recession
+	changer, alterator, mutator, modulator, variator, permutator, change agent
+	weather forecast
+	wave, waves, signal (?)
+	rough sea
+	umbrella
+	umbrella
+	waterfall
+	water tank, hydrant
+	oil, fat
+	to oil
+	oil (heavier than water kind)
+,	cooking oil, edible oil, vegetable oil
+,	fat
+	fire
+	the fire
+	to burn, sets afire
+	fiery, inflammable
+	inflammable
+	inflammable liquid
+	inflammable gas
+	fires
+	to set fire
+	open fire
+	stove, furnace, energy (?)
+	heat
+	energise (?)
+	electric stove
+	microwave oven
+	stoker
+	amount of energy (?) intensity (?)
+	extinguish
+	flame
+	flame
+	cook, cooking, boiling
+	bake, baking
+	grill, frying
+	heat, hot
+	cold
+	pen, writing tool, writing stick
+	the pen, the pencil
+	to write, writing, fill out
+	penning
+	pens, writing tools
+	the writing, literature (?)
+	written
+	fountain pen
+	ink pen
+	ink
+	writer
+	writing room
+	brief
+	to converse, to communicate
+	shall converse, will converse
+	has conversed
+	sheet of paper, leaf, page, paper, written page
+	the paper (leaf)
+	to paper (to leaf)
+	papery (leafy)
+	papers (leaves)
+	reading
+	to read
+	to be read
+	reader
+	notice
+	spoken story, reading aloud, speech, story for printing
+	printed story, description, report
+	the report
+	reports
+	reporting
+	will report
+	has reported, described
+	reported
+	reporting, to report, to describe
+	paragraph
+	paragraph
+	copy
+	printed copy, reproduction, duplicate
+	a writing
+	written pages
+	memorandum
+	advertising
+	advertisement
+	leaflets on Blissymbols
+	petition (?), paper on names
+	line
+	letter, word
+	letter
+	book, a writing
+	the book
+	books
+	to read, to study
+	chapter
+	chapter
+	book cover, cover of book
+	collection
+	library
+	librarian
+	timetable
+	author, book writer
+	book printer
+	publisher
+	book store, book seller
+	envelope, letter, correspondence
+	mail
+	to mail
+	envelopes
+	messenger
+	parcel, package
+	the parcel
+	parcels
+	to parcel
+	parcel weight
+	parcel fee, parcel cost
+	post card
+	the post card
+	post cards
+	stamp
+	the stamp
+	stamps
+	to stamp
+	stamp fee, postage
+	cancellation
+	telegram, cable, e-mail
+	e-mail
+	to e-mail
+	will e-mail
+	e-mailed
+	airmail
+	money order
+	money cable, funds transfer
+	money cable, funds transfer
+R	registered mail
+	letter box
+	letter box clearance time
+	telegraphist
+	sword, knife, cutter, cutlery
+	the sword
+	to cut, cuts
+	is cut
+	cuts
+	is cut by, to be cut
+	swords, knives
+	to have been cut
+	shall be cut
+	a cut
+	scalpel
+	operation, operations
+	operating table
+Dr	surgeon
+	plough
+	attack
+	attacking
+	to invade
+	steel
+	scissors
+	defence
+	defence
+	defense, defensive
+	harvest
+	war, fight, military
+	war, fight, fighting
+	victory
+	defeat
+	soldier, fighter
+	troops, soldiers, fighters
+	division (16,000 soldiers)
+	civilian
+	militant spirit
+	pacifist spirit
+	peace (not war)
+	war (between states)
+	gun, rifle
+	fire, shoot, goes off
+	pistol, revolver
+	canon
+	machine gun, gun machine
+	wheel, mechanism
+	the wheel
+	to wheel, wheeling
+	wheely, wheel like
+2	bicycle
+	to move
+	movement, motion
+	mobile
+	active
+	movements (?), moves (?)
+	quick, fast
+	slow
+	slowly
+	delay (?), slown
+	prod
+	jerk
+	express
+	push
+	pull
+	to and fro move
+	shake
+	carry, transport, fetch, get
+	carrier, courier
+	shall carry, shall send, shall get
+	has carried, sent, got
+0	standstill
+45m/sec	moving at 45m/s
+	to send off
+	to fetch, to bring
+	cart note, delivery note, delivery docket
+	arrival note, arrival acknowledgement
+	speed
+	speed, velocity
+	electric motion
+	travel, journey
+	to travel, travelling
+	shall travel, will travel, will tour
+	have travelled, travelled, toured
+	traveller, tourist
+	sightseeing tours
+	car, vehicle, motorcar, carriage
+	train
+	railway, rail
+	railway station
+	platform
+	engine
+	electric vehicle, electric car
+	tram, train
+	steam vehicle
+	steam train, steam engine
+	railway engine (BPB)
+	express train (BPB)
+	motor bus
+	bus (BPB)
+	taxi, taxi cabriolet, taxi cab, cab
+	combustion vehicle
+	motor car
+	driving
+	garage
+	service station, petrol station (BPB)
+	tow truck, wreck crane
+	petrol, gasoline
+	dining car
+	sleeping car
+	mail car
+	baggage car
+(I)	first class car
+(II)	second class car, business class car
+(III)	third class car, economy
+	ticket (train or car)
+	ticket
+	ticket (door)
+	ticket (travel)
+	tickets
+	tickets
+	tickets
+	tickets
+	crossing, transverse (?)
+	across
+	across
+	passport
+	passport holder
+	visa, transit visa
+	travel document
+	go and return
+	key
+	keyingly
+	keyable, lockable
+	keyed, locked (adjective)
+	to key, keying, locking
+	to key, keying, locking
+	to be keyed, to be locked
+	shall key
+	did key, did lock
+	been keyed, been locked
+	the key (unit of action)
+	the key
+	keys
+	box, suitcase, hand luggage
+	luggage, baggage
+	cloak room
+	cabin luggage
+	porter
+	bowl, container, vessel, hold
+	the hold, the bowl, the vessel
+	containing, to hold, contains
+	can hold, is holding, capacious
+	containment
+	bowls, vessels
+	contents, load, cargo, freight, filling, collection, accumulation, hoard, store, treasure
+	the holding
+	the holdings
+	full, complete
+	full, completely
+	well, thorough
+	empty
+	overflow, too much
+	enough, sufficient
+	almost
+	satisfaction
+	contentment, rich, fortunate, satisfied
+	contentment in life
+	capacity
+	grip, hold
+	to grip, to hold
+	receive, get, take, pick up, obtain, accept, absorb, acquire, accumulate, collect
+	receivingly
+	receivable
+	received (adjective), accessed (?)
+	to receive, to get, to pick up, to obtain, to accept, to absorb, to acquire, to accumulate, to collect, to fill
+	to receive, receiving
+	to be received (passive)
+	shall receive, will receive
+	did receive, have received, received
+	been receiving
+	the receiver, the reception
+	give, offer, let go, contribute, present, release, award, dispense, issue
+	will give, shall give
+	has given, did give
+	to give, giving, paying
+	to be giving
+	to give
+	given
+	giveable, gettable
+	been given
+	the gift (unit of action)
+	the gift (thing given)
+	to exchange, to change, interchange, substitute, convert, barter, swap, reciprocate
+	exchanged product
+	exchangingly
+	exchangeable
+	exchanged (adjective)
+	to exchange
+	to exchange (active)
+	to be exchanged, exchanged
+	shall exchange
+	did exchange, was exchanged
+	been exchanged
+	the exchange (unit of action)
+	exchangers, converters, swappers
+	squander, dissipate, waste, lavish
+	for, in exchange for, against
+	goods, merchandise
+	reception of goods
+	will receive the goods, reception of goods
+	store house, shed
+	warehouse, store house
+	storeman
+	lend, let, loan, lease
+	borrow, hire, rent, loan
+	book shelf
+	bath
+	bath heater
+	tender
+	stiffening
+	standing
+	person standing
+	to stand
+	weak
+	weak person
+	weak
+	normal, alright
+	knee
+	sit
+	sitter
+	to sit
+	leaning
+	lent
+	will lean
+	lying down, lying
+	lying
+	buried
+	sick
+	the sick, the patient
+	sick
+	sicken, ailing, make sick
+	sickness
+	disease
+	healthy, pretty good, sane
+	hospital
+	stretcher
+	back
+	front
+	buttock, bum, arse
+	genital
+	needy, in need of support
+	needy individual
+	to need
+	needy, necessary
+	need, the need, the necessity
+	helper
+	to help, to support
+	helpful, supportive
+	the help
+	necessity, feeling of need
+	necessity, required
+	thought of necessity
+	need (rational)
+	urge to help
+	conscience urge to help
+	pain, suffering
+	suffered
+	mutual help
+	animal
+	animal
+	domesticated, domestic animal
+	domesticated animal
+	animal of forest, wild animal
+	horse
+,	stallion
+,	mare
+	cattle
+1,	bull
+1,	steer, ox
+	pig
+1	dog
+	dog
+2	cat
+	feline, cat (BCI)
+	cat (?)
+	animal undermining house
+1	mouse
+2	rat
+	insect
+	bee
+	insect feeding on flowers
+	insect undermining house
+1	termite
+2	ant
+	insect undermining crops
+1	locust
+	insect undermining trees
+	insect undermining fabric
+1	moth
+2	silverfish
+	destructive insects
+	destroying insects
+	pesticide, insecticide
+	snail
+	butterfly
+	snake
+	earthworm, worm
+	spider
+	bird
+	doings of a bird
+	domestic bird
+	fowl
+	water bird
+	domestic water bird
+	duck
+	mountain bird
+Chile	mountain bird of Chile
+Canada	bird speciality of Canada
+	forest bird
+	sea bird
+	fish
+	fishes
+	fishy, fish like
+	fish of ocean
+	ocean fish
+	river fish
+Canada	fish of river in Canada
+	mountain river fish
+,	cooked fish
+,	baked fish
+,	grilled fish
+	fishing
+	bacilli
+	bacilli which attack grapes
+	plant
+	flower
+	to flower, flowers
+	flowery
+	flowers
+	garden
+	growth, grows
+	to grow, growth
+	metaphor, figure of speech
+	poetical metaphor, flowery speech
+	young, new, child
+	very young, much young, baby
+	children
+	babies
+	boy
+	baby boy
+	girl
+	baby girl
+	grown up, adult
+	old
+	grass
+	meadow
+	grain, wheat
+,	flour
+	field, crop
+	farm
+	farmer
+	agricultural research station
+	agricultural research
+	vegetables
+1	cabbage
+2	spinach
+3	cauliflower
+4	lettuce
+	fruit
+	apple
+	orange
+	lemon
+	berry
+	strawberry
+	grape
+	grape juice
+OH	wine
+OH	beer
+	underground vegetable
+	potato
+	vegetable, fruit above ground
+	tomato
+	bean
+	pea
+	asparagus
+	cucumber
+	roots
+	mushroom
+	tree
+	trees
+	many trees, grove
+	forest
+	branch
+	tree trunk, trunk
+	bark (?)
+	ringbark (?)
+	wood
+	shrub
+	pine, pine tree
+	park (BPB)
+	electricity, live wire
+	direct current
+	alternating current
+	alternating current
+	radio, wireless
+	radio sets
+	radio cable
+	electrician
+	radio technician, radio electrician, radio technical officer, RTO
+	conducting electricity
+	conducting
+	conductor
+	conductor
+	insulation
+	insulating
+	insulator
+	electrolyte
+	atom
+	atoms
+	molecule
+	molecule
+	ion atom, ion
+	ion molecule, ion
+	cation
+	cation
+	anion
+	anion
+	proton
+	electron
+	positron
+	neutron
+	deuteron
+	hydrogen atom
+222	helium atom
+9292145	uranium 235 atom
+	atomic numbers
+	graph about atomic numbers
+	atomic weight
+	molecular weight
+	valence
+	dopant (?)
+	doped (? adjective)
+	to dope (? active)
+	to be doped (? passive)
+	elements
+	hydrogen, H
+	helium, He
+	lithium, Li
+	beryllium, Be
+	boron, B
+	carbon, C
+	nitrogen, N
+	oxygen, O
+	fluorine, F
+	aluminium, Al
+	silicon, Si
+	phosphorus, P
+	sulphur, S
+	argon, Ar
+	potassium, K
+	calcium, Ca
+	titanium, Ti
+	manganese, Mn
+	iron, Fe
+	nickel, Ni
+	copper, Cu
+	zinc, Zn
+	germanium, Ge
+	arsenic, As
+	tin, Sn
+	neodymium, Nd
+	erbium, Er
+	ytterbium, Yb
+	mercury, Hg
+	lead, Pb
+	radium, Ra
+	uranium, U
+	neptunium, Np
+	plutonium, Pu
+	will be absorbed
+	ejects
+	chemistry, chemical
+	liquid chemical, chemical liquid
+	chemist
+	agricultural chemists
+	chemical symbol
+	chemical analysis
+	the chemical analysis, the analysis
+	analysing
+	will analyse
+	analysed
+	chemical synthesis
+	chemical thing, a chemical, reagent
+	pure chemical
+	chemical process
+	poison
+	organic
+	chemical destroyer
+	destroyer chemical
+	chemical change
+	chemical reaction
+	reversible reaction
+	equilibrium
+	catalyst
+	explosive
+	aerial bomb
+	exothermic reaction
+	endothermic reaction
+	substitute chemical
+	chemical trade
+	chemical industry
+	chemical structure
+	chemical experiment
+H	acid
+OH	base
+	salt
+	salts
+	solid mixed with water (suspension or colloid)
+	colloid
+	colloid
+	suspension
+	sol, colloid in liquid
+	coagulation
+	gel, jelly
+1	starch
+	ash
+	alloy
+	amalgam
+	eutectic alloy
+,	eutectic alloy
+	physics
+	physics
+	physical symbol
+	physical analysis, analysis
+	the physical analysis, the analysis
+	analysing
+	to analyse (active), analyses
+	will analyse
+	analysed
+	physical synthesis
+	force (scientific)
+	force (colloquial)
+	mass
+	gravitation
+	pressure
+	microscope
+	measure, measurement, scale
+	the measure, ruler, finder
+	measuring, to measure
+	measured
+	rulers, tape measures
+	measurable
+	measured property, measured quality
+	property, quality (in science)
+	properties, qualities (in science)
+	range finder
+	exposure meter
+	measuring heat
+	measuring movements
+	physicist
+	to compare
+	did compare, compared
+	than
+	compared
+	diameter
+	circular area, cross sectional area
+	structure
+	physical structure
+	parallel
+	parallel
+	vertical, upright
+	this side up
+	horizontal
+	rectangle
+	parallelogram
+3	tesseral system
+	tesseral (axis perspective)
+	rhombic
+	cube, box, container, case, tesseral
+	quadrangular prism
+	pyramid
+	cylinder, drum
+	cone
+	conical
+	tin, cylinder
+	bag, sack
+	bottle
+	bottled water
+CO2	carbonated water, soda, soda water
+	milk
+OH	alcohol (bottled)
+	point, pixel
+	line, wire
+	straight pole, straight rod, straight bar, straight stick, rod, bar, pole, stick
+	to straighten
+	straight
+	self, itself
+	other, others, al.
+	any other
+2	another
+	graph, plot
+	graphing, plotting
+	x axis, x-axis
+	y axis, y-axis
+	x and y axis, x & y axis
+	plane
+	plane
+	space
+	limit, interval, spatial limit
+	to repeat, duplicate, to copy
+	repeated, repetition
+	repeatedly
+	repeated it
+	will repeat
+	again
+	limit, limits
+	limits, frontiers
+	to limit
+	limited
+	limited
+	within, between, during, while
+	big, tall, large, bulk
+	expansion, vertically increase, larger, zooms, expands
+	expanded
+	expansion of metals by heat
+	small
+	contraction
+	long, range
+	lengthen, stretch, horizontally increase
+	long
+	the length
+m	length in metres
+250m	length: 250m, distance: 250m
+40km	length: 40km, distance: 40km
+	extension, extended
+	short
+	high, tall, height
+	highest, high
+	the height, amplitude
+	the heights, amplitudes
+	much high, quite high
+	higher, more high, upper
+	highest, most high
+	low
+	lowest, low
+	lower
+	lowest
+	far
+	furthest
+	near, about
+	local (adjective)
+	nearness
+	environment
+	nearer
+	nearest
+	as, like, similar, near equal, equivalent to, approximately
+	deep
+	the deep, abyss, chasm
+	deep
+	deepen
+	deepened
+	shallow
+	shallow
+	wide, broad
+	wide
+	to widen
+	to widen
+	to be widened
+	the width, size
+25cm	width: 25cm
+	narrow
+	thick
+25cm	thickness: 25cm
+	thin
+	together
+	together
+	togetherness
+	between, within
+	agent, go-between
+	commission, brokerage
+	interjacenoe, interjection
+	above, over
+	above, over
+	to make above
+	superiority
+	below, under
+	before, in front, ago
+	after, behind
+	in, inside
+	in, inside
+	to insert, to include, including
+	in
+	out, outside
+	out, outside
+	to eject, except
+	outsider
+	superior man
+	inferior man
+	broken line
+	tool for breaking
+	breaker
+	breakingly
+	brittle, breakable
+	broken
+	to break
+	to break, breaks down
+	to be broken
+	shall break
+	did break
+	been broken
+	the break
+	the breakage
+	the break
+	the breaking
+1	the break
+	the breakage
+	table, platform, stage
+	the table
+	tables
+	to table
+	table top, tabletop
+	board-plate
+	edge
+	edges, fringes (?)
+	corner
+	leg
+	leg end
+	joist
+	adjustable table
+	chair, seat
+	the chair
+	chairs
+	to sit, to seat, sitting
+	furniture
+	couch, lounge, easy chair
+	the lounge
+	lounges
+	lounge room
+	sofa
+	bed
+	the bed
+	beds
+	mattress
+	headrest, headboard
+	bed linen, bedding
+	blanket
+	blankets
+	pillow, cushion
+	bed number
+	chest of drawers
+	chest of drawers
+	drawer
+	wardrobe
+	the wardrobe
+	wardrobes
+	shelf
+	the shelf
+	to shelve
+	shelves
+	window
+	the window
+	windows
+	no leaning out of the window
+	punishment, prison window, imprisonment
+	prison bars
+	will be imprisoned
+	prison, goal
+	prisoner, criminal
+	criminal, thief, bandit, bushranger
+	captive, prisoner (of any kind)
+	captive, captivity
+	to captivate, to capture
+	a captive, a prisoner
+	prisoner of war, POW
+	escape
+	fabric
+	to weave
+	table cloth
+	carpet
+	clothes, dress, attire
+	clothes for man, menswear
+	clothes for woman, women's clothing, womenswear
+	clothes for young, children's wear, childrenswear
+	clothes for babies, babywear, baby clothes
+	against rain
+	raincoat
+	overcoat
+	underwear
+	trousers
+	socks
+	stockings
+	shoe
+	shirt, life vest
+	collar
+	towel
+	laundry
+	hat
+	hats
+	to wear a hat
+	ribbon, band
+	tie
+	scales, balance, weight
+	the scales
+	scales (pl)
+	to weigh
+	to judge, verdict
+	judge
+12	jury
+	bill, law, Act
+	lawyer (?), attorney (?)
+,	steal, rob, pilfer, loot, sack, plunder, pillage, ransack, burgle, cheat, swindle, defraud
+	court
+	guilty
+	decimal scales
+	unit of weight
+	heavy
+	light
+	fulcrum
+	weight (simplified)
+	equal weight
+	heavy (colloquial)
+	light (colloquial)
+1ccm	specific weight
+	area, surface
+	areas
+	volume
+	volumes
+	density
+	friction
+	sheave (on a pulley)
+	power
+	amplifier (?)
+	amplifier (electrical symbol)
+	amplified (adjective)
+	buoyancy
+	to make buoyant
+	buoyant
+	capillarity
+	siphon
+	hydraulic press and principle
+	engineering tolerance, tolerance
+	compass
+	the compass
+	geometry of house
+	geometry
+2	2-dimensional geometry
+	geometry of table
+	geometry of table edge
+	geometrical shape of table edge: round
+	geometry of eye
+	iris
+	pupil
+2	right angled triangle
+2	equilateral triangle
+2	square
+	square
+3	cube
+	cube
+	cube
+2	circle
+	circle
+	circular, disk, plate
+	to circle
+	circular
+	circular, dial
+3	sphere
+	sphere
+	sphere
+	spherical, globe, ball, sphere
+	rounden
+	spherical, round
+	ring, rings
+	pipe
+	plumber
+	hammer
+	to hammer, hammering
+	hammered, did hammer
+	shall hammer
+	would hammer
+	would have hammered
+	would hammer, may hammer
+	being hammered
+	shall be hammered
+	having been hammered
+	hammerable
+	hammered
+	the hammering
+	smith, blacksmith
+	anvil
+	pliers, pair of pliers
+	screw
+	screwdriver, screw driver
+	nail
+	to nail
+	nail like
+	pin
+	needle
+	to sew, to needle
+	needle like
+	seamstress
+	tailor
+	sewing machine
+	comb
+	comb (with handle)
+	brush
+	brush (vertical handle)
+	brush (with side handle)
+	toothbrush
+	saw
+	circular saw
+	iron, press
+	spoon
+	fork
+	small pot, beaker, small container
+	pot, handled pot
+	handled pot, pot with handles
+	pot with water
+	vessel with water, pot with water
+	pot with liquid, vessel with liquid
+	large pan, pan
+	small pan
+	lid
+	teapot
+	glass, wine glass, glassware, drink glass
+	glass of orange juice
+	glass of tomato juice
+OH	alcoholic drink, drinks
+-OH	soft drinks, cool drinks
+	crockery, plate, dish
+	serve
+	soup
+	mincing machine
+	hook, hanger
+	to hang, hangs
+	hung
+	right corner
+	left corner
+	right
+	left
+	seed, seeds
+	steamer, boat, ship, vessel
+	to ship, shipping
+	sailing ship
+	the shipping, the shipment
+	ship wreck
+	life boat, row boat, rowing boat
+	destroyer, warship
+	life boat
+	life boat number 3
+	to stairs and life boat 2
+	life jacket, life vest
+	life belt
+	float
+	floating
+	afloat
+	sail
+	pennant
+	bow
+	fore-deck, forecastle
+	stern
+	after-deck, quarter-deck
+	midships
+	bottom
+	keel
+	funnel
+	below deck, inside ship
+	embarkation
+	disembarkation
+	embarkation starting time
+	harbour
+	wharf, harbour (BPB)
+	harbour wharf number 3 (BPB)
+	dock
+	lock, sluice
+	deck number 2
+	sailor
+3	third officer
+1	skipper, captain
+1	captain's table
+	ship engine
+1	first engineer
+	steering wheel
+	steeringly
+	steerable
+	steered
+	to steer, steering
+	to steer (active)
+	to be steered
+	shall steer
+	did steer
+	been steered
+	the steering (unit of action)
+	the steering wheel
+	steering room
+	boiler room
+	stairs
+	to climb stairs, to use stairs
+	up stairs
+	down stairs
+	change
+	double bend
+	toll bar, customs
+	customs
+	duty, toll, customs duty
+	road bridge
+	road under repair
+	bridge
+	to bridge
+	United States of America
+	Great Britain, The United Kingdom, British
+	Australia, Australian
+	New Zealand
+	France, French
+	door
+	entrance, IN, reception
+	exit, OUT
+	curtain
+	curtains
+	fire exit
+	fire stairs
+	fire escape
+	room, compartment, cabin
+	ceiling
+	ceiling covering, ceiling
+	wall
+	wall covering, wallpaper
+	corner
+	floor
+	floor covering
+	room open to street, shop front
+	shopping centre (BPB)
+	room number, cabin number
+	bar
+	dining room
+	cable office
+	bath room, bathroom
+	shower, shower room
+(I)	first class compartment
+	men's room, male toilet, room for man, gents
+	women's toilet, female toilet, room for ladies, ladies toilet
+	room maid, hotel cleaner
+	steward
+	bedroom
+	double bed room
+	cabin with 4 beds, 4 bunk room
+	no admittance
+	lift, elevator
+	engine room
+	machine, motor
+	machines, motors
+	electric machine
+	duplicator, copier
+	photocopier, printing machine
+	typewriter
+	printer
+	computer, processor (?)
+	laptop computer (?)
+abc	computer keyboard (?)
+	computer joystick (? FSBW)
+	computer screen (?), display (?)
+	computer touch screen (?)
+	internet
+	pointing device (?)
+	mouse (computer FSBW?)
+	trackball (?)
+	eye tracker, eye mouse (FSBW?)
+	mechanic
+	wings, to fly, air
+	to fly
+	flying
+	wing
+	feather
+	feather
+	to feather
+	aircraft, flying machine
+	air-plane, aeroplane, plane
+	jet plane, jet
+	jumbo jet
+	airport
+	plane crash
+	pilot, flyer, airman
+	curved thing, bow
+	curved, bent, warped (?)
+	to curve, to bend
+	around, about
+	turn, rotate, gyrate
+	turning, rotating, to turn, to dial
+1	1 turn
+	1 turn, 1 rotation
+	have turned
+	will turn, shall turn
+	the turning, the rotating
+1	the turn, the rotation
+	jump
+	swing
+	swinging, oscillating
+	overtake
+	overtaking
+	mixing, mix
+	the mixing
+	mixer
+	mixer
+	mixture
+	to mix, mixing
+	to actively mix, to interfere (?)
+	to be mixed, to passively mix
+	have mixed, mixed
+	would have mixed
+	shall mix
+	would now mix
+	could mix
+	a mixture, interference (?)
+	mixture like
+	mixingly
+	mixingly
+	mixable
+	mixable
+	mixed
+	mixed
+	the mixture likeness
+	the mixingness
+	the mixability
+	the mixedness
+	mixed liquid
+	circling, circulate
+	the circle
+	to circle
+	will circle
+	circled, circling
+	wavelength
+	frequency (?), band (?)
+	frequencies (?), bands (?)
+	resonator (?)
+	resonate (?)
+	resistor
+	resistance
+	potentiometer
+	capacitor
+	shielded capacitor
+	varcap
+	storage cell
+	electric cell
+	battery
+	electrolysis (colloquial)
+	electrolysis
+	anode
+	cathode
+	electro-plating
+	alternator, AC motor
+	generator, DC motor
+	switch
+	double throw switch
+a	ampere-meter
+V	Voltmeter
+VA	multimeter
+f	frequency meter
+	ear phones, head phones
+	button (electric)
+	buttons
+	electrodynamics
+	electrostatics
+Fe	electromagnetic waves
+Fe	magnetism
+Fe	magnet
+Fe	pole
+F	line of field of magnetic force, fields
+	line of field of electric force, electric field, field
+	lines of field of electric force, electric fields, fields
+	electroscope
+	spark gap
+	multiplexer (basic?)
+	multiplexer (electronic)
+	multiplexer
+	to multiplex, multiplexing
+	multiplexingly
+	multiplexable
+	to multiplex
+	to be multiplexed
+	shall multiplex
+	did multiplex
+	the multiplex
+	demultiplexer (basic?)
+	demultiplexer (electronic)
+	demultiplexer
+	to demultiplex, demultiplexing
+	polarisation
+	polarise
+	polarising (?)
+	lens, magnifier
+	lens iris (camera)
+	focus
+	focusing
+	plain concave lens
+	parabolic reflector
+	mirror, mirror plane
+	refraction
+	spectrum
+	ray
+	rays
+	beam (?)
+	optical fibre (?), fibre (?)
+	mode, ray path (?)
+	the mode (?)
+	modes (?)
+	modal (?)
+	single mode, 1 ray path (?)
+	multi-mode, multi ray path (?)
+	quadrature 1 (?)
+	quadrature 2 (?)
+	quadrature 3 (?)
+	quadrature 4 (?)
+	coherent (?)
+NaCl	salt
+NaCl	to salt
+	table, grid of data (?)
+	claw (GS)
+	swan (GS)
+	penguin (GS)
+	pelican (GS)
+	gull (GS)
+	goose (GS)
+	wild bird (GS)
+	vulture (GS)
+	turkey (GS)
+	song bird (GS)
+	peacock (GS)
+	parrot (GS)
+,	parakeet (GS)
+	owl (GS)
+	protected bird (GS)
+	emu (GS)
+	hawk (GS)
+	chook, chicken (GS)
+	rabbit (GS)
+	hair (GS)
+	barber (GS)
+	barber shop (GS)
+	shampoo (GS)
+	beard (GS)
+	shaving cream, shaving soap (GS)
+	to shave (GS)
+	shaver, razor (GS)

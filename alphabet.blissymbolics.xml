@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alphabets SYSTEM "alphabet.dtd">
+<?xml-stylesheet type="text/xsl" href="alphabet.xsl"?>
+<alphabets>
+<alphabet name="Blissymbolics">
+<orientation type="LR"/>
+<encoding type="Western"/>
+<palette>European/Asian</palette>
+<train>training_blissymbolics.txt</train>
+<space d="&#x25a1;" t=" "  b="9"/>
+<control d="Control" t=""/>
+<paragraph d="&#182;" b="9"/>
+<group name="Lower case Latin letters" b="0">
+<s d="a" t="a" b="10"/>
+<s d="b" t="b" b="11"/>
+<s d="c" t="c" b="12"/>
+<s d="d" t="d" b="13"/>
+<s d="e" t="e" b="14"/>
+<s d="f" t="f" b="15"/>
+<s d="g" t="g" b="16"/>
+<s d="h" t="h" b="17"/>
+<s d="i" t="i" b="18"/>
+<s d="j" t="j" b="19"/>
+<s d="k" t="k" b="20"/>
+<s d="l" t="l" b="21"/>
+<s d="m" t="m" b="22"/>
+<s d="n" t="n" b="23"/>
+<s d="o" t="o" b="24"/>
+<s d="p" t="p" b="25"/>
+<s d="q" t="q" b="26"/>
+<s d="r" t="r" b="27"/>
+<s d="s" t="s" b="28"/>
+<s d="t" t="t" b="29"/>
+<s d="u" t="u" b="30"/>
+<s d="v" t="v" b="31"/>
+<s d="w" t="w" b="32"/>
+<s d="x" t="x" b="33"/>
+<s d="y" t="y" b="34"/>
+<s d="z" t="z" b="35"/>
+</group>
+<group name="Upper case Latin letters" b="111">
+<s d="A" t="A" b="10"/>
+<s d="B" t="B" b="11"/>
+<s d="C" t="C" b="12"/>
+<s d="D" t="D" b="13"/>
+<s d="E" t="E" b="14"/>
+<s d="F" t="F" b="15"/>
+<s d="G" t="G" b="16"/>
+<s d="H" t="H" b="17"/>
+<s d="I" t="I" b="18"/>
+<s d="J" t="J" b="19"/>
+<s d="K" t="K" b="20"/>
+<s d="L" t="L" b="21"/>
+<s d="M" t="M" b="22"/>
+<s d="N" t="N" b="23"/>
+<s d="O" t="O" b="24"/>
+<s d="P" t="P" b="25"/>
+<s d="Q" t="Q" b="26"/>
+<s d="R" t="R" b="27"/>
+<s d="S" t="S" b="28"/>
+<s d="T" t="T" b="29"/>
+<s d="U" t="U" b="30"/>
+<s d="V" t="V" b="31"/>
+<s d="W" t="W" b="32"/>
+<s d="X" t="X" b="33"/>
+<s d="Y" t="Y" b="34"/>
+<s d="Z" t="Z" b="35"/>
+</group>
+<group name="Numbers" b="113">
+<s d="1" t="1" b="90"/>
+<s d="2" t="2" b="91"/>
+<s d="3" t="3" b="92"/>
+<s d="4" t="4" b="93"/>
+<s d="5" t="5" b="94"/>
+<s d="6" t="6" b="90"/>
+<s d="7" t="7" b="91"/>
+<s d="8" t="8" b="92"/>
+<s d="9" t="9" b="93"/>
+<s d="0" t="0" b="94"/>
+</group>
+<group name="Punctuation" b="112">
+<s b="90" d="%" t="%"/>
+<s b="91" d="*" t="*"/>
+<s b="92" d="+" t="+"/>
+<s b="93" d="=" t="="/>
+<s b="94" d="/" t="/"/>
+<s b="95" d="#" t="#"/>
+<s d="&#8364;" t="&#8364;" b="96" note="euro" />
+<s b="97"  d="&#163;" t="&#163;" note="Pound" />
+<s b="98" d="$" t="$"/>
+<s b="99" d="|" t="|"/>
+<s b="95" d="\" t="\"/>
+<s b="96" d="~" t="~"/>
+<s b="97" d="^" t="^"/>
+<s b="98" d="_" t="_"/>
+<s b="99" d="&amp;" t="&amp;"/> 
+<s b="95" d="@" t="@"/>
+<s b="105" d="[" t="["/>
+<s b="106" d="]" t="]"/>
+<s b="107" d="{" t="{"/>
+<s b="108" d="}" t="}"/>
+<s b="109" d="&lt;" t="&lt;"/>
+<s b="105" d="&gt;" t="&gt;"/>
+<s b="106" d="(" t="("/>
+<s b="107" d=")" t=")"/>
+<s b="108" d="&#x201C;" t="&#x201C;" note="left double quotation mark" />
+<s b="109" d="&#x0022;" t="&#x0022;" note="deprecated vertical double quotation mark" />
+<s b="106" d="&#x201D;" t="&#x201D;" note="right double quotation mark" />
+<s b="107" d="&#x2018;" t="&#x2018;" note="left single quotation mark" />
+<s b="108" d="&#x2019;" t="&#x2019;" note="right single quotation mark and apostrophe" />
+<s b="109" d="`" t="`" note="left quote from keyboard" />
+<s b="105" d="&#x25cc;&#x0313;" t="&apos;" note=" apostrophe"/>
+<s b="9"  d="&#x25CA;" t="&#x9;" note="TAB (represented by a diamond)"/>
+<s b="100" d="-" t="-"/>
+<s b="101" d=":" t=":"/>
+<s b="102" d=";" t=";"/>
+<s b="103" d="?" t="?"/>
+<s b="104" d="!" t="!"/>
+<s b="100" d="," t=","/>
+<s d="&#183;" t="." b="104"/>
+</group>
+<group name="Bliss space letters" b="10">
+<s d="&#xE100;" t="&#xE100;" b="120" note="BLISS_SPACE" />
+<s d="&#xE101;" t="&#xE101;" b="121" note="BLISS_HSPACE" />
+<s d="&#xE102;" t="&#xE102;" b="122" note="BLISS_QTRSPACE" />
+<s d="&#xE103;" t="&#xE103;" b="123" note="BLISS_EIGHTHSP" />
+<s d="&#xE104;" t="&#xE104;" b="124" note="BLISS_FIVEFORTYEIGHTHSP" />
+<s d="&#xE105;" t="&#xE105;" b="125" note="BLISS_FORTYEIGHTHSP" />
+</group>
+<group name="Bliss modifiers" b="11">
+<s d="&#xE106;" t="&#xE106;" b="126" note="BLISS_THING" />
+<s d="&#xE107;" t="&#xE107;" b="127" note="BLISS_ACTION" />
+<s d="&#xE108;" t="&#xE108;" b="128" note="BLISS_EVALUATION" />
+<s d="&#xE109;" t="&#xE109;" b="129" note="BLISS_SKY_LOCATION" />
+<s d="&#xE10A;" t="&#xE10A;" b="130" note="BLISS_PASSIVE" />
+<s d="&#xE10B;" t="&#xE10B;" b="131" note="BLISS_ACTIVE" />
+<s d="&#xE10C;" t="&#xE10C;" b="132" note="BLISS_PAST_TENSE" />
+<s d="&#xE10D;" t="&#xE10D;" b="133" note="BLISS_FUTURE_TENSE" />
+<s d="&#xE10E;" t="&#xE10E;" b="134" note="BLISS_MULTIPLE" />
+<s d="&#xE10F;" t="&#xE10F;" b="135" note="BLISS_UNKNOWN" />
+</group>
+<group name="Bliss symbols" b="12">
+<s d="&#xE110;" t="&#xE110;" b="142" note="BLISS_PERIOD_SKY" />
+<s d="&#xE111;" t="&#xE111;" b="144" note="BLISS_PERIOD_UPPER" />
+<s d="&#xE112;" t="&#xE112;" b="145" note="BLISS_PERIOD_MID" />
+<s d="&#xE113;" t="&#xE113;" b="146" note="BLISS_PERIOD_LOWER" />
+<s d="&#xE114;" t="&#xE114;" b="147" note="BLISS_PERIOD_GROUND" />
+<s d="&#xE115;" t="&#xE115;" b="149" note="BLISS_PERIOD_BELOW_GND" />
+<s d="&#xE116;" t="&#xE116;" b="140" note="BLISS_LINE_QTR_VERT_SPACE" />
+<s d="&#xE117;" t="&#xE117;" b="141" note="BLISS_LINE_QTR_VERT_ASKY" />
+<s d="&#xE118;" t="&#xE118;" b="142" note="BLISS_LINE_QTR_HORIZ_SKY" />
+<s d="&#xE119;" t="&#xE119;" b="142" note="BLISS_LINE_QTR_VERT_SKY" />
+<s d="&#xE11A;" t="&#xE11A;" b="144" note="BLISS_LINE_QTR_HORIZ_UPPER" />
+<s d="&#xE11B;" t="&#xE11B;" b="144" note="BLISS_LINE_QTR_VERT_UPPER" />
+<s d="&#xE11C;" t="&#xE11C;" b="145" note="BLISS_LINE_QTR_HORIZ_MID" />
+<s d="&#xE11D;" t="&#xE11D;" b="145" note="BLISS_LINE_QTR_VERT_MID" />
+<s d="&#xE11E;" t="&#xE11E;" b="146" note="BLISS_LINE_QTR_HORIZ_LOWER" />
+<s d="&#xE11F;" t="&#xE11F;" b="146" note="BLISS_LINE_QTR_VERT_LOWER" />
+<s d="&#xE120;" t="&#xE120;" b="147" note="BLISS_LINE_QTR_HORIZ_GND" />
+<s d="&#xE121;" t="&#xE121;" b="147" note="BLISS_LINE_QTR_VERT_GND" />
+<s d="&#xE122;" t="&#xE122;" b="148" note="BLISS_LINE_QTR_HORIZ_JBGND" />
+<s d="&#xE123;" t="&#xE123;" b="149" note="BLISS_LINE_QTR_VERT_BGND" />
+<s d="&#xE124;" t="&#xE124;" b="149" note="BLISS_LINE_QTR_HORIZ_BGND" />
+<s d="&#xE125;" t="&#xE125;" b="141" note="BLISS_LINE_QTR_OBLIQUE_ASKY_DEC" />
+<s d="&#xE126;" t="&#xE126;" b="141" note="BLISS_LINE_QTR_OBLIQUE_ASKY_INC" />
+<s d="&#xE127;" t="&#xE127;" b="142" note="BLISS_LINE_QTR_OBLIQUE_SKY_DEC" />
+<s d="&#xE128;" t="&#xE128;" b="142" note="BLISS_LINE_QTR_OBLIQUE_SKY_INC" />
+<s d="&#xE129;" t="&#xE129;" b="143" note="BLISS_LINE_QTR_OBLIQUE_BSKY_INC" />
+<s d="&#xE12A;" t="&#xE12A;" b="144" note="BLISS_LINE_QTR_OBLIQUE_UPR_DEC" />
+<s d="&#xE12B;" t="&#xE12B;" b="144" note="BLISS_LINE_QTR_OBLIQUE_UPR_INC" />
+<s d="&#xE12C;" t="&#xE12C;" b="146" note="BLISS_LINE_QTR_OBLIQUE_LWR_DEC" />
+<s d="&#xE12D;" t="&#xE12D;" b="146" note="BLISS_LINE_QTR_OBLIQUE_LWR_INC" />
+<s d="&#xE12E;" t="&#xE12E;" b="147" note="BLISS_LINE_QTR_OBLIQUE_GND_DEC" />
+<s d="&#xE12F;" t="&#xE12F;" b="147" note="BLISS_LINE_QTR_OBLIQUE_GND_INC" />
+<s d="&#xE130;" t="&#xE130;" b="149" note="BLISS_LINE_QTR_OBLIQUE_BGND_DEC" />
+<s d="&#xE131;" t="&#xE131;" b="149" note="BLISS_LINE_QTR_OBLIQUE_BGND_INC" />
+<s d="&#xE132;" t="&#xE132;" b="150" note="BLISS_LINE_QTR_OBLIQUE_CORE_DEC" />
+<s d="&#xE133;" t="&#xE133;" b="150" note="BLISS_LINE_QTR_OBLIQUE_CORE_INC" />
+<s d="&#xE134;" t="&#xE134;" b="142" note="BLISS_QTR_CIRCLE_SML_SKY_TLH" />
+<s d="&#xE135;" t="&#xE135;" b="142" note="BLISS_QTR_CIRCLE_SML_SKY_TRH" />
+<s d="&#xE136;" t="&#xE136;" b="142" note="BLISS_QTR_CIRCLE_SML_SKY_BLH" />
+<s d="&#xE137;" t="&#xE137;" b="142" note="BLISS_QTR_CIRCLE_SML_SKY_BRH" />
+<s d="&#xE138;" t="&#xE138;" b="147" note="BLISS_QTR_CIRCLE_SML_GND_TLH" />
+<s d="&#xE139;" t="&#xE139;" b="147" note="BLISS_QTR_CIRCLE_SML_GND_TRH" />
+<s d="&#xE13A;" t="&#xE13A;" b="147" note="BLISS_QTR_CIRCLE_SML_GND_BLH" />
+<s d="&#xE13B;" t="&#xE13B;" b="147" note="BLISS_QTR_CIRCLE_SML_GND_BRH" />
+<s d="&#xE13C;" t="&#xE13C;" b="141" note="BLISS_SEMI_CIRCLE_VSML_ASKY_LFT" />
+<s d="&#xE13D;" t="&#xE13D;" b="147" note="BLISS_SEMI_CIRCLE_VSML_GND_TOP" />
+<s d="&#xE13E;" t="&#xE13E;" b="149" note="BLISS_SEMI_CIRCLE_VSML_BGND_LFT" />
+<s d="&#xE13F;" t="&#xE13F;" b="142" note="BLISS_PAST_HALF_SKY" />
+<s d="&#xE140;" t="&#xE140;" b="142" note="BLISS_FUTURE_HALF_SKY" />
+<s d="&#xE141;" t="&#xE141;" b="144" note="BLISS_WATER_HALF_MID_UPPER" />
+<s d="&#xE142;" t="&#xE142;" b="146" note="BLISS_WATER_HALF_MID_LOWER" />
+<s d="&#xE143;" t="&#xE143;" b="145" note="BLISS_PAST_HALF_MID" />
+<s d="&#xE144;" t="&#xE144;" b="147" note="BLISS_PAST_HALF_GROUND" />
+<s d="&#xE145;" t="&#xE145;" b="147" note="BLISS_FUTURE_HALF_GROUND" />
+<s d="&#xE146;" t="&#xE146;" b="149" note="BLISS_PAST_HALF_BELOWGND" />
+<s d="&#xE147;" t="&#xE147;" b="149" note="BLISS_FUTURE_HALF_BELOWGND" />
+<s d="&#xE148;" t="&#xE148;" b="150" note="BLISS_FUTURE_HALF_CORE" />
+<s d="&#xE149;" t="&#xE149;" b="142" note="BLISS_HLF_OBLIQUE_LINE_SKY_TLBR" />
+<s d="&#xE14A;" t="&#xE14A;" b="142" note="BLISS_HLF_OBLIQUE_LINE_SKY_TRBL" />
+<s d="&#xE14B;" t="&#xE14B;" b="145" note="BLISS_HLF_OBLIQUE_LINE_MID_TLBR" />
+<s d="&#xE14C;" t="&#xE14C;" b="145" note="BLISS_HLF_OBLIQUE_LINE_MID_TRBL" />
+<s d="&#xE14D;" t="&#xE14D;" b="147" note="BLISS_HLF_OBLIQUE_LINE_GND_TLBR" />
+<s d="&#xE14E;" t="&#xE14E;" b="147" note="BLISS_HLF_OBLIQUE_LINE_GND_TRBL" />
+<s d="&#xE14F;" t="&#xE14F;" b="149" note="BLISS_HLF_OBLIQUE_LNE_BGND_TLBR" />
+<s d="&#xE150;" t="&#xE150;" b="149" note="BLISS_HLF_OBLIQUE_LNE_BGND_TRBL" />
+<s d="&#xE151;" t="&#xE151;" b="142" note="BLISS_QTR_CIRCLE_SKY_BLH" />
+<s d="&#xE152;" t="&#xE152;" b="142" note="BLISS_QTR_CIRCLE_SKY_TRH" />
+<s d="&#xE153;" t="&#xE153;" b="142" note="BLISS_QTR_CIRCLE_SKY_TLH" />
+<s d="&#xE154;" t="&#xE154;" b="142" note="BLISS_QTR_CIRCLE_SKY_BRH" />
+<s d="&#xE155;" t="&#xE155;" b="147" note="BLISS_QTR_CIRCLE_GND_BLH" />
+<s d="&#xE156;" t="&#xE156;" b="147" note="BLISS_QTR_CIRCLE_GND_TRH" />
+<s d="&#xE157;" t="&#xE157;" b="147" note="BLISS_QTR_CIRCLE_GND_TLH" />
+<s d="&#xE158;" t="&#xE158;" b="147" note="BLISS_QTR_CIRCLE_GND_BRH" />
+<s d="&#xE159;" t="&#xE159;" b="149" note="BLISS_QTR_CIRCLE_BLWGND_BLH" />
+<s d="&#xE15A;" t="&#xE15A;" b="149" note="BLISS_QTR_CIRCLE_BLWGND_TRH" />
+<s d="&#xE15B;" t="&#xE15B;" b="145" note="BLISS_SEMI_CIRCLE_SML_MID_LEFT" />
+<s d="&#xE15C;" t="&#xE15C;" b="145" note="BLISS_SEMI_CIRCLE_SML_MID_TOP" />
+<s d="&#xE15D;" t="&#xE15D;" b="145" note="BLISS_SEMI_CIRCLE_SML_MID_BTM" />
+<s d="&#xE15E;" t="&#xE15E;" b="147" note="BLISS_SEMI_CIRCLE_SML_GND_TOP" />
+<s d="&#xE15F;" t="&#xE15F;" b="147" note="BLISS_SEMI_CIRCLE_SML_GND_BTM" />
+<s d="&#xE160;" t="&#xE160;" b="141" note="BLISS_ACTION_ABOVESKY" />
+<s d="&#xE161;" t="&#xE161;" b="155" note="BLISS_PAST" />
+<s d="&#xE162;" t="&#xE162;" b="155" note="BLISS_FUTURE" />
+<s d="&#xE163;" t="&#xE163;" b="142" note="BLISS_WATER_SKY" />
+<s d="&#xE164;" t="&#xE164;" b="147" note="BLISS_WATER_GROUND" />
+<s d="&#xE165;" t="&#xE165;" b="149" note="BLISS_WATER_BELOWGND" />
+<s d="&#xE166;" t="&#xE166;" b="141" note="BLISS_SEMI_CIRCLE_ABOVESKY_TOP" />
+<s d="&#xE167;" t="&#xE167;" b="141" note="BLISS_CIRCLE_SML_ABOVESKY" />
+<s d="&#xE168;" t="&#xE168;" b="149" note="BLISS_CIRCLE_SML_BELOWGND" />
+<s d="&#xE169;" t="&#xE169;" b="142" note="BLISS_FIRE_SKY" />
+</group>
+<group name="Bliss numbers" b="13">
+<s d="&#xE16A;" t="&#xE16A;" b="142" note="BLISS_SKY_ONE" />
+<s d="&#xE16B;" t="&#xE16B;" b="144" note="BLISS_UPPER_ZERO" />
+<s d="&#xE16C;" t="&#xE16C;" b="144" note="BLISS_UPPER_ONE" />
+<s d="&#xE16D;" t="&#xE16D;" b="144" note="BLISS_UPPER_TWO" />
+<s d="&#xE16E;" t="&#xE16E;" b="144" note="BLISS_UPPER_THREE" />
+<s d="&#xE16F;" t="&#xE16D;" b="144" note="BLISS_UPPER_FOUR" />
+<s d="&#xE170;" t="&#xE170;" b="145" note="BLISS_MID_ZERO" />
+<s d="&#xE171;" t="&#xE171;" b="145" note="BLISS_MID_ONE" />
+<s d="&#xE172;" t="&#xE172;" b="145" note="BLISS_MID_TWO" />
+<s d="&#xE173;" t="&#xE173;" b="145" note="BLISS_MID_THREE" />
+<s d="&#xE174;" t="&#xE174;" b="145" note="BLISS_MID_FOUR" />
+<s d="&#xE175;" t="&#xE175;" b="145" note="BLISS_MID_FIVE" />
+<s d="&#xE176;" t="&#xE176;" b="145" note="BLISS_MID_SIX" />
+<s d="&#xE177;" t="&#xE177;" b="145" note="BLISS_MID_SEVEN" />
+<s d="&#xE178;" t="&#xE178;" b="145" note="BLISS_MID_EIGHT" />
+<s d="&#xE179;" t="&#xE179;" b="145" note="BLISS_MID_NINE" />
+<s d="&#xE17A;" t="&#xE17A;" b="147" note="BLISS_GND_ZERO" />
+</group>
+<group name="Bliss complex symbols" b="14">
+<s d="&#xE17B;" t="&#xE17B;" b="157" note="BLISS_DEGREE" />
+<s d="&#xE17C;" t="&#xE17C;" b="157" note="BLISS_WHEEL_SPOKES" />
+<s d="&#xE17D;" t="&#xE17D;" b="157" note="BLISS_EXCLAIMATION" />
+<s d="&#xE17E;" t="&#xE17E;" b="157" note="BLISS_PERCENT" />
+<s d="&#xE17F;" t="&#xE17F;" b="157" note="BLISS_QUESTION" />
+<s d="&#xE180;" t="&#xE180;" b="140" note="BLISS_LINE_QTR_HORIZ_SPACE" />
+<s d="&#xE181;" t="&#xE181;" b="141" note="BLISS_LINE_QTR_HORIZ_ASKY" />
+<s d="&#xE182;" t="&#xE182;" b="150" note="BLISS_LINE_QTR_VERT_CORE" />
+<s d="&#xE183;" t="&#xE183;" b="150" note="BLISS_LINE_QTR_HORIZ_CORE" />
+<s d="&#xE184;" t="&#xE184;" b="150" note="BLISS_HLF_OBLIQUE_LNE_CORE_TLBR" />
+<s d="&#xE185;" t="&#xE185;" b="150" note="BLISS_HLF_OBLIQUE_LNE_CORE_TRBL" />
+<s d="&#xE186;" t="&#xE186;" b="158" note="BLISS_WHEEL_SPOKES_MID" />
+<s d="&#xE187;" t="&#xE187;" b="147" note="BLISS_GND_ONE" />
+<s d="&#xE188;" t="&#xE188;" b="147" note="BLISS_GND_A" />
+<s d="&#xE189;" t="&#xE189;" b="147" note="BLISS_GND_A" />
+<s d="&#xE18A;" t="&#xE18A;" b="147" note="BLISS_GND_F" />
+<s d="&#xE18B;" t="&#xE18B;" b="147" note="BLISS_GND_UPPERA" />
+<s d="&#xE18C;" t="&#xE18C;" b="147" note="BLISS_GND_UPPERV" />
+</group>
+</alphabet>
+</alphabets>

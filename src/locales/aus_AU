@@ -1,0 +1,148 @@
+comment_char  %
+escape_char  /
+
+% Blissymbolics language locale for Australia
+% This can be considered an Australian language
+% since it was developed by Charles Bliss of
+% Coogee, Sydney, New South Wales, Australia.
+% Source: Hyper Quantum Pty Ltd
+% Address: Theodore ACT, Australia
+% Contact: Ross Summerfield
+% Email: ross at hyperquantum.com.au
+% Tel: +61 - 262922514
+% Fax: ""
+% Users: Bliss semantographers, aurally impaired
+% Repertoiremap: mnemonic.ds
+% Charset: UTF-8
+% Distribution and use is free, also
+% for commercial purposes.
+
+LC_IDENTIFICATION
+title      "Blissymbolics locale for Australia"
+source     "Hyper Quantum"
+address    "Theodore, ACT, Australia"
+contact    "Ross Summerfield"
+email      "support@hyperquantum.com.au"
+tel        ""
+fax        ""
+language   "Blissymbolics"
+territory  "Australia"
+revision   "1.2"
+date       "2023-11-19"
+%
+category  "i18n:2012";LC_IDENTIFICATION
+category  "i18n:2012";LC_CTYPE
+category  "i18n:2012";LC_COLLATE
+category  "i18n:2012";LC_TIME
+category  "i18n:2012";LC_NUMERIC
+category  "i18n:2012";LC_MONETARY
+category  "i18n:2012";LC_PAPER
+category  "i18n:2012";LC_MEASUREMENT
+category  "i18n:2012";LC_MESSAGES
+category  "i18n:2012";LC_NAME
+category  "i18n:2012";LC_ADDRESS
+category  "i18n:2012";LC_TELEPHONE
+END LC_IDENTIFICATION
+
+LC_CTYPE
+copy "i18n"
+END LC_CTYPE
+
+LC_COLLATE
+% Copy the template from ISO/IEC 14651
+copy "iso14651_t1"
+END LC_COLLATE
+
+LC_MONETARY
+copy "en_AU"
+END LC_MONETARY
+
+LC_NUMERIC
+decimal_point           "."
+thousands_sep           ","
+grouping                3;3
+END LC_NUMERIC
+
+LC_TIME
+abday       "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE178><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE177><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE179><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE17A><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE17B><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE17C><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE17D><UE103><UE122><UE102><UE122><UE158><UE15E>"
+day         "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE178><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE177><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE179><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE17A><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE17B><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE17C><UE103><UE122><UE102><UE122><UE158><UE15E>";/
+            "<UE102><UE122><UE102><UE122><UE159><UE15B><UE103><UE17D><UE103><UE122><UE102><UE122><UE158><UE15E>"
+abmon       "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE178>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE179>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17A>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17B>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17C>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17D>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17E>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17F>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE176>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE177>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE178>"
+mon         "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE178>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE179>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17A>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17B>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17C>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17D>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17E>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE17F>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE176>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE177>";/
+            "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE178>"
+d_t_fmt     "%a %d %b %Y %T"
+date_fmt    "%a %d %b %Y %T %Z"
+d_fmt       "%d//%m//%y"
+t_fmt       "%T"
+am_pm       "";""
+t_fmt_ampm  ""
+week 7;19971201;4
+% week 7;19971130;1 % USA format for start of week
+END LC_TIME
+
+LC_MESSAGES
+yesexpr     "^[+1yY<UE102><UE11E><UE105><UE11D><UE11F><UE104><UE103><UE11E>]"
+noexpr      "^[-0nN<UE102><UE11E><UE102><UE11E>]"
+yesstr  "<UE102><UE11E><UE105><UE11D><UE11F><UE104><UE103><UE11E><UE102><UE103><UE185>"
+nostr   "<UE102><UE11E><UE102><UE11E><UE102><UE103><UE185>"
+END LC_MESSAGES
+
+LC_PAPER
+copy "i18n"
+END LC_PAPER
+
+LC_TELEPHONE
+copy "en_AU"
+END LC_TELEPHONE
+
+LC_MEASUREMENT
+copy "i18n"
+END LC_MEASUREMENT
+
+LC_NAME
+copy "en_AU"
+END LC_NAME
+
+LC_ADDRESS
+postal_fmt    "%f%N%a%N%d%N%b%N%s %h %e %r%N%z %T%N%c%N"
+country_name "Australia"
+country_ab2 "AU"
+country_ab3 "AUS"
+country_num 036
+country_car    "AUS"
+lang_name    "<UE102><UE11A><UE122><UE12B><UE102><UE11A><UE122><UE12E><UE102><UE11A><UE122><UE130><UE102><UE11A><UE122><UE132>"
+lang_term    "aus"
+lang_lib     "aus"
+END LC_ADDRESS

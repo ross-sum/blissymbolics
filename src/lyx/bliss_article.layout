@@ -1,0 +1,12 @@
+#% Do not delete the line below; configure depends on this
+#  \DeclareLaTeXClass[bliss_article]{Article (Standard Class with Blissymbolics support)}
+#  \DeclareCategory{Articles}
+# Herbert Voss <voss@lyx.org>
+
+Format 66
+Input article.layout
+
+# change available fontsizes
+ClassOptions
+	FontSize              8|9|10|11|12|14|17|20|32
+end

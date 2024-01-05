@@ -1,0 +1,1 @@
+name=blissymbolics synonyms=blissymbolics-australia,blissymbolics-aus,australian lefthyphenmin=5 righthyphenmin=5 file=loadhyph-aus-bliss.tex file_patterns=hyph-aus-bliss.pat.txt file_exceptions=hyph-aus-bliss.hyp.txt

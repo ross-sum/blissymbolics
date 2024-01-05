@@ -1,0 +1,65 @@
+# -*- text -*-
+
+# file bliss.ui
+# This file is part of LyX, the document processor.
+# It is the Blissymbolics user interface definition for
+# LyX.
+# Licence details can be found in the file COPYING.
+
+# author Ross Summerfield, based on
+# default.ui by John Levon
+
+# Full author contact details are available in file CREDITS.
+
+# This is the aust LyX user interface definition file.
+# The syntax should be straightforward enough.
+
+# The interface is designed (partially) following the KDE Human Interface
+# Guidelines (http://techbase.kde.org/Projects/Usability/HIG)
+
+Format 4
+
+Include "blissmenus.inc"
+
+Include "blisscontext.inc"
+
+Include "blisstoolbars.inc"
+
+# Which toolbars to use.
+#
+# The second parameter are the flags :
+#
+# on: the toolbar is visible
+# off: the toolbar is not visible
+# auto: the toolbar is automatically shown and hidden depending on the
+#       next 3 flags.
+#
+# math: the toolbar is visible only when in maths
+# mathmacrotemplate: the toolbar is visible only when in a macro definition
+# table: the toolbar is visible only when in a table
+# review: the toolbar is visible only when tracked changes are present or
+#         change tracking is enabled
+# ipa: the toolbar is only visible when inside an ipa inset
+#
+# top: the toolbar should be at the top of the window
+# bottom: the toolbar should be at the bottom of the window
+# left: the toolbar should be at the left of the window
+# right: the toolbar should be at the right of the window
+#
+# samerow: do not create new line for this toolbar
+#        (note that order of toolbars is defined in stdtoolbars.inc)
+#
+Toolbars
+	"standard" "on,top"
+	"view/update" "on,top"
+	"extra" "on,top,samerow"
+	"review" "auto,review,top"
+	"vcs" "off,top"
+	"table" "auto,table,bottom"
+	"maths_panels" "auto,math,bottom"
+	"maths" "auto,math,bottom"
+	"mathmacrotemplate" "auto,mathmacrotemplate,bottom"
+	"ipa" "auto,ipa,bottom"
+	"minibuffer" "auto,minibuffer,bottom"
+	"documentation" "off,top"
+End

@@ -37,6 +37,8 @@ cp src/fonts/Blissymbolics-Courier.otf /usr/local/share/fonts/
 dpkg-reconfigure -u fontconfig-config
 
 # Set up LaTeX
+# Set up the local directory
+cp src/latex/01local.cnf /etc/texmf/texmf.d/
 # copy in the Blissymbolics style sheets
 mkdir -p /usr/share/texmf/tex/latex/bliss/
 cp src/latex/bliss_article.* /usr/local/share/texmf/

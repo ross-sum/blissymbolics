@@ -627,7 +627,7 @@
 	arrival, stop, end, to, off, halt
 	stop, terminate
 	will arrive, will stop, will end, arriving, arrives, will halt
-	arrived, came, stopped, halted, terminated
+	arrived, came, stopped, halted, terminated, ended
 	bombards, bombarding
 	to pass by
 	past
@@ -785,7 +785,7 @@ ILEUM
 	musician, band
 	composer
 	beat (?)
-	to cross out, to blot out, destroy
+	to cross out, to blot out, destroy, cancel
 	destructive
 	destroyable, disintegratable, crumbly
 	destroyed
@@ -3191,3 +3191,7 @@ NaCl	to salt
 	shaving cream, shaving soap (GS)
 	to shave (GS)
 	shaver, razor (GS)
+	computer disk, disc (BCI 13685)
+	mistake, error, fault (BCI 15479)
+	directory (?)
+	(cut-and-)paste (BCI 23465)

@@ -25,7 +25,7 @@ A good Unicode Terminal emulator is helpful but not required.  None that I have 
 ## References and Links
 
 ### Tex:
-- [ ] [tlmgr - TeX Live package manager](https://tug.org/texlive/tlmgr.html tlmgr), which is good background, but not easily run under Debian.
+- [ ] [tlmgr - TeX Live package manager](https://tug.org/texlive/tlmgr.html) tlmgr, which is good background, but not easily run under Debian.
 - [ ] [How to Create a New language](https://tex.stackexchange.com/questions/385044/how-creating-new-language-package-styles-babel-script?newreg=ae6cd7dc6acb4d5dad860e319f04fc49)
 - [ ] [.sty and .cls File Placement](https://tex.stackexchange.com/questions/1137/where-do-i-place-my-own-sty-or-cls-files-to-make-them-available-to-all-my-te)
 - [ ] [Date Format in yyyy-mm-dd arrangement](https://tex.stackexchange.com/questions/152392/date-format-yyyy-mm-dd)

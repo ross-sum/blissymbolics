@@ -76,7 +76,7 @@ For help, email me at ross <at> hyperquantum <dot> com <dot> au.  Otherwise, iss
 
 ## Roadmap
 Planned future releases include:
-- Modifications to the LyX (more or less a graphical LaTeX front-end) such that it will work with Cell Writer.
+- Modifications to the LyX (more or less a graphical LaTeX front-end) such that it will work with Cell Writer.  This work is in progress, with the .po file already started on (it is a big document in its own right). Cell Writer interface is much harder.  Whilst you could get Cell Writer to output keystrokes and using a kmap file to translate, there aren't enough keys on the keyboard - Blissymbolics has 141 characters, of which 6 are not combining characters (so 135 are combining characters).  Unfortunately, LyX's kmap (and friends) files only take a single input key stroke for any output (which can be a string of characters), not the other way around.  That leaves LyX code modification as the only global method (an opportunity for someone who understands C++ and would like to do a little work on LyX).  Locally, the installation of ibus works.  There is a button on Cell Writer to output in ibus format and, while a bit slow, works.
 - The Cell Writer fork itself is in its infancy, being barely usable with a large training set, with the recognition engine needing a full rewrite.
 - Other work and tools to completely modify the Linux desktop to present everything in Blissymbolics need to be developed.
 - The font set, developed with FontForge, needs improvement.  I am unsure at this stage, but proper improvement could lead to a reduction in characters required in the character set (it would be nice to find 1D hexadecimal characters to bring the character set down to 80 hexadecimal (128 decimal) or less characters.

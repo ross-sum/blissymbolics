@@ -107,3 +107,17 @@ mkdir -p /usr/local/share/lyx/ui
 cp src/lyx/bliss_article.layout /usr/local/share/lyx/layouts/
 cp src/lyx/bliss_class.inc /usr/local/share/lyx/layouts/
 /usr/bin/lyx -batch --execute "reconfigure" src/lyx/temp.lyx
+cd src/lyx
+msgfmt -o aus_AU.mo aus_AU.po
+cd ${WKDIR}
+mkdir -p /usr/local/share/locale/aus_AU/LC_MESSAGES/
+cp src/lyx/aus_AU.po /usr/local/share/locale/aus_AU/LC_MESSAGES/lyx.mo
+# To get Blissymbolics keyboard to work, ibus needs to be installed.
+apt-get install ibus ibus-gtk ibus-gtk3 ibus-table ibus-clutter ibus-m17n
+echo "Manual configuration to your environment required. Please run"
+echo "'ibus-setup', then switch to the 'Input Method' tab, select "
+echo "'Add', choose 'Other' at the bottom of the list, then choose "
+echo "'t-unicode (m17n)' and select 'Add'."
+echo "It is wise to then logout and reboot."
+echo "This must be done for each user of this computer."
+

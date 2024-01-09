@@ -962,6 +962,7 @@ ILEUM
 	was made, produced
 	will make
 	manufacturing, industry
+	to hide, to conceal (BCI 14710)
 	supra natural, supra-natural
 	creator, god
 	opposition
@@ -1352,7 +1353,7 @@ ILEUM
 	find, discovery
 	discoverer, discovery
 	discovered
-	picture, photo, photograph, view finder, depict, image
+	picture, photo, photograph, view finder, depict, image, figure
 	picture frame
 	art, painting, artwork, style (?)
 	the piece of art
@@ -1493,6 +1494,8 @@ NO	air
 	was secret
 	private secretary, secretary
 	code department, code
+	to hide, to put in secret place (BCI 25077)
+	hides, puts in secret place
 	betrayal
 	food
 	to eat, to feed, meal
@@ -1812,7 +1815,7 @@ NO	air
 	to be changed, to be altered, to be mutated, to be modulated, to be varied, to be permutated, to be overturned
 	the change, the alteration, the mutation, the modulation, the variation, the permutation, version (Unit of Action)
 	transforms
-	to revert (?)
+	to revert (?), reset (?)
 	development
 	recession
 	changer, alterator, mutator, modulator, variator, permutator, change agent
@@ -1892,7 +1895,7 @@ NO	air
 	paragraph
 	copy
 	printed copy, reproduction, duplicate
-	a writing
+	a writing, document, file
 	written pages
 	memorandum
 	advertising
@@ -3195,3 +3198,8 @@ NaCl	to salt
 	mistake, error, fault (BCI 15479)
 	directory (?)
 	(cut-and-)paste (BCI 23465)
+	change number, version
+	credits, writers who have written (?)
+	to wonder, to enquire, to be curious (BCI 26337)
+	editing (?)
+	collection of pictures, collection of figures (?)

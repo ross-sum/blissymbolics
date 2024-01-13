@@ -106,12 +106,16 @@ mkdir -p /usr/local/share/lyx/layouts
 mkdir -p /usr/local/share/lyx/ui
 cp src/lyx/bliss_article.layout /usr/local/share/lyx/layouts/
 cp src/lyx/bliss_class.inc /usr/local/share/lyx/layouts/
+cp src/lyx/bliss.ui /usr/local/share/lyx/ui/
+cp src/lyx/blisscontext.inc /usr/local/share/lyx/ui/
+cp src/lyx/blissmenus.inc /usr/local/share/lyx/ui/
+cp src/lyx/blisstoolbars.inc /usr/local/share/lyx/ui/
 /usr/bin/lyx -batch --execute "reconfigure" src/lyx/temp.lyx
 cd src/lyx
 msgfmt -o aus_AU.mo aus_AU.po
 cd ${WKDIR}
 mkdir -p /usr/local/share/locale/aus_AU/LC_MESSAGES/
-cp src/lyx/aus_AU.po /usr/local/share/locale/aus_AU/LC_MESSAGES/lyx.mo
+cp src/lyx/aus_AU.mo /usr/local/share/locale/aus_AU/LC_MESSAGES/lyx.mo
 # To get Blissymbolics keyboard to work, ibus needs to be installed.
 apt-get install ibus ibus-gtk ibus-gtk3 ibus-table ibus-clutter ibus-m17n
 echo "Manual configuration to your environment required. Please run"

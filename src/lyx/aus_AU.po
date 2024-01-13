@@ -1168,11 +1168,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/CompareHistoryUi.ui:22
 msgid "Compare Revisions"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/CompareHistoryUi.ui:30
 msgid "&Revisions back"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/CompareHistoryUi.ui:83
 msgid "&Between revisions"
@@ -1180,23 +1180,23 @@ msgstr ""
 
 #: src/frontends/qt4/ui/CompareHistoryUi.ui:96
 msgid "Old:"
-msgstr ""
+msgstr ":"
 
 #: src/frontends/qt4/ui/CompareHistoryUi.ui:131
 msgid "New:"
-msgstr ""
+msgstr ":"
 
 #: src/frontends/qt4/ui/CompareUi.ui:27
 msgid "&New Document:"
-msgstr ""
+msgstr " :"
 
 #: src/frontends/qt4/ui/CompareUi.ui:60
 msgid "&Old Document:"
-msgstr ""
+msgstr " :"
 
 #: src/frontends/qt4/ui/CompareUi.ui:83 src/frontends/qt4/ui/PrefUi.ui:50
 msgid "Bro&wse..."
-msgstr ""
+msgstr "..."
 
 #: src/frontends/qt4/ui/CompareUi.ui:99
 msgid "Copy Document Settings from:"
@@ -1204,11 +1204,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/CompareUi.ui:105
 msgid "N&ew Document"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/CompareUi.ui:112
 msgid "Ol&d Document"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/CompareUi.ui:178
 msgid ""
@@ -1226,7 +1226,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/DelimiterUi.ui:70
 msgid "&Insert"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/DelimiterUi.ui:144
 #: src/frontends/qt4/GuiDelimiter.cpp:326
@@ -1588,7 +1588,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/FindAndReplaceUi.ui:241
 msgid "&Open documents"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/FindAndReplaceUi.ui:251
 msgid "&All manuals"
@@ -2865,7 +2865,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/NumberingUi.ui:70
 msgid "&Numbering"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/OutputUi.ui:20
 msgid "Output Format"
@@ -2951,7 +2951,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/OutputUi.ui:221
 msgid "Images"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/OutputUi.ui:226 lib/layouts/aapaper.layout:63
 #: lib/layouts/egs.layout:641 lib/languages:110
@@ -2986,11 +2986,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PDFSupportUi.ui:103
 msgid "&Title:"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/PDFSupportUi.ui:116
 msgid "&Author:"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/PDFSupportUi.ui:129
 msgid "&Subject:"
@@ -3559,7 +3559,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefDocHandlingUi.ui:206
 msgid "Closing last &view:"
-msgstr ""
+msgstr " 1 "
 
 #: src/frontends/qt4/ui/PrefDocHandlingUi.ui:217
 msgid "Closes document"
@@ -4233,7 +4233,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefShortcutsUi.ui:68
 msgid "&New"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/PrefShortcutsUi.ui:90
 msgid "&Bind file:"
@@ -7425,23 +7425,23 @@ msgstr ""
 #: lib/layouts/lettre.layout:348 lib/layouts/moderncv.layout:170
 #: lib/layouts/scrlttr2.layout:196 lib/configure.py:800
 msgid "Fax"
-msgstr ""
+msgstr ""
 
 #: lib/layouts/achemso.layout:133 lib/layouts/europasscv.layout:119
 #: lib/layouts/europecv.layout:96 lib/layouts/lettre.layout:361
 #: lib/layouts/moderncv.layout:173
 msgid "Fax:"
-msgstr ""
+msgstr ":"
 
 #: lib/layouts/achemso.layout:136 lib/layouts/dinbrief.layout:309
 #: lib/layouts/g-brief.layout:123 lib/layouts/moderncv.layout:153
 msgid "Phone"
-msgstr ""
+msgstr ""
 
 #: lib/layouts/achemso.layout:139 lib/layouts/g-brief.layout:126
 #: lib/layouts/moderncv.layout:156
 msgid "Phone:"
-msgstr ""
+msgstr ":"
 
 #: lib/layouts/achemso.layout:143
 msgid "Abbreviations"
@@ -10325,13 +10325,13 @@ msgstr ""
 #: lib/layouts/lettre.layout:292 lib/layouts/scrlettr.layout:151
 #: lib/layouts/scrlttr2.layout:188 lib/layouts/stdletter.inc:131
 msgid "Telephone"
-msgstr ""
+msgstr ""
 
 #: lib/layouts/dinbrief.layout:146 lib/layouts/europasscv.layout:109
 #: lib/layouts/europecv.layout:80 lib/layouts/scrlettr.layout:154
 #: lib/layouts/stdletter.inc:134
 msgid "Telephone:"
-msgstr ""
+msgstr ":"
 
 #: lib/layouts/dinbrief.layout:151 lib/layouts/lettre.layout:40
 #: lib/layouts/lettre.layout:262 lib/layouts/scrlettr.layout:186
@@ -11022,11 +11022,11 @@ msgstr ""
 
 #: lib/layouts/europasscv.layout:111 lib/layouts/moderncv.layout:166
 msgid "Mobile:"
-msgstr ""
+msgstr ":"
 
 #: lib/layouts/europasscv.layout:112 lib/layouts/europecv.layout:83
 msgid "Mobile phone number"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/europasscv.layout:128 lib/layouts/jasatex.layout:133
 #: lib/layouts/moderncv.layout:183
@@ -11282,7 +11282,7 @@ msgstr ""
 
 #: lib/layouts/europecv.layout:82 lib/layouts/moderncv.layout:163
 msgid "Mobile"
-msgstr ""
+msgstr ""
 
 #: lib/layouts/europecv.layout:111
 msgid "Size"
@@ -13410,7 +13410,7 @@ msgstr ""
 
 #: lib/layouts/moderncv.layout:158
 msgid "Phone Type"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/moderncv.layout:159
 msgid "can be fixed, mobile or fax"
@@ -17477,28 +17477,28 @@ msgstr ""
 
 #: lib/ui/stdcontext.inc:59
 msgid "Copy as Reference|R"
-msgstr ""
+msgstr "  "
 
 #: lib/ui/stdcontext.inc:61 lib/ui/stdcontext.inc:344 lib/ui/stdmenus.inc:106
 #: lib/ui/stdtoolbars.inc:80 src/Text3.cpp:1483
 #: src/mathed/InsetMathNest.cpp:562
 msgid "Cut"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdcontext.inc:62 lib/ui/stdcontext.inc:345 lib/ui/stdmenus.inc:107
 #: lib/ui/stdtoolbars.inc:81 src/BufferView.cpp:2185
 msgid "Copy"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdcontext.inc:63 lib/ui/stdcontext.inc:346 lib/ui/stdmenus.inc:108
 #: lib/ui/stdtoolbars.inc:82 src/Text3.cpp:1429
 #: src/mathed/InsetMathGrid.cpp:1600 src/mathed/InsetMathNest.cpp:541
 msgid "Paste"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdcontext.inc:64 lib/ui/stdcontext.inc:347 lib/ui/stdmenus.inc:109
 msgid "Paste Recent|e"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdcontext.inc:66
 msgid "Insert|s"
@@ -18164,7 +18164,7 @@ msgstr ""
 
 #: lib/ui/stdcontext.inc:502
 msgid "Copy Text|o"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdcontext.inc:511 lib/ui/stdcontext.inc:535
 msgid "Activate Branch|A"
@@ -18256,35 +18256,35 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:31
 msgid "Edit|E"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:32
 msgid "View|V"
-msgstr ""
+msgstr "|V"
 
 #: lib/ui/stdmenus.inc:33
 msgid "Insert|I"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:34
 msgid "Navigate|N"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:35
 msgid "Document|D"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:36
 msgid "Tools|T"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:37
 msgid "Help|H"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:45
 msgid "New|N"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:46
 msgid "New from Template...|m"
@@ -18292,11 +18292,11 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:47
 msgid "Open...|O"
-msgstr ""
+msgstr "..."
 
 #: lib/ui/stdmenus.inc:48
 msgid "Open Recent|t"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:50
 msgid "Close|C"
@@ -18304,111 +18304,111 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:51
 msgid "Close All"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:52
 msgid "Save|S"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:53
 msgid "Save As...|A"
-msgstr ""
+msgstr " ..."
 
 #: lib/ui/stdmenus.inc:54
 msgid "Save All|l"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:55
 msgid "Revert to Saved|R"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:56
 msgid "Version Control|V"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:58
 msgid "Import|I"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:59
 msgid "Export|E"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:60
 msgid "Fax...|F"
-msgstr ""
+msgstr "..."
 
 #: lib/ui/stdmenus.inc:62
 msgid "New Window|W"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:63
 msgid "Close Window|d"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:65
 msgid "Exit|x"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:73
 msgid "Register...|R"
-msgstr ""
+msgstr "..."
 
 #: lib/ui/stdmenus.inc:74
 msgid "Check In Changes...|I"
-msgstr ""
+msgstr " ..."
 
 #: lib/ui/stdmenus.inc:75
 msgid "Check Out for Edit|O"
-msgstr ""
+msgstr "  "
 
 #: lib/ui/stdmenus.inc:76
 msgid "Copy|p"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:77
 msgid "Rename|R"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:78
 msgid "Update Local Directory From Repository|d"
-msgstr ""
+msgstr "    "
 
 #: lib/ui/stdmenus.inc:79
 msgid "Revert to Repository Version|v"
-msgstr ""
+msgstr "   "
 
 #: lib/ui/stdmenus.inc:80
 msgid "Undo Last Check In|U"
-msgstr ""
+msgstr " 1  "
 
 #: lib/ui/stdmenus.inc:81
 msgid "Compare with Older Revision...|C"
-msgstr ""
+msgstr "   ..."
 
 #: lib/ui/stdmenus.inc:82
 msgid "Show History...|H"
-msgstr ""
+msgstr "  ..."
 
 #: lib/ui/stdmenus.inc:83
 msgid "Use Locking Property|L"
-msgstr ""
+msgstr "  "
 
 #: lib/ui/stdmenus.inc:92
 msgid "Export As...|s"
-msgstr ""
+msgstr " ..."
 
 #: lib/ui/stdmenus.inc:95
 msgid "More Formats & Options...|r"
-msgstr ""
+msgstr "   ..."
 
 #: lib/ui/stdmenus.inc:103
 msgid "Undo|U"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:104
 msgid "Redo|R"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:110
 msgid "Paste Special"
@@ -18416,11 +18416,11 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:112
 msgid "Select Whole Inset"
-msgstr ""
+msgstr "  "
 
 #: lib/ui/stdmenus.inc:113
 msgid "Select All"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:115
 msgid "Find & Replace (Quick)...|F"
@@ -18856,7 +18856,7 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:378
 msgid "File|e"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdmenus.inc:379
 msgid "Box[[Menu]]|x"
@@ -19104,7 +19104,7 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:549
 msgid "Disable Editing|E"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:554
 msgid "Track Changes|T"
@@ -19200,7 +19200,7 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:599
 msgid "Compare...|C"
-msgstr ""
+msgstr "..."
 
 #: lib/ui/stdmenus.inc:604
 msgid "Reconfigure|R"
@@ -19332,11 +19332,11 @@ msgstr ""
 
 #: lib/ui/stdtoolbars.inc:78 src/BufferView.cpp:1409
 msgid "Undo"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdtoolbars.inc:79 src/BufferView.cpp:1429
 msgid "Redo"
-msgstr ""
+msgstr ""
 
 #: lib/ui/stdtoolbars.inc:83
 msgid "Find and replace"
@@ -19840,7 +19840,7 @@ msgstr ""
 
 #: lib/ui/stdtoolbars.inc:283 src/frontends/qt4/GuiLog.cpp:266
 msgid "Version Control"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdtoolbars.inc:284
 msgid "Register"
@@ -19864,11 +19864,11 @@ msgstr ""
 
 #: lib/ui/stdtoolbars.inc:289
 msgid "Compare with older revision"
-msgstr ""
+msgstr "   "
 
 #: lib/ui/stdtoolbars.inc:290
 msgid "Compare with last revision"
-msgstr ""
+msgstr "  1 "
 
 #: lib/ui/stdtoolbars.inc:291
 msgid "Insert Version Info"
@@ -26575,7 +26575,7 @@ msgstr ""
 
 #: src/LyX.cpp:1081
 msgid "&Exit LyX"
-msgstr ""
+msgstr " LyX"
 
 #: src/LyX.cpp:1082
 msgid "No user LyX directory. Exiting."
@@ -28030,7 +28030,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiApplication.cpp:1681
 msgid "Exiting."
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/GuiApplication.cpp:1776
 #, c-format
@@ -28477,7 +28477,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiClipboard.cpp:186
 msgid "pasted"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/GuiClipboard.cpp:195
 #, c-format
@@ -30380,7 +30380,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiView.cpp:1032
 msgid "Exit LyX"
-msgstr ""
+msgstr " LyX"
 
 #: src/frontends/qt4/GuiView.cpp:1033
 msgid "LyX could not be closed because documents are being processed by LyX."
@@ -30506,19 +30506,19 @@ msgstr ""
 #: src/frontends/qt4/GuiView.cpp:2519
 #, c-format
 msgid "Importing %1$s..."
-msgstr ""
+msgstr " %1$s..."
 
 #: src/frontends/qt4/GuiView.cpp:2522
 msgid "imported."
-msgstr ""
+msgstr "."
 
 #: src/frontends/qt4/GuiView.cpp:2524
 msgid "file not imported!"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/GuiView.cpp:2549
 msgid "newfile"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/GuiView.cpp:2582
 msgid "Select LyX document to insert"
@@ -30562,11 +30562,11 @@ msgstr ""
 
 #: src/frontends/qt4/GuiView.cpp:2679
 msgid "Copy document?"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/GuiView.cpp:2681
 msgid "&Copy"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/GuiView.cpp:2740
 msgid "Choose a filename to export the document as"

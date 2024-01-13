@@ -27,14 +27,14 @@ Menuset
 
 	Menubar
 # Make the first 4 menus be as much as expected as possible
-		Submenu "File|F" "file"
-		Submenu "Edit|E" "edit"
-		Submenu "View|V" "view"
-		Submenu "Insert|I" "insert"
-		Submenu "Navigate|N" "navigate"
-		Submenu "Document|D" "document"
-		Submenu "Tools|T" "tools"
-		Submenu "Help|H" "help"
+		Submenu "|F" "file"
+		Submenu "|E" "edit"
+		Submenu "|V" "view"
+		Submenu "|I" "insert"
+		Submenu "|N" "navigate"
+		Submenu "|D" "document"
+		Submenu "|T" "tools"
+		Submenu "|H" "help"
 	End
 
 #
@@ -42,27 +42,27 @@ Menuset
 #
 
 	Menu "file"
-		Item "New|N" "buffer-new"
-		Item "New from Template...|m" "buffer-new-template"
-		Item "Open...|O" "file-open"
-		Submenu "Open Recent|t" "file_lastfiles"
+		Item "|N" "buffer-new"
+		Item "  ...|m" "buffer-new-template"
+		Item "...|O" "file-open"
+		Submenu " |t" "file_lastfiles"
 		Separator
-		Item "Close|C" "buffer-close"
-		Item "Close All" "buffer-close-all"
-		Item "Save|S" "buffer-write"
-		Item "Save As...|A" "buffer-write-as"
-		Item "Save All|l" "buffer-write-all"
-		Item "Revert to Saved|R" "buffer-reload"
-		Submenu "Version Control|V" "file_vc"
+		Item "|C" "buffer-close"
+		Item " " "buffer-close-all"
+		Item "|S" "buffer-write"
+		Item " ...|A" "buffer-write-as"
+		Item " |l" "buffer-write-all"
+		Item " |R" "buffer-reload"
+		Submenu " |V" "file_vc"
 		Separator
-		Submenu "Import|I" "file_import"
-		Submenu "Export|E" "file_export"
-		OptItem "Fax...|F" "buffer-export fax"
+		Submenu "|I" "file_import"
+		Submenu "|E" "file_export"
+		OptItem "...|F" "buffer-export fax"
 		Separator
-		Item "New Window|W" "window-new"
-		Item "Close Window|d" "window-close"
+		Item " |W" "window-new"
+		Item " |d" "window-close"
 		Separator
-		Item "Exit|x" "lyx-quit"
+		Item "|x" "lyx-quit"
 	End
 
 	Menu "file_lastfiles"
@@ -70,17 +70,17 @@ Menuset
 	End
 
 	Menu "file_vc"
-		OptItem "Register...|R" "vc-register"
-		OptItem "Check In Changes...|I" "vc-check-in"
-		OptItem "Check Out for Edit|O" "vc-check-out"
-		OptItem "Copy|p" "vc-copy"
-		OptItem "Rename|R" "vc-rename"
-		OptItem "Update Local Directory From Repository|d" "vc-repo-update"
-		OptItem "Revert to Repository Version|v" "vc-revert"
-		OptItem "Undo Last Check In|U" "vc-undo-last"
-		OptItem "Compare with Older Revision...|C" "vc-compare"
-		OptItem "Show History...|H" "dialog-show vclog"
-		OptItem "Use Locking Property|L" "vc-locking-toggle"
+		OptItem "...|R" "vc-register"
+		OptItem " ...|I" "vc-check-in"
+		OptItem "  |O" "vc-check-out"
+		OptItem "|p" "vc-copy"
+		OptItem "|R" "vc-rename"
+		OptItem "    |d" "vc-repo-update"
+		OptItem "   |v" "vc-revert"
+		OptItem " 1  |U" "vc-undo-last"
+		OptItem "   ...|C" "vc-compare"
+		OptItem "  ...|H" "dialog-show vclog"
+		OptItem "  |L" "vc-locking-toggle"
 	End
 
 	Menu "file_import"
@@ -89,10 +89,10 @@ Menuset
 
 	Menu "file_export"
 		ExportFormat
-		Item "Export As...|s" "buffer-export-as"
+		Item " ...|s" "buffer-export-as"
 		Separator
 		ExportFormats
-		Item "More Formats & Options...|r" "buffer-export custom"
+		Item "   ...|r" "buffer-export custom"
 	End
 
 #
@@ -100,17 +100,17 @@ Menuset
 #
 
 	Menu "edit"
-		Item "Undo|U" "undo"
-		Item "Redo|R" "redo"
+		Item "|U" "undo"
+		Item "|R" "redo"
 		Separator
-		Item "Cut" "cut"
-		Item "Copy" "copy"
-		Item "Paste" "paste"
-		Submenu "Paste Recent|e" "edit_pasterecent"
-		Submenu "Paste Special" "edit_paste"
+		Item "" "cut"
+		Item "" "copy"
+		Item "" "paste"
+		Submenu " Recent|e" "edit_pasterecent"
+		Submenu " Special" "edit_paste"
 		Separator
-		Item "Select Whole Inset" "inset-select-all"
-		Item "Select All" "command-sequence buffer-begin ; buffer-end-select"
+		Item "  " "inset-select-all"
+		Item " " "command-sequence buffer-begin ; buffer-end-select"
 		Separator
 		Item "Find & Replace (Quick)...|F" "dialog-show findreplace"
 		Item "Find & Replace (Advanced)..." "dialog-show findreplaceadv"
@@ -154,13 +154,13 @@ Menuset
 	End
 
 	Menu "edit_paste"
-		OptItem "Paste from HTML|H" "paste html"
-		OptItem "Paste from LaTeX|L" "paste latex"
-		OptItem "Paste as LinkBack PDF" "paste linkback"
-		OptItem "Paste as PDF" "paste pdf"
-		OptItem "Paste as PNG" "paste png"
-		OptItem "Paste as JPEG" "paste jpeg"
-		OptItem "Paste as EMF" "paste emf"
+		OptItem " from HTML|H" "paste html"
+		OptItem " from LaTeX|L" "paste latex"
+		OptItem " as LinkBack PDF" "paste linkback"
+		OptItem " as PDF" "paste pdf"
+		OptItem " as PNG" "paste png"
+		OptItem " as JPEG" "paste jpeg"
+		OptItem " as EMF" "paste emf"
 		Separator
 		Item "Plain Text|T" "clipboard-paste"
 		Item "Plain Text, Join Lines|J" "clipboard-paste paragraph"
@@ -542,11 +542,11 @@ Menuset
 		Separator
 		ViewFormats
 		UpdateFormats
-		OptItem "View Master Document|M" "master-buffer-view"
-		OptItem "Update Master Document|a" "master-buffer-update"
+		OptItem " Master Document|M" "master-buffer-view"
+		OptItem " Master Document|a" "master-buffer-update"
 		Separator
 		Item "Compressed|o" "buffer-toggle-compression"
-		Item "Disable Editing|E" "buffer-toggle-read-only"
+		Item " |E" "buffer-toggle-read-only"
 		Item "Settings...|S" "dialog-show document"
 	End
 
@@ -596,7 +596,7 @@ Menuset
 		Item "Statistics...|a" "statistics"
 		Item "Check TeX|h" "buffer-chktex"
 		Item "TeX Information|I" "dialog-show texinfo"
-		Item "Compare...|C" "dialog-show compare"
+		Item "...|C" "dialog-show compare"
 		Separator
 # A LOT of applications have Tools->Prefs. Remember this
 # should be rarely used - Edit menu is not a good place to

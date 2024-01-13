@@ -931,6 +931,8 @@ ILEUM
 	project (?), collection of work (?)
 	present, presence
 	now, just (should be ""?)
+	current (BCI 13624)
+	make current, update (?)
 	past
 	happy memory
 	unhappy memory
@@ -1058,8 +1060,8 @@ ILEUM
 	guess, hypothesis
 	hypothesise, assumes
 	the guess, the hypothesis, the assumption
-	classification
-	the classification
+	classification, type, category
+	the classification, the category, the type
 	to classify
 	to classify
 	to classify as, to be classified
@@ -1308,7 +1310,7 @@ ILEUM
 	to be designed, to planned, to be processed (passive)
 	shall design, shall plan, shall process
 	did design, did plan, did process
-	the method, the plan, the design, the procedure
+	the method, the plan, the design, the procedure, template (?)
 	methods, plans, designs
 	designer, planner
 	plan
@@ -1814,7 +1816,7 @@ NO	air
 	to change, to alterate, to mutate, to modulate, to vary, to permutate, to overturn
 	to be changed, to be altered, to be mutated, to be modulated, to be varied, to be permutated, to be overturned
 	the change, the alteration, the mutation, the modulation, the variation, the permutation, version (Unit of Action)
-	transforms
+	transforms, changes
 	to revert (?), reset (?)
 	development
 	recession
@@ -1894,7 +1896,7 @@ NO	air
 	paragraph
 	paragraph
 	copy
-	printed copy, reproduction, duplicate
+	printed copy, reproduction, duplicate, a photocopy
 	a writing, document, file
 	written pages
 	memorandum
@@ -1948,8 +1950,8 @@ NO	air
 	e-mailed
 	airmail
 	money order
-	money cable, funds transfer
-	money cable, funds transfer
+	money cable, funds transfer, telegraphic transfer
+	money cable, funds transfer, telegraphic transfer
 R	registered mail
 	letter box
 	letter box clearance time
@@ -2100,7 +2102,7 @@ NO	air
 	cabin luggage
 	porter
 	bowl, container, vessel, hold
-	the hold, the bowl, the vessel
+	the hold, the bowl, the vessel, the saved or stored item
 	containing, to hold, contains
 	can hold, is holding, capacious
 	containment
@@ -2158,7 +2160,7 @@ NO	air
 	exchangers, converters, swappers
 	squander, dissipate, waste, lavish
 	for, in exchange for, against
-	goods, merchandise
+	goods, merchandise, contents
 	reception of goods
 	will receive the goods, reception of goods
 	store house, shed
@@ -2717,7 +2719,7 @@ H	acid
 	punishment, prison window, imprisonment
 	prison bars
 	will be imprisoned
-	prison, goal
+	prison, gaol
 	prisoner, criminal
 	criminal, thief, bandit, bushranger
 	captive, prisoner (of any kind)
@@ -3198,8 +3200,25 @@ NaCl	to salt
 	mistake, error, fault (BCI 15479)
 	directory (?)
 	(cut-and-)paste (BCI 23465)
-	change number, version
+	change number, version number
 	credits, writers who have written (?)
 	to wonder, to enquire, to be curious (BCI 26337)
 	editing (?)
 	collection of pictures, collection of figures (?)
+	to navigate (BCI 27093)
+	new (BCI 15710)
+	old (? - for person is )
+	recent (BCI 1648+CKB for past)
+	rename, change name
+	control (BCI 24428)
+	the import (BCI 23538)
+	to import (BCI 23539)
+	the export (BCI 23489)
+	exported
+	to export (BCI 23490)
+	Facsimile, fax (BCI 23497)
+	record, register, paper on information
+	repository (?)
+	reference, source (BCI 28070)
+	not allow, disable, prevent
+	to undo (BCI 23700)

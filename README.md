@@ -44,13 +44,20 @@ At this point in time, installation is rather crude.  The steps are:
 * Install required Debian packages, namely TexLive and R.
 - Install the package XeLaTeX viz
 
-    sudo apt-get install texlive-xetex
+    sudo apt-get install texlive texlive-xetex
 
 - Install the package R viz
 
     sudo apt-get install r-base r-recommended r-cran-shiny r-cran-sf
 
-* Download or unpack a clone of the repository into a directory somewhere that allows root access.
+  Set the Font tuning method for screen (system default) to Autohinter
+  Leave the Automatic font hinting style at the default of slight
+  Leave the Enable subpixel rendering for screen at the default of Automatic
+  Leave Enable subpixel rendering for screen at the default of No
+
+* Download or unpack a clone of the repository into a directory somewhere that allows root access.  You need to take care that root has access, for instance, if it is a mounted drive, root may not have access.  Best option is /usr/local/src/
+* From the top level of the blissymbolics directory, as the user that unpacked the clone of the repository, execute the script: 
+    chmod +x system/*
 * From the top level of the blissymbolics directory, as root, execute the script: 
 
     system/install_bliss

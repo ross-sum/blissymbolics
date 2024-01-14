@@ -482,6 +482,7 @@
 	second alternative
 	choosing (emotional)
 	choosing (reasoned), choice (?)
+	choices (reasoned)
 	choosing (conscience)
 	counter purpose
 	of, about, on
@@ -1164,6 +1165,7 @@ ILEUM
 	shall elect, shall select
 	did elect, did select
 	been elected, been selected
+	elections, selections
 	will
 	willingly
 	refusal
@@ -1224,6 +1226,7 @@ ILEUM
 	will deposit, will insert, will enter
 	deposited, inserted
 	entered, inserted, deposited, absorption
+	inset (thing to be inserted) (?)
 	entry receipt, deposit document
 	to move out, to exit, out of, exhaust, spray, to leave, extract, to output
 	emission
@@ -1265,13 +1268,13 @@ ILEUM
 	feeling of doubt
 	doubt
 	feeling of certainty
-	beautiful
-	the beauty
-	beauty, loveliness, beautiful
-	beauty parlour
-	ugliness, depressing sight
-	gorgeousness
-	gorgeous
+	beautiful
+	the beauty
+	beauty, loveliness, beautiful
+	beauty parlour
+	ugliness, depressing sight
+	gorgeousness
+	gorgeous
 	science, philosophy, mind contemplating nature, research
 	scientist, philosopher
 	science of chemistry
@@ -1319,7 +1322,8 @@ ILEUM
 	applied chemistry, practical chemistry
 	organic chemistry
 	benzine chemistry
-	to organise, to arrange (BRG)
+	to organise, to arrange (BCI 15935)
+	the organisation, the arrangement, the setting
 	eye, seeing
 	the eye
 	vision, to see, to visualise, to sight
@@ -1357,12 +1361,12 @@ ILEUM
 	discovered
 	picture, photo, photograph, view finder, depict, image, figure
 	picture frame
-	art, painting, artwork, style (?)
-	the piece of art
-	pieces of art
-	art gallery
-	art galleries
-	artist
+	art, painting, artwork, style (?)
+	the piece of art
+	pieces of art
+	art gallery
+	art galleries
+	artist
 	observer
 	eye: side view
 	retina

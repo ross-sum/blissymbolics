@@ -27,14 +27,14 @@ Menuset
 
 	Menubar
 # Make the first 4 menus be as much as expected as possible
-		Submenu "|F" "file"
-		Submenu "|E" "edit"
-		Submenu "|V" "view"
-		Submenu "|I" "insert"
-		Submenu "|N" "navigate"
-		Submenu "|D" "document"
-		Submenu "|T" "tools"
-		Submenu "|H" "help"
+		Submenu "" "file"
+		Submenu "" "edit"
+		Submenu "" "view"
+		Submenu "" "insert"
+		Submenu "" "navigate"
+		Submenu "" "document"
+		Submenu "" "tools"
+		Submenu "" "help"
 	End
 
 #
@@ -42,27 +42,27 @@ Menuset
 #
 
 	Menu "file"
-		Item "|N" "buffer-new"
-		Item "  ...|m" "buffer-new-template"
-		Item "...|O" "file-open"
-		Submenu " |t" "file_lastfiles"
+		Item "" "buffer-new"
+		Item "  ..." "buffer-new-template"
+		Item "..." "file-open"
+		Submenu " " "file_lastfiles"
 		Separator
-		Item "|C" "buffer-close"
+		Item "" "buffer-close"
 		Item " " "buffer-close-all"
-		Item "|S" "buffer-write"
-		Item " ...|A" "buffer-write-as"
-		Item " |l" "buffer-write-all"
-		Item " |R" "buffer-reload"
-		Submenu " |V" "file_vc"
+		Item "" "buffer-write"
+		Item " ..." "buffer-write-as"
+		Item " " "buffer-write-all"
+		Item " " "buffer-reload"
+		Submenu " " "file_vc"
 		Separator
-		Submenu "|I" "file_import"
-		Submenu "|E" "file_export"
-		OptItem "...|F" "buffer-export fax"
+		Submenu "" "file_import"
+		Submenu "" "file_export"
+		OptItem "..." "buffer-export fax"
 		Separator
-		Item " |W" "window-new"
-		Item " |d" "window-close"
+		Item " " "window-new"
+		Item " " "window-close"
 		Separator
-		Item "|x" "lyx-quit"
+		Item "" "lyx-quit"
 	End
 
 	Menu "file_lastfiles"
@@ -70,17 +70,17 @@ Menuset
 	End
 
 	Menu "file_vc"
-		OptItem "...|R" "vc-register"
-		OptItem " ...|I" "vc-check-in"
-		OptItem "  |O" "vc-check-out"
-		OptItem "|p" "vc-copy"
-		OptItem "|R" "vc-rename"
-		OptItem "    |d" "vc-repo-update"
-		OptItem "   |v" "vc-revert"
-		OptItem " 1  |U" "vc-undo-last"
-		OptItem "   ...|C" "vc-compare"
-		OptItem "  ...|H" "dialog-show vclog"
-		OptItem "  |L" "vc-locking-toggle"
+		OptItem "..." "vc-register"
+		OptItem " ..." "vc-check-in"
+		OptItem "  " "vc-check-out"
+		OptItem "" "vc-copy"
+		OptItem "" "vc-rename"
+		OptItem "    " "vc-repo-update"
+		OptItem "   " "vc-revert"
+		OptItem " 1  " "vc-undo-last"
+		OptItem "   ..." "vc-compare"
+		OptItem "  ..." "dialog-show vclog"
+		OptItem "  " "vc-locking-toggle"
 	End
 
 	Menu "file_import"
@@ -89,10 +89,10 @@ Menuset
 
 	Menu "file_export"
 		ExportFormat
-		Item " ...|s" "buffer-export-as"
+		Item " ..." "buffer-export-as"
 		Separator
 		ExportFormats
-		Item "   ...|r" "buffer-export custom"
+		Item "   ..." "buffer-export custom"
 	End
 
 #
@@ -100,32 +100,32 @@ Menuset
 #
 
 	Menu "edit"
-		Item "|U" "undo"
-		Item "|R" "redo"
+		Item "" "undo"
+		Item "" "redo"
 		Separator
 		Item "" "cut"
 		Item "" "copy"
 		Item "" "paste"
-		Submenu " Recent|e" "edit_pasterecent"
-		Submenu " Special" "edit_paste"
+		Submenu " " "edit_pasterecent"
+		Submenu " " "edit_paste"
 		Separator
 		Item "  " "inset-select-all"
 		Item " " "command-sequence buffer-begin ; buffer-end-select"
 		Separator
-		Item "Find & Replace (Quick)...|F" "dialog-show findreplace"
-		Item "Find & Replace (Advanced)..." "dialog-show findreplaceadv"
+		Item "   ()..." "dialog-show findreplace"
+		Item "   ( )..." "dialog-show findreplaceadv"
 		Separator
-		Item "Move Paragraph Up|o" "paragraph-move-up"
-		Item "Move Paragraph Down|v" "paragraph-move-down"
+		Item "  " "paragraph-move-up"
+		Item "  " "paragraph-move-down"
 		Separator
-		Submenu "Text Style|S" "edit_textstyles"
+		Submenu " " "edit_textstyles"
 		LanguageSelector
-		Item "Paragraph Settings...|P" "layout-paragraph"
+		Item " ..." "layout-paragraph"
 		Separator
 # Mathed b0rkage means these don't work properly
-		OptSubmenu "Table|T" "edit_tabular"
-		OptSubmenu "Maths|M" "edit_maths"
-		OptSubmenu "Rows & Columns|C" "edit_tabular_features"
+		OptSubmenu "" "edit_tabular"
+		OptSubmenu "" "edit_maths"
+		OptSubmenu "Rows  Columns" "edit_tabular_features"
 		Separator
 # This is where the context-specific stuff is supposed to go.
 # The idea is that everything on here can disappear and should
@@ -154,24 +154,24 @@ Menuset
 	End
 
 	Menu "edit_paste"
-		OptItem " from HTML|H" "paste html"
-		OptItem " from LaTeX|L" "paste latex"
-		OptItem " as LinkBack PDF" "paste linkback"
-		OptItem " as PDF" "paste pdf"
-		OptItem " as PNG" "paste png"
-		OptItem " as JPEG" "paste jpeg"
-		OptItem " as EMF" "paste emf"
+		OptItem "    HTML" "paste html"
+		OptItem "    LaTeX" "paste latex"
+		OptItem "    PDF  " "paste linkback"
+		OptItem "   PDF" "paste pdf"
+		OptItem "   PNG" "paste png"
+		OptItem "   JPEG" "paste jpeg"
+		OptItem "   EMF" "paste emf"
 		Separator
-		Item "Plain Text|T" "clipboard-paste"
-		Item "Plain Text, Join Lines|J" "clipboard-paste paragraph"
+		Item " " "clipboard-paste"
+		Item " ,  " "clipboard-paste paragraph"
 		Separator
-		Item "Selection|S" "primary-selection-paste"
-		Item "Selection, Join Lines|i" "primary-selection-paste paragraph"
+		Item "" "primary-selection-paste"
+		Item ",  " "primary-selection-paste paragraph"
 # clipboard-paste-simple is commented because it is irritating (bug 8749)
 # until somebody can explain why it is needed in addition to clipboard-paste
 #		Separator
-#		Item "Unformatted Text|U" "clipboard-paste-simple"
-#		Item "Unformatted, Join Lines|o" "clipboard-paste-simple paragraph"
+#		Item " " "clipboard-paste-simple"
+#		Item " ,  " "clipboard-paste-simple paragraph"
 	End
 
 	Menu "edit_pasterecent"
@@ -339,7 +339,7 @@ Menuset
 		Item "Outline Pane|u" "dialog-toggle toc"
 		Item "Code Preview Pane|P" "dialog-toggle view-source"
 		Item "Messages Pane|g" "dialog-toggle progress"
-		Submenu "Toolbars|b" "toolbars"
+		Submenu "" "toolbars"
 		Separator
 		Item "Split View Into Left and Right Half|i" "view-split horizontal"
 		Item "Split View Into Upper and Lower Half|e" "view-split vertical"
@@ -352,7 +352,7 @@ Menuset
 	Menu "toolbars"
 		Toolbars
 		Separator
-		Item "Lock Toolbars|L" "toolbar-movable *"
+		Item " " "toolbar-movable *"
 		Separator
 		Item "Small-sized Icons" "icon-size small"
 		Item "Normal-sized Icons" "icon-size normal"
@@ -367,7 +367,7 @@ Menuset
 # Try and group things a little better, and percolate the most
 # commonly used to good positions (exception being mathed, but
 # most people using mathed learn key shortcuts quite quickly anyway)
-		Submenu "Maths|h" "insert_maths"
+		Submenu "" "insert_maths"
 		Submenu "Special Character|p" "insert_special"
 		Submenu "Formatting|o" "insert_formatting"
 		Submenu "List / TOC|i" "insert_toc"
@@ -381,12 +381,12 @@ Menuset
 		Separator
 		Item "Citation...|C" "dialog-show-new-inset citation"
 		Item "Cross-Reference...|R" "dialog-show-new-inset ref"
-		Item "Label...|L" "label-insert"
+		Item "..." "label-insert"
 		Captions
 		Indices
 		Item "Nomenclature Entry...|y" "nomencl-insert"
 		Separator
-		Item "Table...|T" "tabular-insert"
+		Item "..." "tabular-insert"
 		Item "Graphics...|G" "dialog-show-new-inset graphics"
 		Item "URL|U" "flex-insert URL"
 		Item "Hyperlink...|k" "href-insert"

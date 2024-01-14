@@ -1062,7 +1062,7 @@ ILEUM
 	hypothesise, assumes
 	the guess, the hypothesis, the assumption
 	classification, type, category
-	the classification, the category, the type
+	the classification, the category, the type, the format (?)
 	to classify
 	to classify
 	to classify as, to be classified
@@ -1488,7 +1488,7 @@ NO	air
 	generalisation
 	to generalise
 	general
-	name, sign, signature, name is
+	name, sign, signature, name is, label, term, title
 	names
 	did name, did cite (?)
 	named (adjective), cited, termed
@@ -1611,6 +1611,7 @@ NO	air
 	tool of protection
 	kitchen tools
 	kitchen tool
+	instruction(s), direction(s) (BCI 14946)
 	cut around outside, to strip (?)
 	clap
 	sweat
@@ -3226,3 +3227,6 @@ NaCl	to salt
 	reference, source (BCI 28070)
 	not allow, disable, prevent
 	to undo (BCI 23700)
+	thing label
+	list, inventory (BCI 15220)
+	toolbar (?)

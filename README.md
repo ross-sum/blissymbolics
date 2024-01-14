@@ -4,7 +4,7 @@ $Date: $
 ## Description
 
 This repository contains the main files for managing the Blissymbolics language, including font files and files to configure applications to use the Blissymbolics language on a Linux-based system.
-It is based around a font set of lines and curves, which was developed after looking at Charles Bliss' typewriter modification design.  Unfortunately, developing a keyboard input for such a font is complex since, apart from some special fixed with space symbols, is wholly combining characters.  Previous approachesi to developing a symbol set, not just here but elsewhere by other organisations, had been to use a character for each word, but there are potentially many thousands of words.  A simple drawing set is all that is required and all that Charles Bliss seems to have had in mind (see his book, Semantography (Blissymbolics) Second Enlarged Edition 1965, page 89).
+It is based around a font set of lines and curves, which was developed after looking at Charles Bliss' typewriter modification design.  Unfortunately, developing a keyboard input for such a font is complex since, apart from some special fixed with space symbols, is wholly combining characters.  Previous approaches to developing a symbol set, not just here but elsewhere by other organisations, had been to use a character for each word, but there are potentially many thousands of words.  A simple drawing set is all that is required and all that Charles Bliss seems to have had in mind (see his book, Semantography (Blissymbolics) Second Enlarged Edition 1965, page 89).
 
 The repository provides a language environment for the Debian Linux environment (it should therefore work very comfortably on a Raspberry Pi, which is essentially Debian-based).  It provides a LaTeX language environment that ensures dates and times are printed correctly and also provides translations for book writing sections (noting that LaTeX is a publishing environment).
 
@@ -76,6 +76,9 @@ R is often used by LyX for its graphical output, generating encapsulated postscr
 There are two methods of getting R to recognise a non-standard TrueType font. One is the extrafont package. It will load all TrueType fonts but, unfortunately, you cannot print using most of them (but you can display them). The other is the showtext package. With it, you must specify the font(s) that you wish to use, including their full path name, in the R script. 
 
 For LyX, out of the box, it does not support input from non-keyboard Unicode characters.  Out of the box, the only way to get text there is via a copy and Paste Special (Paste from LaTeX).  It is for this reason that further work is required to set up LyX (see Roadmap and Contributing below).  LyX draws upon the system and user fonts for its screen fonts.  So, providing an update is done (and you may need to manually do a Tools|Reconfigure within LyX yourself in addition to that done by the script), it will recognise the Blissymbolics font.  For a document, though, you may need to check the 'Use non-TeX fonts (via XeTeX/LuaTeX)' check box under the menu Document|Settings...|Fonts.
+
+A UI file for LyX is partially written.  It is currently installed in /usr/local/share/lyx/ui/, but it cannot be used from there.  If you wish to try it out, then copy all the files in that directory to ~/.lyx/ui/ and then select it as the User interface file, which is located in the User Interface subsection of Look & Feel in Tools|Preferences.  However, LyX does not have a mechanism built in to change its own menu font.  LyX documentation says to run qtconfig, but there is no such thing anymore.  Apparently qt5ct replaces it.  It needs to be run by each of the computer's users that plans to use LyX with Blissymbolics.
+
 It is also worth noting that LyX puts a Left-to-Right Override (LRO) U+202D character at the beginning of every paragraph. The font file should have a (blank) character in this point, otherwise a rectangle or something similar will be displayed. 
 
 ## Support
@@ -102,7 +105,7 @@ To expand out the capabilities of setting up the Blissymbolics locale, check out
 ## Authors and acknowledgment
 This work was developed by and is currently maintained by Ross Summerfield.
 
-Blissymbolics, originally called Semantography, was developed by Charles K. Bliss, a former resident of Coogee, New South Wales, Australia. Thanks to Charles for his tireless work in ensuring that the symbol set would work and was extensible to describe any thing, feeling or concept.
+Blissymbolics, originally called Semantography, was developed by the late Charles K. Bliss, a former resident of Coogee, New South Wales, Australia. Thanks to Charles for his tireless work in ensuring that the symbol set would work and was extensible to describe any thing, feeling or concept.
 
 Thanks also to Blissymbolics Communication International (BCI), https://www.blissymbolics.org/index.php/symbol-files for their work in collating and maintaining a 'dictionary' of symbols.
 
@@ -112,5 +115,5 @@ This package is licensed under the GNU Lesser General Public Licence (LGPL), ver
 ## Project status
 An audit of the dictionary used here against the works of Charles Bliss needs to be carried out.  Fortunately, the National Library of Australia is just down the road, so getting access to his documentation (books and papers) is straight forward.
 
-The font file needs to be reordered still, after the most recent loading of the dictionary to ensure all characters are included.  This reordering will need to be done in conjunction with adjusting the dictionary so that the words are corect.  At that point, the dictionary and the font files will be ready for publishing to the world.
+The font file needs to be reordered still, after the most recent loading of the dictionary to ensure all characters are included.  This reordering will need to be done in conjunction with adjusting the dictionary so that the words are correct.  At that point, the dictionary and the font files will be ready for publishing to the world.
 

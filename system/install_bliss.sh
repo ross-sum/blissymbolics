@@ -110,12 +110,15 @@ cp src/lyx/bliss.ui /usr/local/share/lyx/ui/
 cp src/lyx/blisscontext.inc /usr/local/share/lyx/ui/
 cp src/lyx/blissmenus.inc /usr/local/share/lyx/ui/
 cp src/lyx/blisstoolbars.inc /usr/local/share/lyx/ui/
-/usr/bin/lyx -batch --execute "reconfigure" src/lyx/temp.lyx
 cd src/lyx
 msgfmt -o aus_AU.mo aus_AU.po
 cd ${WKDIR}
 mkdir -p /usr/local/share/locale/aus_AU/LC_MESSAGES/
 cp src/lyx/aus_AU.mo /usr/local/share/locale/aus_AU/LC_MESSAGES/lyx.mo
+# To set the LyX fonts, qt5ct needs to be installed
+apt-get install qt5ct
+# Reconfigure lyx (actually, it seems that each user needs to do this)
+/usr/bin/lyx -batch --execute "reconfigure" src/lyx/temp.lyx
 # To get Blissymbolics keyboard to work, ibus needs to be installed.
 apt-get install ibus ibus-gtk ibus-gtk3 ibus-table ibus-clutter ibus-m17n
 echo "Manual configuration to your environment required. Please run"
@@ -124,4 +127,6 @@ echo "'Add', choose 'Other' at the bottom of the list, then choose "
 echo "'t-unicode (m17n)' and select 'Add'."
 echo "It is wise to then logout and reboot."
 echo "This must be done for each user of this computer."
+echo "Further, each user must run 'qt5ct' and set the font to"
+echo "Blissymbolics (suggest 30 point)."
 

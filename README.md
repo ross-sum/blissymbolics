@@ -77,12 +77,12 @@ There are two methods of getting R to recognise a non-standard TrueType font. On
 
 For LyX, out of the box, it does not support input from non-keyboard Unicode characters.  Out of the box, the only way to get text there is via a copy and Paste Special (Paste from LaTeX).  It is for this reason that further work is required to set up LyX (see Roadmap and Contributing below).  LyX draws upon the system and user fonts for its screen fonts.  So, providing an update is done (and you may need to manually do a Tools|Reconfigure within LyX yourself in addition to that done by the script), it will recognise the Blissymbolics font.  For a document, though, you may need to check the 'Use non-TeX fonts (via XeTeX/LuaTeX)' check box under the menu Document|Settings...|Fonts.
 
-A UI file for LyX is partially written.  It is currently installed in /usr/local/share/lyx/ui/, but it cannot be used from there.  If you wish to try it out, then copy all the files in that directory to ~/.lyx/ui/ and then select it as the User interface file, which is located in the User Interface subsection of Look & Feel in Tools|Preferences.  However, LyX does not have a mechanism built in to change its own menu font.  LyX documentation says to run qtconfig, but there is no such thing anymore.  Apparently qt5ct replaces it.  It needs to be run by each of the computer's users that plans to use LyX with Blissymbolics.
+A UI file for LyX is partially written.  It is currently installed in /usr/local/share/lyx/ui/, but it cannot be used from there.  If you wish to try it out, then copy all the files in that directory to ~/.lyx/ui/ and then select it as the User interface file, which is located in the User Interface subsection of Look & Feel in Tools|Preferences.  However, LyX does not have a mechanism built in to change its own menu font.  LyX documentation says to run qtconfig, but there is no such thing anymore.  Apparently qt5ct replaces it.  It needs to be run by each of the computer's users that plans to use LyX with Blissymbolics. After the system/install_bliss package installs it, you will need to run it (go to a terminal emulator, type `qt5ct`, then select the Blissymbolics-Courier font.  Once done and saved, log out and log in again for the font to take effect.
 
 It is also worth noting that LyX puts a Left-to-Right Override (LRO) U+202D character at the beginning of every paragraph. The font file should have a (blank) character in this point, otherwise a rectangle or something similar will be displayed. 
 
 ## Support
-For help, email me at ross <at> hyperquantum <dot> com <dot> au.  Otherwise, issue tracking is through GitHub.
+For help, email me at ross [at] hyperquantum [dot] com [dot] au.  Otherwise, issue tracking is through GitHub.
 
 ## Roadmap
 Planned future releases include:

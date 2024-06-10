@@ -66,7 +66,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BibitemUi.ui:35 src/frontends/qt4/ui/BibitemUi.ui:78
 msgid "The label as it appears in the document"
-msgstr ""
+msgstr "       "
 
 #: src/frontends/qt4/ui/BibitemUi.ui:38 src/frontends/qt4/ui/LabelUi.ui:36
 msgid "&Label:"
@@ -76,21 +76,21 @@ msgstr ""
 msgid ""
 "Pass content of the `Label' field literally to LaTeX. Check this if you want "
 "to enter LaTeX code."
-msgstr ""
+msgstr "   ''     LaTeX.    2    LaTeX ."
 
 #: src/frontends/qt4/ui/BibitemUi.ui:88 src/frontends/qt4/ui/CitationUi.ui:375
 #: src/frontends/qt4/ui/HyperlinkUi.ui:80 src/frontends/qt4/ui/NomenclUi.ui:72
 #: src/frontends/qt4/ui/PrintindexUi.ui:74
 msgid "Li&teral"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/BiblioUi.ui:26
 msgid "Citation Style"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/BiblioUi.ui:55
 msgid "Sty&le format:"
-msgstr ""
+msgstr " :"
 
 #: src/frontends/qt4/ui/BiblioUi.ui:65
 msgid ""
@@ -101,11 +101,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BiblioUi.ui:75
 msgid "&Variant:"
-msgstr ""
+msgstr ":"
 
 #: src/frontends/qt4/ui/BiblioUi.ui:94
 msgid "Provides available cite style variants."
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/ui/BiblioUi.ui:118 src/frontends/qt4/GuiPrefs.cpp:826
 #: src/frontends/qt4/GuiPrefs.cpp:959
@@ -118,7 +118,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BiblioUi.ui:154
 msgid "Biblatex &citation style:"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/ui/BiblioUi.ui:164
 msgid "The style that determines the layout of the citations"
@@ -135,11 +135,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BiblioUi.ui:201
 msgid "Bibliography Style"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/ui/BiblioUi.ui:215
 msgid "Biblate&x bibliography style:"
-msgstr ""
+msgstr "   :"
 
 #: src/frontends/qt4/ui/BiblioUi.ui:231
 msgid ""
@@ -154,7 +154,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BiblioUi.ui:251
 msgid "Match biblatex bibliography with citation style"
-msgstr ""
+msgstr "     "
 
 #: src/frontends/qt4/ui/BiblioUi.ui:254
 msgid "&Match"
@@ -184,7 +184,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BiblioUi.ui:328
 msgid "Rescan style files"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/ui/BiblioUi.ui:331
 msgid "Re&scan"
@@ -192,11 +192,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BiblioUi.ui:342
 msgid "&Multiple bibliographies:"
-msgstr ""
+msgstr "  :"
 
 #: src/frontends/qt4/ui/BiblioUi.ui:358
 msgid "Generate a bibliography per defined unit."
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/ui/BiblioUi.ui:376
 msgid ""
@@ -205,7 +205,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BiblioUi.ui:379 src/frontends/qt4/ui/PrefLatexUi.ui:96
 msgid "Bibliography Generation"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/ui/BiblioUi.ui:390 src/frontends/qt4/ui/IndicesUi.ui:33
 #: src/frontends/qt4/ui/PrefLatexUi.ui:209
@@ -237,7 +237,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BibtexAddUi.ui:67
 msgid "Rescan LaTeX's index for new databases and styles"
-msgstr ""
+msgstr "  LaTeX     "
 
 #: src/frontends/qt4/ui/BibtexAddUi.ui:70 src/frontends/qt4/ui/BibtexUi.ui:107
 #: src/frontends/qt4/ui/TexinfoUi.ui:122
@@ -328,19 +328,19 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BibtexUi.ui:104
 msgid "Scan for new databases and styles"
-msgstr ""
+msgstr "      "
 
 #: src/frontends/qt4/ui/BibtexUi.ui:120
 msgid "The BibTeX style"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/ui/BibtexUi.ui:123
 msgid "St&yle"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/BibtexUi.ui:133 src/frontends/qt4/ui/BibtexUi.ui:146
 msgid "Choose a style file"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/BibtexUi.ui:165 src/frontends/qt4/ui/BibtexUi.ui:178
 msgid "This bibliography section contains..."
@@ -371,7 +371,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/BibtexUi.ui:219
 msgid "Add bibliography to &TOC"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/BibtexUi.ui:228
 msgid "O&ptions:"
@@ -1030,7 +1030,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/CitationUi.ui:116
 msgid "A&vailable Citations:"
-msgstr ""
+msgstr " :"
 
 #: src/frontends/qt4/ui/CitationUi.ui:143
 msgid "Click or press Enter to add the selected citation to the list"
@@ -1050,7 +1050,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/CitationUi.ui:232
 msgid "Selected &Citations:"
-msgstr ""
+msgstr " :"
 
 #: src/frontends/qt4/ui/CitationUi.ui:276
 msgid "Formatting"
@@ -1058,7 +1058,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/CitationUi.ui:286
 msgid "Citation st&yle:"
-msgstr ""
+msgstr " :"
 
 #: src/frontends/qt4/ui/CitationUi.ui:296 src/frontends/qt4/GuiCitation.cpp:306
 msgid "Text befo&re:"
@@ -1066,7 +1066,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/CitationUi.ui:316
 msgid "Citation style to use, if different styles are provided"
-msgstr ""
+msgstr "       "
 
 #: src/frontends/qt4/ui/CitationUi.ui:325 src/frontends/qt4/GuiCitation.cpp:310
 msgid ""
@@ -1289,7 +1289,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/ErrorListUi.ui:36
 msgid "For more information, refer to the complete log."
-msgstr ""
+msgstr "  ,     "
 
 #: src/frontends/qt4/ui/ErrorListUi.ui:43
 msgid "&Errors:"
@@ -1301,7 +1301,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/ErrorListUi.ui:83
 msgid "Open the LaTeX Log File dialog"
-msgstr ""
+msgstr "   LaTeX   "
 
 #: src/frontends/qt4/ui/ErrorListUi.ui:86
 msgid "View Complete &Log..."
@@ -1360,7 +1360,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/ExternalUi.ui:144
 msgid "LaTeX Options"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/frontends/qt4/ui/ExternalUi.ui:162
 msgid "O&ption:"
@@ -1602,7 +1602,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/FindAndReplaceUi.ui:272
 msgid "I&gnore format"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/FindAndReplaceUi.ui:282
 msgid ""
@@ -1649,7 +1649,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/FloatPlacementUi.ui:62
 msgid "&Ignore LaTeX rules"
-msgstr ""
+msgstr "  LaTeX "
 
 #: src/frontends/qt4/ui/FloatPlacementUi.ui:69
 msgid "Here de&finitely"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/FontUi.ui:81
 msgid "&LaTeX font encoding:"
-msgstr ""
+msgstr " LaTeX  "
 
 #: src/frontends/qt4/ui/FontUi.ui:96 src/frontends/qt4/ui/PrefLatexUi.ui:44
 msgid "Specify the font encoding (e.g., T1)."
@@ -1775,11 +1775,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/FontUi.ui:280
 msgid "Use old style instead of lining figures"
-msgstr ""
+msgstr "      "
 
 #: src/frontends/qt4/ui/FontUi.ui:283
 msgid "Use &old style figures"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/FontUi.ui:290
 msgid ""
@@ -1895,11 +1895,11 @@ msgstr ""
 #: src/frontends/qt4/ui/GraphicsUi.ui:520
 #: src/frontends/qt4/ui/GraphicsUi.ui:527
 msgid "Additional LaTeX options"
-msgstr ""
+msgstr "  LaTeX "
 
 #: src/frontends/qt4/ui/GraphicsUi.ui:530
 msgid "LaTeX &options:"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/frontends/qt4/ui/GraphicsUi.ui:556
 msgid ""
@@ -1949,7 +1949,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/HSpaceUi.ui:28
 msgid "Select a fill pattern style for HFills"
-msgstr ""
+msgstr "      "
 
 #: src/frontends/qt4/ui/HSpaceUi.ui:37
 msgid "..............."
@@ -2102,7 +2102,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/IncludeUi.ui:219
 msgid "Show LaTeX preview"
-msgstr ""
+msgstr "  LaTeX "
 
 #: src/frontends/qt4/ui/IncludeUi.ui:222
 msgid "&Show preview"
@@ -2216,11 +2216,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/InfoUi.ui:24
 msgid "Information Type:"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/InfoUi.ui:34
 msgid "Information Name:"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/InsetParamsUi.ui:16
 msgid "Inset Parameter Configuration"
@@ -2315,11 +2315,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/LaTeXUi.ui:207
 msgid "&Use refstyle (not prettyref) for cross-references"
-msgstr ""
+msgstr "   (  )   "
 
 #: src/frontends/qt4/ui/LanguageUi.ui:72
 msgid "&Quote style:"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/LanguageUi.ui:84
 msgid "Language pa&ckage:"
@@ -2396,7 +2396,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/ListingsSettingsUi.ui:92
 msgid "Choose the LaTeX package for code syntax highlighting"
-msgstr ""
+msgstr "   LaTeX     "
 
 #: src/frontends/qt4/ui/ListingsSettingsUi.ui:95
 msgid "&Syntax Highlighting Package:"
@@ -2472,7 +2472,7 @@ msgstr ""
 #: src/frontends/qt4/ui/ListingsUi.ui:185
 #: src/frontends/qt4/ui/TabularUi.ui:1128
 msgid "Style"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/ListingsUi.ui:191
 msgid "F&ont size:"
@@ -2488,7 +2488,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/ListingsUi.ui:246
 msgid "The content's base font style"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/ListingsUi.ui:259
 msgid "Break lines longer than the linewidth"
@@ -2576,7 +2576,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/LocalLayoutUi.ui:20
 msgid "Document-specific layout information"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/LocalLayoutUi.ui:38
 msgid "&Validate"
@@ -2845,7 +2845,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/NoteUi.ui:70
 msgid "Export to LaTeX/Docbook but don't print"
-msgstr ""
+msgstr "   LaTeX  Docbook   "
 
 #: src/frontends/qt4/ui/NoteUi.ui:73
 msgid "&Comment"
@@ -2869,7 +2869,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/OutputUi.ui:20
 msgid "Output Format"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/OutputUi.ui:61 src/frontends/qt4/ui/OutputUi.ui:74
 msgid "Specify the default output format (for view/update)"
@@ -2877,11 +2877,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/OutputUi.ui:64
 msgid "De&fault output format:"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/ui/OutputUi.ui:86
 msgid "LyX Format"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/OutputUi.ui:98
 msgid ""
@@ -2919,7 +2919,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/OutputUi.ui:151
 msgid "Custom LaTeX preamble macro"
-msgstr ""
+msgstr "  LaTeX  "
 
 #: src/frontends/qt4/ui/OutputUi.ui:166
 msgid "XHTML Output Options"
@@ -2939,15 +2939,15 @@ msgstr " �
 
 #: src/frontends/qt4/ui/OutputUi.ui:207
 msgid "Format to use for math output."
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/ui/OutputUi.ui:211
 msgid "MathML"
-msgstr ""
+msgstr ""
 
 #: src/frontends/qt4/ui/OutputUi.ui:216
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: src/frontends/qt4/ui/OutputUi.ui:221
 msgid "Images"
@@ -2958,7 +2958,7 @@ msgstr "
 #: src/frontends/qt4/GuiDocument.cpp:1490 src/frontends/qt4/GuiErrorList.cpp:51
 #: src/frontends/qt4/GuiLog.cpp:245 src/frontends/qt4/GuiPrefs.cpp:724
 msgid "LaTeX"
-msgstr ""
+msgstr " LaTeX"
 
 #: src/frontends/qt4/ui/OutputUi.ui:240
 msgid "Math &image scaling:"
@@ -2982,7 +2982,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PDFSupportUi.ui:91
 msgid "Header Information"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/PDFSupportUi.ui:103
 msgid "&Title:"
@@ -3031,7 +3031,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PDFSupportUi.ui:232
 msgid "No &frames around links"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/PDFSupportUi.ui:242
 msgid "C&olor links"
@@ -3105,11 +3105,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PageLayoutUi.ui:171
 msgid "Page &style:"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/PageLayoutUi.ui:187
 msgid "Style used for the page header and footer"
-msgstr ""
+msgstr "       "
 
 #: src/frontends/qt4/ui/PageLayoutUi.ui:207
 msgid "Lay out the page for double-sided printing"
@@ -3491,7 +3491,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefDocHandlingUi.ui:62
 msgid "&Clear all session information"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/PrefDocHandlingUi.ui:85
 msgid "Backup && Saving"
@@ -3601,7 +3601,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefEditUi.ui:100
 msgid "Use M&ac-style cursor movement"
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/ui/PrefEditUi.ui:107
 msgid "Sort &environments alphabetically"
@@ -3864,7 +3864,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefLanguageUi.ui:98
 msgid "The LaTeX command that starts a switch to a foreign language"
-msgstr ""
+msgstr "  LaTeX        "
 
 #: src/frontends/qt4/ui/PrefLanguageUi.ui:118
 msgid "Command e&nd:"
@@ -3872,7 +3872,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefLanguageUi.ui:128
 msgid "The LaTeX command that ends a switch to a foreign language"
-msgstr ""
+msgstr "  LaTeX        "
 
 #: src/frontends/qt4/ui/PrefLanguageUi.ui:135
 msgid "Default decimal &separator:"
@@ -3972,7 +3972,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefLatexUi.ui:160
 msgid "Specific BibTeX command and options for pLaTeX (Japanese)"
-msgstr ""
+msgstr "       pLaTeX ()"
 
 #: src/frontends/qt4/ui/PrefLatexUi.ui:232
 msgid "Index command and options (makeindex, xindy)"
@@ -3980,7 +3980,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefLatexUi.ui:249
 msgid "Specific index command and options for pLaTeX (Japanese)"
-msgstr ""
+msgstr "       pLaTeX ()"
 
 #: src/frontends/qt4/ui/PrefLatexUi.ui:285
 msgid "Command and options for nomencl (usually makeindex)"
@@ -4007,7 +4007,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefLatexUi.ui:330
 msgid "&Use Windows-style paths in LaTeX files"
-msgstr ""
+msgstr "      LaTeX "
 
 #: src/frontends/qt4/ui/PrefLatexUi.ui:337
 msgid "Set class options to default on class change"
@@ -4066,7 +4066,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/PrefOutputUi.ui:216
 msgid "Date format for strftime output"
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/ui/PrefOutputUi.ui:227
 msgid "&Overwrite on export:"
@@ -4398,7 +4398,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/ProgressViewUi.ui:173
 msgid "Automatic cleanup of the window before LaTeX compilation proceeds"
-msgstr ""
+msgstr ""       LaTeX  
 
 #: src/frontends/qt4/ui/ProgressViewUi.ui:176
 msgid "&Clear automatically"
@@ -4410,7 +4410,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/ProgressViewUi.ui:203
 msgid "Display no debug messages"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/ProgressViewUi.ui:206
 msgid "&None"
@@ -4498,7 +4498,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/RefUi.ui:257
 msgid "Adjust the style of the cross-reference"
-msgstr ""
+msgstr "      "
 
 #: src/frontends/qt4/ui/RefUi.ui:261 src/frontends/qt4/GuiRef.cpp:307
 msgid "<reference>"
@@ -4563,7 +4563,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/RefUi.ui:418 lib/ui/stdcontext.inc:106
 msgid "No Prefix"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/ui/SearchUi.ui:95
 msgid "Case &sensitive[[search]]"
@@ -4833,7 +4833,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/TabularUi.ui:570
 msgid "Custom column format (LaTeX)"
-msgstr ""
+msgstr "   ( LaTeX)"
 
 #: src/frontends/qt4/ui/TabularUi.ui:584
 msgid "&Borders"
@@ -4865,7 +4865,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/TabularUi.ui:1134
 msgid "Use formal (a.k.a. booktabs) border style (no vertical borders)"
-msgstr ""
+msgstr "    (   )"
 
 #: src/frontends/qt4/ui/TabularUi.ui:1137
 msgid "Fo&rmal"
@@ -4873,7 +4873,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/TabularUi.ui:1147
 msgid "Use default (grid-like) border style"
-msgstr ""
+msgstr "  (  )  "
 
 #: src/frontends/qt4/ui/TabularUi.ui:1150
 msgid "De&fault"
@@ -5032,19 +5032,19 @@ msgstr ""
 
 #: src/frontends/qt4/ui/TexinfoUi.ui:161
 msgid "Selected classes or styles"
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/ui/TexinfoUi.ui:165
 msgid "LaTeX classes"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/frontends/qt4/ui/TexinfoUi.ui:170
 msgid "LaTeX styles"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/frontends/qt4/ui/TexinfoUi.ui:175
 msgid "BibTeX styles"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/ui/TexinfoUi.ui:180
 msgid "BibTeX databases"
@@ -5052,11 +5052,11 @@ msgstr ""
 
 #: src/frontends/qt4/ui/TexinfoUi.ui:185
 msgid "Biblatex bibliography styles"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/ui/TexinfoUi.ui:190
 msgid "Biblatex citation styles"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/ui/TexinfoUi.ui:214
 msgid "Toggles view of the file list"
@@ -5104,7 +5104,7 @@ msgstr ""
 
 #: src/frontends/qt4/ui/TextLayoutUi.ui:261
 msgid "Format text into two columns"
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/ui/TextLayoutUi.ui:264
 msgid "Two-&column document"
@@ -5405,12 +5405,12 @@ msgstr ""
 #: lib/citeengines/biblatex.citeengine:135
 #: lib/citeengines/jurabib.citeengine:125
 msgid "bibliography entry"
-msgstr ""
+msgstr "  "
 
 #: lib/citeengines/biblatex-natbib.citeengine:146
 #: lib/citeengines/biblatex.citeengine:136
 msgid "Full bibliography entry."
-msgstr ""
+msgstr "   "
 
 #: lib/citeengines/biblatex-natbib.citeengine:147
 #: lib/citeengines/biblatex.citeengine:137
@@ -5476,7 +5476,7 @@ msgstr ""
 
 #: lib/citeengines/jurabib.citeengine:126
 msgid "Bibliography entry."
-msgstr ""
+msgstr "  "
 
 #: lib/citeengines/jurabib.citeengine:127
 msgid "before"
@@ -6624,7 +6624,7 @@ msgstr ""
 #: lib/layouts/tufte-book.layout:265 lib/layouts/tufte-handout.layout:77
 #: src/frontends/qt4/GuiDocument.cpp:1640 src/insets/InsetBibtex.cpp:892
 msgid "Bibliography"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/IEEEtran.layout:360 lib/layouts/aastex.layout:410
 #: lib/layouts/aastex.layout:424 lib/layouts/agutex.layout:224
@@ -7353,7 +7353,7 @@ msgstr ""
 
 #: lib/layouts/aastex62.layout:200
 msgid "No collaboration"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/aastex62.layout:230
 msgid "Section Appendix"
@@ -7493,7 +7493,7 @@ msgstr ""
 
 #: lib/layouts/achemso.layout:259
 msgid "Supporting Information Available"
-msgstr ""
+msgstr "  "
 
 #: lib/layouts/achemso.layout:262
 msgid "TOC entry"
@@ -7526,7 +7526,7 @@ msgstr ""
 
 #: lib/layouts/acm-sigs-alt.layout:3
 msgid "ACM SIGS ('Alternate' Style, obsolete)"
-msgstr ""
+msgstr "  ( , )"
 
 #: lib/layouts/acm-sigs.inc:31 lib/layouts/acmart.layout:392
 #: lib/layouts/sigplanconf.layout:180
@@ -8224,7 +8224,7 @@ msgstr ""
 #: lib/layouts/agu_stdclass.inc:143 lib/layouts/agu_stdclass.inc:145
 #: lib/layouts/agu_stdtitle.inc:56
 msgid "Citation-number"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/agu_stdclass.inc:155 lib/layouts/agu_stdclass.inc:157
 #: lib/layouts/apax.inc:331
@@ -8326,7 +8326,7 @@ msgstr ""
 
 #: lib/layouts/agu_stdtitle.inc:59
 msgid "Citation-number:"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/agu_stdtitle.inc:65
 msgid "AGU-volume"
@@ -8449,11 +8449,11 @@ msgstr ""
 
 #: lib/layouts/agu_stdtitle.inc:264 src/frontends/qt4/GuiCitation.cpp:95
 msgid "Citation"
-msgstr ""
+msgstr ""
 
 #: lib/layouts/agu_stdtitle.inc:267
 msgid "Citation:"
-msgstr ""
+msgstr ":"
 
 #: lib/layouts/agu_stdtitle.inc:272
 msgid "Posting-order"
@@ -10682,7 +10682,7 @@ msgstr ""
 
 #: lib/layouts/egs.layout:289
 msgid "LaTeX Title"
-msgstr ""
+msgstr " LaTeX "
 
 #: lib/layouts/egs.layout:333
 msgid "Affil"
@@ -11375,7 +11375,7 @@ msgstr ""
 
 #: lib/layouts/fixltx2e.module:2
 msgid "Fix LaTeX"
-msgstr ""
+msgstr "  LaTeX"
 
 #: lib/layouts/fixltx2e.module:10
 msgid ""
@@ -12288,7 +12288,7 @@ msgstr ""
 
 #: lib/layouts/hpstatement.module:41
 msgid "Text for statements that require some information"
-msgstr ""
+msgstr "      "
 
 #: lib/layouts/ijmpc.layout:3
 msgid "Int. Journal of Modern Physics C"
@@ -12528,11 +12528,11 @@ msgstr ""
 
 #: lib/layouts/iopart.layout:268
 msgid "Bibliography (plain)"
-msgstr ""
+msgstr "  ()"
 
 #: lib/layouts/iopart.layout:295
 msgid "Bibliography heading"
-msgstr ""
+msgstr "  "
 
 #: lib/layouts/isprs.layout:3
 msgid "Int. Society f. Photogrammetry and Remote Sensing (ISPRS)"
@@ -12686,7 +12686,7 @@ msgstr ""
 
 #: lib/layouts/jasatex.layout:247 lib/layouts/jasatex.layout:251
 msgid "Online citation"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/jbook.layout:3
 msgid "Japanese Book (Standard Class)"
@@ -12834,7 +12834,7 @@ msgstr ""
 
 #: lib/layouts/latex8.layout:3
 msgid "Latex8 Article (Obsolete)"
-msgstr ""
+msgstr " LaTeX8  ( )"
 
 #: lib/layouts/letter.layout:3
 msgid "Letter (Standard Class)"
@@ -13073,7 +13073,7 @@ msgstr ""
 
 #: lib/layouts/llncs.layout:152
 msgid "Running LaTeX Title"
-msgstr ""
+msgstr "  LaTeX "
 
 #: lib/layouts/llncs.layout:175 lib/layouts/svcommon.inc:377
 msgid "TOC Title"
@@ -13162,7 +13162,7 @@ msgstr ""
 
 #: lib/layouts/logicalmkup.module:5
 msgid "charstyles"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/logicalmkup.module:11
 msgid "Noun"
@@ -13338,19 +13338,19 @@ msgstr ""
 
 #: lib/layouts/moderncv.layout:37
 msgid "CVStyle"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/moderncv.layout:46
 msgid "CV Style:"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/moderncv.layout:52
 msgid "Style Options"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/moderncv.layout:53
 msgid "Options for the CV style"
-msgstr ""
+msgstr "     "
 
 #: lib/layouts/moderncv.layout:57
 msgid "CVColor"
@@ -14395,7 +14395,7 @@ msgstr ""
 
 #: lib/layouts/revtex4-x.inc:100 lib/layouts/revtex4.layout:171
 msgid "No affiliation"
-msgstr ""
+msgstr " "
 
 #: lib/layouts/revtex4-x.inc:117 lib/layouts/revtex4.layout:213
 msgid "Electronic Address:"
@@ -14527,7 +14527,7 @@ msgstr ""
 
 #: lib/layouts/rsphrase.module:47
 msgid "Argument for statements that requires to specify additional information"
-msgstr ""
+msgstr "        "
 
 #: lib/layouts/rsphrase.module:60
 msgid "S phrase:"
@@ -17365,19 +17365,19 @@ msgstr ""
 
 #: lib/encodings:225
 msgid "Japanese (pLaTeX) (EUC-JP)"
-msgstr ""
+msgstr " ( pLaTeX) (EUC-JP)"
 
 #: lib/encodings:227
 msgid "Japanese (pLaTeX) (JIS)"
-msgstr ""
+msgstr " ( pLaTeX) (JIS)"
 
 #: lib/encodings:229
 msgid "Japanese (pLaTeX) (SJIS)"
-msgstr ""
+msgstr " ( pLaTeX) (SJIS)"
 
 #: lib/encodings:231
 msgid "Japanese (pLaTeX) (UTF8)"
-msgstr ""
+msgstr " ( pLaTeX) (UTF8)"
 
 #: lib/encodings:238
 msgid "Thai (TIS 620-0)"
@@ -18864,7 +18864,7 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:382
 msgid "Citation...|C"
-msgstr ""
+msgstr "..."
 
 #: lib/ui/stdmenus.inc:383
 msgid "Cross-Reference...|R"
@@ -18968,11 +18968,11 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:423
 msgid "LaTeX Logo|a"
-msgstr ""
+msgstr " LaTeX "
 
 #: lib/ui/stdmenus.inc:424
 msgid "LaTeX2e Logo|e"
-msgstr ""
+msgstr " LaTeX2e "
 
 #: lib/ui/stdmenus.inc:428
 msgid "Superscript|S"
@@ -19044,7 +19044,7 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:489
 msgid "Bib(la)TeX Bibliography...|B"
-msgstr ""
+msgstr "  ..."
 
 #: lib/ui/stdmenus.inc:493
 msgid "LyX Document...|X"
@@ -19084,7 +19084,7 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:540
 msgid "LaTeX Log|L"
-msgstr ""
+msgstr " LaTeX "
 
 #: lib/ui/stdmenus.inc:541
 msgid "Start Appendix Here|x"
@@ -19196,7 +19196,7 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:598
 msgid "TeX Information|I"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdmenus.inc:599
 msgid "Compare...|C"
@@ -19244,7 +19244,7 @@ msgstr ""
 
 #: lib/ui/stdmenus.inc:621
 msgid "LaTeX Configuration|L"
-msgstr ""
+msgstr " LaTeX "
 
 #: lib/ui/stdmenus.inc:622
 msgid "Specific Manuals|p"
@@ -19460,7 +19460,7 @@ msgstr ""
 
 #: lib/ui/stdtoolbars.inc:125
 msgid "Insert citation"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdtoolbars.inc:126
 msgid "Insert index entry"
@@ -19824,11 +19824,11 @@ msgstr ""
 
 #: lib/ui/stdtoolbars.inc:255
 msgid "LaTeX Logo"
-msgstr ""
+msgstr " LaTeX "
 
 #: lib/ui/stdtoolbars.inc:256
 msgid "LaTeX2e Logo"
-msgstr ""
+msgstr " LaTeX2e "
 
 #: lib/ui/stdtoolbars.inc:259
 msgid "View Other Formats"
@@ -19892,7 +19892,7 @@ msgstr ""
 
 #: lib/ui/stdtoolbars.inc:300
 msgid "Styles & classes"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdtoolbars.inc:301 lib/ui/stdtoolbars.inc:390
 msgid "Fractions"
@@ -20170,15 +20170,15 @@ msgstr ""
 
 #: lib/ui/stdtoolbars.inc:379
 msgid "Styles & Classes"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdtoolbars.inc:380
 msgid "Display style\t\\displaystyle"
-msgstr ""
+msgstr "  "
 
 #: lib/ui/stdtoolbars.inc:381
 msgid "Normal text style\t\\textstyle"
-msgstr ""
+msgstr "   "
 
 #: lib/ui/stdtoolbars.inc:382
 msgid "Script (small) style\t\\scriptstyle"
@@ -23866,15 +23866,15 @@ msgstr ""
 
 #: lib/ui/stdtoolbars.inc:1435
 msgid "Nasal release"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdtoolbars.inc:1436
 msgid "Lateral release"
-msgstr ""
+msgstr " "
 
 #: lib/ui/stdtoolbars.inc:1437
 msgid "No audible release"
-msgstr ""
+msgstr "  "
 
 #: lib/ui/stdtoolbars.inc:1441
 msgid "Extra high (accent)"
@@ -24235,11 +24235,11 @@ msgstr ""
 
 #: lib/configure.py:700
 msgid "LaTeX (dviluatex)"
-msgstr ""
+msgstr " LaTeX ( dviluatex)"
 
 #: lib/configure.py:701
 msgid "LaTeX (pLaTeX)"
-msgstr ""
+msgstr " LaTeX ( pLaTeX)"
 
 #: lib/configure.py:702
 msgid "NoWeb"
@@ -24267,35 +24267,35 @@ msgstr ""
 
 #: lib/configure.py:708
 msgid "LilyPond book (LaTeX)"
-msgstr ""
+msgstr "  ( LaTeX)"
 
 #: lib/configure.py:709
 msgid "LilyPond book (pLaTeX)"
-msgstr ""
+msgstr "  ( pLaTeX)"
 
 #: lib/configure.py:710
 msgid "LaTeX (plain)"
-msgstr ""
+msgstr " LaTeX ( )"
 
 #: lib/configure.py:710
 msgid "LaTeX (plain)|L"
-msgstr ""
+msgstr " LaTeX ( )"
 
 #: lib/configure.py:711
 msgid "LaTeX (LuaTeX)"
-msgstr ""
+msgstr " LaTeX ( LuaTeX)"
 
 #: lib/configure.py:712
 msgid "LaTeX (pdflatex)"
-msgstr ""
+msgstr " LaTeX ( pdflatex)"
 
 #: lib/configure.py:713
 msgid "LaTeX (XeTeX)"
-msgstr ""
+msgstr " LaTeX ( XeTeX)"
 
 #: lib/configure.py:714
 msgid "LaTeX (clipboard)"
-msgstr ""
+msgstr " LaTeX ( )"
 
 #: lib/configure.py:715
 msgid "Plain text"
@@ -24392,15 +24392,15 @@ msgstr ""
 
 #: lib/configure.py:764
 msgid "PDF (pdflatex)"
-msgstr ""
+msgstr " PDF ( pdflatex)"
 
 #: lib/configure.py:764
 msgid "PDF (pdflatex)|F"
-msgstr ""
+msgstr " PDF ( pdflatex)|F"
 
 #: lib/configure.py:765
 msgid "PDF (dvipdfm)"
-msgstr ""
+msgstr " PDF ( dvipdfm)"
 
 #: lib/configure.py:765
 msgid "PDF (dvipdfm)|m"
@@ -24615,11 +24615,11 @@ msgstr ""
 
 #: src/BiblioInfo.cpp:1294
 msgid "No year"
-msgstr ""
+msgstr " "
 
 #: src/BiblioInfo.cpp:1304
 msgid "Bibliography entry not found!"
-msgstr ""
+msgstr "  "
 
 #: src/Buffer.cpp:440
 msgid "Disk Error: "
@@ -24668,7 +24668,7 @@ msgstr ""
 #: src/Buffer.cpp:1036 src/Buffer.cpp:1042 src/Buffer.cpp:3020
 #: src/Buffer.cpp:3026
 msgid "Changes not shown in LaTeX output"
-msgstr ""
+msgstr "     LaTeX "
 
 #: src/Buffer.cpp:1037 src/Buffer.cpp:3021
 msgid ""
@@ -24702,7 +24702,7 @@ msgstr ""
 
 #: src/Buffer.cpp:1217 src/Buffer.cpp:1286
 msgid "Document format failure"
-msgstr ""
+msgstr "  "
 
 #: src/Buffer.cpp:1218
 #, c-format
@@ -24860,7 +24860,7 @@ msgstr ""
 #: src/Buffer.cpp:1753
 #, c-format
 msgid "Could not find LaTeX command for character '%1$s' (code point %2$s)"
-msgstr ""
+msgstr "    LaTeX       "
 
 #: src/Buffer.cpp:1756
 msgid ""
@@ -25048,7 +25048,7 @@ msgstr ""
 #: src/Buffer.cpp:4480
 #, c-format
 msgid "No information for exporting the format %1$s."
-msgstr ""
+msgstr "      %1$s."
 
 #: src/Buffer.cpp:4542 src/frontends/qt4/GuiView.cpp:2484
 msgid "File name error"
@@ -25350,7 +25350,7 @@ msgstr ""
 
 #: src/BufferParams.cpp:2585
 msgid "Error reading internal layout information"
-msgstr ""
+msgstr "     "
 
 #: src/BufferParams.cpp:2586 src/TextClass.cpp:1707 src/TextClass.cpp:1742
 msgid "Read Error"
@@ -25358,7 +25358,7 @@ msgstr ""
 
 #: src/BufferParams.cpp:3604
 msgid "No bibliography processor found!"
-msgstr ""
+msgstr "   "
 
 #: src/BufferParams.cpp:3606
 #, c-format
@@ -25371,7 +25371,7 @@ msgstr ""
 
 #: src/BufferParams.cpp:3614
 msgid "Requested bibliography processor not found!"
-msgstr ""
+msgstr "   "
 
 #: src/BufferParams.cpp:3616
 #, c-format
@@ -25385,7 +25385,6 @@ msgstr ""
 
 #: src/BufferView.cpp:195
 msgid "No more insets"
-msgstr ""
 
 #: src/BufferView.cpp:815
 msgid "Save bookmark"
@@ -25419,11 +25418,11 @@ msgstr ""
 
 #: src/BufferView.cpp:1417
 msgid "No further undo information"
-msgstr ""
+msgstr "   "
 
 #: src/BufferView.cpp:1437
 msgid "No further redo information"
-msgstr ""
+msgstr "   "
 
 #: src/BufferView.cpp:1671
 msgid "Mark off"
@@ -25674,7 +25673,7 @@ msgstr ""
 
 #: src/Color.cpp:229
 msgid "LaTeX text"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/Color.cpp:230
 msgid "inline completion"
@@ -25850,7 +25849,7 @@ msgstr ""
 
 #: src/Color.cpp:276
 msgid "LaTeX error"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/Color.cpp:277
 msgid "end-of-line marker"
@@ -25998,7 +25997,7 @@ msgstr ""
 
 #: src/Converter.cpp:358
 msgid "A LaTeX backend requires your authorization"
-msgstr ""
+msgstr "  LaTeX    "
 
 #: src/Converter.cpp:359
 msgid "An external converter requires your authorization"
@@ -26105,7 +26104,7 @@ msgstr ""
 
 #: src/Converter.cpp:807
 msgid "Running LaTeX..."
-msgstr ""
+msgstr "  LaTeX..."
 
 #: src/Converter.cpp:833
 #, c-format
@@ -26116,7 +26115,7 @@ msgstr ""
 
 #: src/Converter.cpp:836 src/Converter.cpp:843
 msgid "LaTeX failed"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/Converter.cpp:839
 #, c-format
@@ -26133,7 +26132,7 @@ msgstr ""
 
 #: src/Converter.cpp:846
 msgid "No output file was generated."
-msgstr ""
+msgstr "    "
 
 #: src/Cursor.cpp:1111 src/Text.cpp:1965
 msgid ", Inset: "
@@ -26351,7 +26350,7 @@ msgstr ""
 #: src/Format.cpp:682
 #, c-format
 msgid "No information for viewing %1$s"
-msgstr ""
+msgstr "    %1$s"
 
 #: src/Format.cpp:692
 #, c-format
@@ -26369,7 +26368,7 @@ msgstr ""
 #: src/Format.cpp:786
 #, c-format
 msgid "No information for editing %1$s"
-msgstr ""
+msgstr "    %1$s"
 
 #: src/Format.cpp:797
 #, c-format
@@ -26413,7 +26412,7 @@ msgstr ""
 #: src/LaTeX.cpp:58
 #, c-format
 msgid "Waiting for LaTeX run number %1$d"
-msgstr ""
+msgstr "   LaTeX   %1$d"
 
 #: src/LaTeX.cpp:280 src/LaTeX.cpp:382
 msgid "Running Index Processor."
@@ -26496,7 +26495,7 @@ msgstr ""
 
 #: src/LyX.cpp:593
 msgid "No textclass is found"
-msgstr ""
+msgstr "   "
 
 #: src/LyX.cpp:594
 msgid ""
@@ -26511,7 +26510,7 @@ msgstr ""
 
 #: src/LyX.cpp:599
 msgid "&Without LaTeX"
-msgstr ""
+msgstr "  LaTeX"
 
 #: src/LyX.cpp:600 src/VCBackend.cpp:971 src/VCBackend.cpp:975
 msgid "&Continue"
@@ -26579,7 +26578,7 @@ msgstr "
 
 #: src/LyX.cpp:1082
 msgid "No user LyX directory. Exiting."
-msgstr ""
+msgstr "   . ."
 
 #: src/LyX.cpp:1086
 #, c-format
@@ -26658,7 +26657,7 @@ msgstr ""
 
 #: src/LyX.cpp:1243 src/support/Package.cpp:647
 msgid "No system directory"
-msgstr ""
+msgstr "   "
 
 #: src/LyX.cpp:1244
 msgid "Missing directory for -sysdir switch"
@@ -26666,7 +26665,7 @@ msgstr ""
 
 #: src/LyX.cpp:1255
 msgid "No user directory"
-msgstr ""
+msgstr "   "
 
 #: src/LyX.cpp:1256
 msgid "Missing directory for -userdir switch"
@@ -26743,7 +26742,7 @@ msgstr ""
 
 #: src/LyXRC.cpp:3186
 msgid "Define the options of the bibtex program for PLaTeX (Japanese LaTeX)."
-msgstr ""
+msgstr "         PLaTeX (  LaTeX)"
 
 #: src/LyXRC.cpp:3190
 msgid ""
@@ -26863,7 +26862,7 @@ msgstr ""
 
 #: src/LyXRC.cpp:3288
 msgid "Define the options of the index program for PLaTeX (Japanese LaTeX)."
-msgstr ""
+msgstr "         PLaTeX (  LaTeX)"
 
 #: src/LyXRC.cpp:3292
 msgid ""
@@ -26901,11 +26900,11 @@ msgstr ""
 
 #: src/LyXRC.cpp:3321
 msgid "The LaTeX command for changing back to the language of the document."
-msgstr ""
+msgstr "  LaTeX          "
 
 #: src/LyXRC.cpp:3325
 msgid "The LaTeX command for local changing of the language."
-msgstr ""
+msgstr "  LaTeX      "
 
 #: src/LyXRC.cpp:3329
 msgid ""
@@ -27159,7 +27158,7 @@ msgstr ""
 
 #: src/LyXVC.cpp:186 src/LyXVC.cpp:193
 msgid "(no initial description)"
-msgstr ""
+msgstr "(   )"
 
 #: src/LyXVC.cpp:205 src/LyXVC.cpp:224
 msgid "LyX VC: Log message"
@@ -27168,7 +27167,7 @@ msgstr ""
 #: src/LyXVC.cpp:206 src/LyXVC.cpp:212 src/LyXVC.cpp:225 src/LyXVC.cpp:231
 #: src/LyXVC.cpp:242
 msgid "(no log message)"
-msgstr ""
+msgstr "(  )"
 
 #: src/LyXVC.cpp:246 src/frontends/qt4/GuiView.cpp:3404
 msgid "LyX VC: Log Message"
@@ -27274,7 +27273,7 @@ msgstr ""
 
 #: src/Text.cpp:1962
 msgid ", Style: "
-msgstr ""
+msgstr ", :"
 
 #: src/Text.cpp:1966
 msgid ", Paragraph: "
@@ -27294,7 +27293,7 @@ msgstr ""
 
 #: src/Text2.cpp:413
 msgid "No font change defined."
-msgstr ""
+msgstr "    "
 
 #: src/Text2.cpp:454
 msgid "Nothing to index!"
@@ -27310,7 +27309,7 @@ msgstr ""
 
 #: src/Text3.cpp:197
 msgid "No valid math formula"
-msgstr ""
+msgstr "    "
 
 #: src/Text3.cpp:205 src/mathed/InsetMathNest.cpp:1029
 msgid "Already in regular expression mode"
@@ -27458,7 +27457,7 @@ msgstr ""
 
 #: src/TocBackend.cpp:282
 msgid "Citations"
-msgstr ""
+msgstr ""
 
 #: src/TocBackend.cpp:283
 msgid "Labels and References"
@@ -27525,7 +27524,7 @@ msgstr ""
 
 #: src/VCBackend.cpp:650
 msgid "No CVS file"
-msgstr ""
+msgstr "  "
 
 #: src/VCBackend.cpp:652
 msgid "Cannot retrieve CVS status"
@@ -27845,7 +27844,7 @@ msgstr ""
 
 #: src/frontends/qt4/FindAndReplace.cpp:481
 msgid "No open document(s) in which to search"
-msgstr ""
+msgstr "       "
 
 #: src/frontends/qt4/FindAndReplace.cpp:583
 msgid "Advanced Find and Replace"
@@ -27915,7 +27914,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiAbout.cpp:212
 msgid "not released yet"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/GuiAbout.cpp:217
 #, c-format
@@ -28128,11 +28127,11 @@ msgstr ""
 
 #: src/frontends/qt4/GuiBibitem.h:36
 msgid "Bibliography Item Settings"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/GuiBibtex.cpp:54 src/frontends/qt4/GuiBibtex.cpp:311
 msgid "BibTeX Bibliography"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/GuiBibtex.cpp:114
 msgid ""
@@ -28144,7 +28143,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiBibtex.cpp:309
 msgid "Biblatex Bibliography"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/GuiBibtex.cpp:345 src/insets/InsetBibtex.cpp:237
 msgid "all reference units"
@@ -28170,7 +28169,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiBibtex.cpp:447
 msgid "BibTeX Styles (*.bst)"
-msgstr ""
+msgstr "  (*.bst)"
 
 #: src/frontends/qt4/GuiBibtex.cpp:449
 msgid "Select a BibTeX style"
@@ -28178,7 +28177,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiBox.cpp:58
 msgid "No frame"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/GuiBox.cpp:58
 msgid "Simple rectangular frame"
@@ -28300,7 +28299,7 @@ msgstr ""
 #: src/frontends/qt4/GuiCharacter.cpp:190
 #: src/frontends/qt4/GuiCharacter.cpp:241
 msgid "No change"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/GuiCharacter.cpp:56
 msgid "Small Caps"
@@ -28348,7 +28347,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiCharacter.cpp:273
 msgid "Reset All To No Chan&ge"
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/GuiCharacter.cpp:278
 msgid "&Reset All Fields"
@@ -28361,7 +28360,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiCitation.cpp:106
 msgid "All avail. citations"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/GuiCitation.cpp:112
 msgid "Regular e&xpression"
@@ -28603,15 +28602,15 @@ msgstr ""
 
 #: src/frontends/qt4/GuiDocument.cpp:707
 msgid "Conversion to current format impossible!"
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/GuiDocument.cpp:708
 msgid "Conversion to current stable format impossible."
-msgstr ""
+msgstr "     "
 
 #: src/frontends/qt4/GuiDocument.cpp:713
 msgid "Convert to current format"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/GuiDocument.cpp:770
 msgid "Document Settings"
@@ -28640,7 +28639,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiDocument.cpp:989
 msgid "None (no fontenc)"
-msgstr ""
+msgstr " ( )"
 
 #: src/frontends/qt4/GuiDocument.cpp:997
 msgid ""
@@ -28790,7 +28789,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiDocument.cpp:1187
 msgid "Language Default (no inputenc)"
-msgstr ""
+msgstr "  ( )"
 
 #: src/frontends/qt4/GuiDocument.cpp:1240
 msgid "Numbered"
@@ -28818,21 +28817,21 @@ msgstr ""
 
 #: src/frontends/qt4/GuiDocument.cpp:1337
 msgid "The AMS LaTeX packages are always used"
-msgstr ""
+msgstr "   LaTeX    "
 
 #: src/frontends/qt4/GuiDocument.cpp:1340
 #, c-format
 msgid "The LaTeX package %1$s is always used"
-msgstr ""
+msgstr "  LaTeX  %14s   "
 
 #: src/frontends/qt4/GuiDocument.cpp:1345
 msgid "The AMS LaTeX packages are never used"
-msgstr ""
+msgstr "   LaTeX    "
 
 #: src/frontends/qt4/GuiDocument.cpp:1348
 #, c-format
 msgid "The LaTeX package %1$s is never used"
-msgstr ""
+msgstr "  LaTeX  %1$s   "
 
 #: src/frontends/qt4/GuiDocument.cpp:1488
 #: src/frontends/qt4/GuiDocument.cpp:2502
@@ -28906,7 +28905,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiDocument.cpp:1649
 msgid "LaTeX Preamble"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/frontends/qt4/GuiDocument.cpp:1955
 #: src/frontends/qt4/GuiDocument.cpp:1985
@@ -29100,7 +29099,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiDocument.cpp:3802
 msgid "[No options predefined]"
-msgstr ""
+msgstr "(  )"
 
 #: src/frontends/qt4/GuiDocument.cpp:4029
 msgid "C&ustomize Hyperref Options"
@@ -29391,7 +29390,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiInclude.cpp:368
 msgid "LaTeX/LyX Documents (*.tex *.lyx)"
-msgstr ""
+msgstr " LaTeX   LyX  (*.tex *.lyx)"
 
 #: src/frontends/qt4/GuiIndex.cpp:34
 msgid "Index Entry Settings"
@@ -29487,7 +29486,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiListings.cpp:62
 msgid "No language"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/GuiListings.cpp:166
 msgid "Program Listing Settings"
@@ -29495,11 +29494,11 @@ msgstr ""
 
 #: src/frontends/qt4/GuiListings.cpp:433
 msgid "No dialect"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/GuiLog.cpp:119 src/frontends/qt4/GuiLog.cpp:288
 msgid "LaTeX Log"
-msgstr ""
+msgstr " LaTeX "
 
 #: src/frontends/qt4/GuiLog.cpp:250
 msgid "Biber"
@@ -29531,11 +29530,11 @@ msgstr ""
 
 #: src/frontends/qt4/GuiLog.cpp:328
 msgid "No lyx2lyx error log file found."
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/GuiLog.cpp:331
 msgid "No version control log file found."
-msgstr ""
+msgstr "     "
 
 #: src/frontends/qt4/GuiMathMatrix.cpp:34
 msgid "[x]"
@@ -29722,11 +29721,11 @@ msgstr ""
 
 #: src/frontends/qt4/GuiPrefs.cpp:2095
 msgid "File Formats"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/GuiPrefs.cpp:2329 src/frontends/qt4/GuiPrefs.cpp:2481
 msgid "Format in use"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/GuiPrefs.cpp:2330
 msgid ""
@@ -29930,7 +29929,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiRef.cpp:477 src/frontends/qt4/GuiRef.cpp:497
 msgid "<No prefix>"
-msgstr ""
+msgstr "< >"
 
 #: src/frontends/qt4/GuiSearch.cpp:46
 msgid "Find and Replace"
@@ -30292,7 +30291,7 @@ msgstr ""
 
 #: src/frontends/qt4/GuiSymbols.cpp:245
 msgid "<p>LaTeX code: %1</p>"
-msgstr ""
+msgstr "<p> LaTeX : %1</p>"
 
 #: src/frontends/qt4/GuiSymbols.cpp:286
 msgid "Symbols"
@@ -30308,11 +30307,11 @@ msgstr ""
 
 #: src/frontends/qt4/GuiTexinfo.cpp:50
 msgid "TeX Information"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/GuiThesaurus.cpp:210
 msgid "No thesaurus available for this language!"
-msgstr ""
+msgstr "      "
 
 #: src/frontends/qt4/GuiToc.cpp:36
 msgid "Outline"
@@ -30361,22 +30360,22 @@ msgstr ""
 #: src/frontends/qt4/GuiView.cpp:689
 #, c-format
 msgid "Successful export to format: %1$s"
-msgstr ""
+msgstr "   : %1$s"
 
 #: src/frontends/qt4/GuiView.cpp:698
 #, c-format
 msgid "Error while exporting format: %1$s"
-msgstr ""
+msgstr "   : %1$s"
 
 #: src/frontends/qt4/GuiView.cpp:701
 #, c-format
 msgid "Successful preview of format: %1$s"
-msgstr ""
+msgstr "   : %1$s"
 
 #: src/frontends/qt4/GuiView.cpp:704
 #, c-format
 msgid "Error while previewing format: %1$s"
-msgstr ""
+msgstr "   : %1s"
 
 #: src/frontends/qt4/GuiView.cpp:1032
 msgid "Exit LyX"
@@ -30475,7 +30474,7 @@ msgstr ""
 #: src/frontends/qt4/GuiView.cpp:2399
 #, c-format
 msgid "No information for importing the format %1$s."
-msgstr ""
+msgstr "     %1$s"
 
 #: src/frontends/qt4/GuiView.cpp:2446
 #, c-format
@@ -30706,7 +30705,7 @@ msgstr ""
 #: src/frontends/qt4/GuiView.cpp:3547
 #, c-format
 msgid "No buffer for file: %1$s."
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/GuiView.cpp:3557
 msgid "Inverse Search Failed"
@@ -30875,7 +30874,7 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:805
 msgid "No Group"
-msgstr ""
+msgstr " "
 
 #: src/frontends/qt4/Menus.cpp:835 src/frontends/qt4/Menus.cpp:836
 msgid "More Spelling Suggestions"
@@ -30907,11 +30906,11 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:986
 msgid "<No Documents Open>"
-msgstr ""
+msgstr "<  >"
 
 #: src/frontends/qt4/Menus.cpp:1052
 msgid "<No Bookmarks Saved Yet>"
-msgstr ""
+msgstr "<    >"
 
 #: src/frontends/qt4/Menus.cpp:1092
 msgid "View (Other Formats)|F"
@@ -30919,7 +30918,7 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:1093
 msgid "Update (Other Formats)|p"
-msgstr ""
+msgstr " ( )"
 
 #: src/frontends/qt4/Menus.cpp:1123
 #, c-format
@@ -30933,11 +30932,11 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:1235
 msgid "No Custom Insets Defined!"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/Menus.cpp:1324
 msgid "(No Document Open)"
-msgstr ""
+msgstr "(  )"
 
 #: src/frontends/qt4/Menus.cpp:1333
 msgid "Master Document"
@@ -30961,7 +30960,7 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:1431
 msgid "No Branches Set for Document!"
-msgstr ""
+msgstr "    "
 
 #: src/frontends/qt4/Menus.cpp:1487
 msgid "Index List|I"
@@ -30983,12 +30982,12 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:1558
 msgid "No Citation in Scope!"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/Menus.cpp:1572 src/insets/InsetCitation.cpp:251
 #: src/insets/InsetCitation.cpp:372
 msgid "No citations selected!"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/Menus.cpp:1621
 msgid "All authors|h"
@@ -31005,7 +31004,7 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:1747
 msgid "No Quote in Scope!"
-msgstr ""
+msgstr "   "
 
 #: src/frontends/qt4/Menus.cpp:1783 src/frontends/qt4/Menus.cpp:1787
 #: src/frontends/qt4/Menus.cpp:1791 src/frontends/qt4/Menus.cpp:1795
@@ -31043,7 +31042,7 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:1852
 msgid "Change Style|y"
-msgstr ""
+msgstr " |y"
 
 #: src/frontends/qt4/Menus.cpp:1894
 #, c-format
@@ -31084,7 +31083,7 @@ msgstr ""
 
 #: src/frontends/qt4/Menus.cpp:2601
 msgid "No Action Defined!"
-msgstr ""
+msgstr "  "
 
 #: src/frontends/qt4/PanelStack.cpp:73
 msgid "Search"
@@ -31122,7 +31121,7 @@ msgstr ""
 
 #: src/frontends/qt4/qt_helpers.cpp:311
 msgid "Could not update TeX information"
-msgstr ""
+msgstr "     TeX "
 
 #: src/frontends/qt4/qt_helpers.cpp:312
 #, c-format
@@ -31135,7 +31134,7 @@ msgstr ""
 
 #: src/insets/Inset.cpp:89
 msgid "Bibliography Entry"
-msgstr ""
+msgstr "  "
 
 #: src/insets/Inset.cpp:95
 msgid "Float"
@@ -31189,11 +31188,11 @@ msgstr ""
 
 #: src/insets/InsetBibtex.cpp:184
 msgid "Biblatex Generated Bibliography"
-msgstr ""
+msgstr "   "
 
 #: src/insets/InsetBibtex.cpp:185
 msgid "BibTeX Generated Bibliography"
-msgstr ""
+msgstr "   "
 
 #: src/insets/InsetBibtex.cpp:191
 msgid "Databases:"
@@ -31201,7 +31200,7 @@ msgstr ""
 
 #: src/insets/InsetBibtex.cpp:214
 msgid "Style File:"
-msgstr ""
+msgstr " :"
 
 #: src/insets/InsetBibtex.cpp:217 src/insets/InsetBibtex.cpp:235
 msgid "Lists:"
@@ -31326,7 +31325,7 @@ msgstr ""
 
 #: src/insets/InsetCitation.cpp:247
 msgid "No bibliography defined!"
-msgstr ""
+msgstr "   "
 
 #: src/insets/InsetCitation.cpp:268
 #, c-format
@@ -31335,7 +31334,7 @@ msgstr ""
 
 #: src/insets/InsetCommand.cpp:156
 msgid "LaTeX Command: "
-msgstr ""
+msgstr " LaTeX "
 
 #: src/insets/InsetCommandParams.cpp:274
 msgid "InsetCommand Error: "
@@ -31435,7 +31434,7 @@ msgstr ""
 #: src/insets/InsetGraphics.cpp:785 src/insets/InsetGraphics.cpp:1061
 #, c-format
 msgid "No conversion of %1$s is needed after all"
-msgstr ""
+msgstr "      "
 
 #: src/insets/InsetGraphics.cpp:913
 msgid "Uncodable characters in path"
@@ -31602,7 +31601,7 @@ msgstr ""
 #: src/insets/InsetInfo.cpp:125
 #, c-format
 msgid "Information regarding %1$s '%2$s'"
-msgstr ""
+msgstr "  %1$s %2$s"
 
 #: src/insets/InsetInfo.cpp:149
 msgid "Missing \\end_inset at this point."
@@ -31675,7 +31674,7 @@ msgstr ""
 
 #: src/insets/InsetInfo.cpp:555
 msgid "No version control"
-msgstr ""
+msgstr "  "
 
 #: src/insets/InsetLabel.cpp:78
 msgid "Label names must be unique!"
@@ -31698,7 +31697,7 @@ msgstr ""
 
 #: src/insets/InsetListings.cpp:292
 msgid "no more lstline delimiters available"
-msgstr ""
+msgstr "     "
 
 #: src/insets/InsetListings.cpp:297
 msgid "Running out of delimiters"
@@ -31769,20 +31768,20 @@ msgstr ""
 
 #: src/insets/InsetListingsParams.cpp:162
 msgid "Please specify a LaTeX length expression."
-msgstr ""
+msgstr "    LaTeX  "
 
 #: src/insets/InsetListingsParams.cpp:165
 msgid "Invalid LaTeX length expression."
-msgstr ""
+msgstr "  LaTeX  ."
 
 #: src/insets/InsetListingsParams.cpp:175
 #, c-format
 msgid "Please specify a LaTeX length expression or a skip amount (%1$s)"
-msgstr ""
+msgstr "    LaTeX      (%1$s)"
 
 #: src/insets/InsetListingsParams.cpp:179
 msgid "Not a valid LaTeX length expression or skip amount."
-msgstr ""
+msgstr "    LaTeX     ."
 
 #: src/insets/InsetListingsParams.cpp:189
 #, c-format
@@ -31873,19 +31872,19 @@ msgstr ""
 
 #: src/insets/InsetListingsParams.cpp:778
 msgid "A latex family such as tt, sf, rm"
-msgstr ""
+msgstr "  LaTeX    tt, sf, rm"
 
 #: src/insets/InsetListingsParams.cpp:781
 msgid "A latex series such as m, b, c, bx, sb"
-msgstr ""
+msgstr "  LaTeX   m, b, c, bx, sb"
 
 #: src/insets/InsetListingsParams.cpp:784
 msgid "A latex name such as \\small"
-msgstr ""
+msgstr "  LaTeX   \\small"
 
 #: src/insets/InsetListingsParams.cpp:787
 msgid "A latex shape such as n, it, sl, sc"
-msgstr ""
+msgstr "  LaTeX   n, it, sl, sc"
 
 #: src/insets/InsetListingsParams.cpp:806
 msgid "A range of lines such as {1,3-4}"
@@ -31916,7 +31915,7 @@ msgstr ""
 
 #: src/insets/InsetListingsParams.cpp:861
 msgid "The style used by Pygments"
-msgstr ""
+msgstr "    "
 
 #: src/insets/InsetListingsParams.cpp:874
 msgid "A macro to redefine visible tabs"
@@ -31925,7 +31924,7 @@ msgstr ""
 #: src/insets/InsetListingsParams.cpp:881
 #: src/insets/InsetListingsParams.cpp:884
 msgid "Enables latex code in comments"
-msgstr ""
+msgstr "  LaTeX   "
 
 #: src/insets/InsetListingsParams.cpp:898
 msgid "Invalid (empty) listing parameter name."
@@ -32086,11 +32085,11 @@ msgstr ""
 
 #: src/insets/InsetRef.cpp:495
 msgid "Formatted"
-msgstr ""
+msgstr ""
 
 #: src/insets/InsetRef.cpp:495
 msgid "Format: "
-msgstr ""
+msgstr ":"
 
 #: src/insets/InsetRef.cpp:496
 msgid "Label Only"
@@ -32204,7 +32203,7 @@ msgstr ""
 
 #: src/insets/RenderGraphic.cpp:95
 msgid "Converting to loadable format..."
-msgstr ""
+msgstr "   ..."
 
 #: src/insets/RenderGraphic.cpp:98
 msgid "Loaded into memory. Generating pixmap..."
@@ -32220,11 +32219,11 @@ msgstr ""
 
 #: src/insets/RenderGraphic.cpp:107
 msgid "No file found!"
-msgstr ""
+msgstr "  "
 
 #: src/insets/RenderGraphic.cpp:110
 msgid "Error converting to loadable format"
-msgstr ""
+msgstr "    "
 
 #: src/insets/RenderGraphic.cpp:113
 msgid "Error loading file into memory"
@@ -32236,7 +32235,7 @@ msgstr ""
 
 #: src/insets/RenderGraphic.cpp:119
 msgid "No image"
-msgstr ""
+msgstr " "
 
 #: src/insets/RenderPreview.cpp:106
 msgid "Preview loading"
@@ -32373,7 +32372,7 @@ msgstr ""
 #: src/mathed/InsetMathCases.cpp:94
 #, c-format
 msgid "No vertical grid lines in 'cases': feature %1$s"
-msgstr ""
+msgstr "      "
 
 #: src/mathed/InsetMathCases.cpp:101
 #, c-format
@@ -32409,11 +32408,11 @@ msgstr ""
 
 #: src/mathed/InsetMathGrid.cpp:1767
 msgid "No hline to delete"
-msgstr ""
+msgstr "   "
 
 #: src/mathed/InsetMathGrid.cpp:1776
 msgid "No vline to delete"
-msgstr ""
+msgstr "    "
 
 #: src/mathed/InsetMathGrid.cpp:1805
 #, c-format
@@ -32437,7 +32436,7 @@ msgstr ""
 
 #: src/mathed/InsetMathHull.cpp:1862 src/mathed/InsetMathHull.cpp:1871
 msgid "No number"
-msgstr ""
+msgstr " "
 
 #: src/mathed/InsetMathHull.cpp:2143
 #, c-format
@@ -32515,7 +32514,7 @@ msgstr ""
 
 #: src/mathed/InsetMathRef.cpp:247
 msgid "FormatRef: "
-msgstr ""
+msgstr " :"
 
 #: src/mathed/InsetMathSize.cpp:107
 #, c-format
@@ -32536,7 +32535,7 @@ msgstr ""
 
 #: src/output_latex.cpp:1489
 msgid "Error in latexParagraphs"
-msgstr ""
+msgstr "   LaTeX "
 
 #: src/output_latex.cpp:1490
 #, c-format
@@ -32633,11 +32632,11 @@ msgstr ""
 
 #: src/support/debug.cpp:41
 msgid "No debugging messages"
-msgstr ""
+msgstr "  "
 
 #: src/support/debug.cpp:42
 msgid "General information"
-msgstr ""
+msgstr " "
 
 #: src/support/debug.cpp:43
 msgid "Program initialisation"
@@ -32665,7 +32664,7 @@ msgstr ""
 
 #: src/support/debug.cpp:49
 msgid "LaTeX generation/execution"
-msgstr ""
+msgstr " LaTeX   "
 
 #: src/support/debug.cpp:50
 msgid "Math editor"
@@ -32701,7 +32700,7 @@ msgstr ""
 
 #: src/support/debug.cpp:58
 msgid "Dependency information"
-msgstr ""
+msgstr " "
 
 #: src/support/debug.cpp:59
 msgid "LyX Insets"

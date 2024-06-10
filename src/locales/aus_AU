@@ -102,10 +102,10 @@ mon         "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE1
             "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE176>";/
             "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE177>";/
             "<UE105><UE11B><UE11D><UE11F><UE121><UE101><UE158><UE15E><UE101><UE177><UE102><UE178>"
-d_t_fmt     "%a %d %b %Y %T"
-date_fmt    "%a %d %b %Y %T %Z"
+d_t_fmt     "%a %d %b %Y <UE101><UE159><UE15B><UE11B><UE11D><UE102><UE11E><UE102><UE158><UE11E><UE15E><UE102>%T"
+date_fmt    "%a %d %b %Y <UE101><UE159><UE15B><UE11B><UE11D><UE102><UE11E><UE102><UE158><UE11E><UE15E><UE102>%T %Z"
 d_fmt       "%d//%m//%y"
-t_fmt       "%T"
+t_fmt       "<UE101><UE159><UE15B><UE11B><UE11D><UE102><UE11E><UE102><UE158><UE11E><UE15E><UE102>%T"
 am_pm       "";""
 t_fmt_ampm  ""
 week 7;19971201;4

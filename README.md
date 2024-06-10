@@ -20,7 +20,7 @@ It assumes you install the Hyper Quantum fork of Michael Levin's Cell Writer.  M
 
 Cell Writer requires both LaTeX (specifically, the XeTeX engine for handling Unicode fonts) and R to produce statistical reports.
 
-A good Unicode Terminal emulator is helpful but not required.  None that I have experimented with handle the combining character layout of the font used here for Blissymbolics.  But the best so far is the Rxvt Unicode terminal.  However, it requires some very special configuration to make it work with Cell Writer.  I intend to write a simple but working one.
+A good Unicode Terminal emulator is helpful but not required.  None that I have experimented with handle the combining character layout of the font used here for Blissymbolics.  But the best so far is the Rxvt Unicode terminal.  However, it requires some very special configuration to make it work with Cell Writer.  I have started to write a simple but working multi-tabbed one.  It should be generally available soon.
 
 ## References and Links
 
@@ -89,7 +89,7 @@ Planned future releases include:
 - Modifications to the LyX (more or less a graphical LaTeX front-end) such that it will work with Cell Writer.  This work is in progress, with the .po file already started on (it is a big document in its own right). Cell Writer interface is much harder.  Whilst you could get Cell Writer to output keystrokes and using a kmap file to translate, there aren't enough keys on the keyboard - Blissymbolics has 141 characters, of which 6 are not combining characters (so 135 are combining characters).  Unfortunately, LyX's kmap (and friends) files only take a single input key stroke for any output (which can be a string of characters), not the other way around.  That leaves LyX code modification as the only global method (an opportunity for someone who understands C++ and would like to do a little work on LyX).  Locally, the installation of ibus works.  There is a button on Cell Writer to output in ibus format and, while a bit slow, works.
 - The Cell Writer fork itself is in its infancy, being barely usable with a large training set, with the recognition engine needing a full rewrite.
 - Other work and tools to completely modify the Linux desktop to present everything in Blissymbolics need to be developed.
-- The font set, developed with FontForge, needs improvement.  I am unsure at this stage, but proper improvement could lead to a reduction in characters required in the character set (it would be nice to find 1D hexadecimal characters to bring the character set down to 80 hexadecimal (128 decimal) or less characters.
+- The font set, developed with FontForge, needs improvement.  I am unsure at this stage, but proper improvement could lead to a reduction in characters required in the character set (it would be nice to find 1D hexadecimal characters to bring the character set down to 80 hexadecimal (128 decimal) or less characters.  There are two fonts set up, one being monospace (important for terminals and useful for number handling in spreadsheets) and the other being proportional, but both are the same in all other erspects.
 - The Blissymbolics symbol set used here also needs to get properly inserted into the Unicode set.  It currently resides in the Private Use area from E100 to E18C hexadecimal.  My understanding is that there needs to be a few books written in Blissymbolics before the Unicode consortium will even think about it (even though there are Unicode characters for Elvish, a language made up by J.R.R. Tolkien).
 
 ## Contributing
@@ -105,7 +105,7 @@ To expand out the capabilities of setting up the Blissymbolics locale, check out
 ## Authors and acknowledgment
 This work was developed by and is currently maintained by Ross Summerfield.
 
-Blissymbolics, originally called Semantography, was developed by the late Charles K. Bliss, a former resident of Coogee, New South Wales, Australia. Thanks to Charles for his tireless work in ensuring that the symbol set would work and was extensible to describe any thing, feeling or concept.
+Blissymbolics, originally called Semantography, was developed by the late Dr Charles K. Bliss, a former resident of Coogee, New South Wales, Australia. Thanks to Charles for his tireless work in ensuring that the symbol set would work and was extensible to describe any thing, feeling or concept.
 
 Thanks also to Blissymbolics Communication International (BCI), https://www.blissymbolics.org/index.php/symbol-files for their work in collating and maintaining a 'dictionary' of symbols.
 
@@ -113,7 +113,7 @@ Thanks also to Blissymbolics Communication International (BCI), https://www.blis
 This package is licensed under the GNU Lesser General Public Licence (LGPL), version 3.
 
 ## Project status
-An audit of the dictionary used here against the works of Charles Bliss needs to be carried out.  Fortunately, the National Library of Australia is just down the road, so getting access to his documentation (books and papers) is straight forward.
+An audit of the dictionary used here against the works of Dr Charles Bliss needs to be carried out.  Fortunately, the National Library of Australia is just down the road, so getting access to his documentation (books and papers) is straight forward.
 
 The font file needs to be reordered still, after the most recent loading of the dictionary to ensure all characters are included.  This reordering will need to be done in conjunction with adjusting the dictionary so that the words are correct.  At that point, the dictionary and the font files will be ready for publishing to the world.
 

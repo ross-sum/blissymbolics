@@ -123,7 +123,7 @@ ToolbarSet
 		Item "Insert table float" "float-insert table"
 		Item "Insert label" "label-insert"
 		Item "Insert cross-reference" "dialog-show-new-inset ref"
-		Item "Insert citation" "dialog-show-new-inset citation"
+		Item "Insert " "dialog-show-new-inset citation"
 		Item "Insert index entry" "index-insert"
 		Item "Insert nomenclature entry" "nomencl-insert"
 		Separator

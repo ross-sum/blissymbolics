@@ -22,19 +22,22 @@ else
    sed -i '59iaus_AU.UTF-8 UTF-8' /etc/locale.gen
 fi
 # Set up Debian locales again now
-locale-gen
+/usr/sbin/locale-gen
 # Run a test
 LANG=aus_AU.UTF-8 date
 
 # Install the Blissymbolics True Type and Open Type font
 mkdir -p /usr/local/share/texmf/fonts/truetype/
 cp src/fonts/Blissymbolics-Courier.ttf /usr/local/share/texmf/fonts/truetype/
+cp src/fonts/Blissymbolics-Serif.ttf /usr/local/share/texmf/fonts/truetype/
 mkdir -p /usr/local/share/texmf/fonts/opentype/
 cp src/fonts/Blissymbolics-Courier.otf /usr/local/share/texmf/fonts/opentype/
+cp src/fonts/Blissymbolics-Serif.otf /usr/local/share/texmf/fonts/opentype/
 mkdir -p /usr/local/share/fonts
 cp src/fonts/Blissymbolics-Courier.otf /usr/local/share/fonts/
+cp src/fonts/Blissymbolics-Serif.otf /usr/local/share/fonts/
 /usr/bin/fc-cache
-dpkg-reconfigure -u fontconfig-config
+/usr/sbin/dpkg-reconfigure -u fontconfig-config
 
 # Set up LaTeX
 # Set up the local directory

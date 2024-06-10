@@ -179,7 +179,7 @@ Menuset
 	End
 
 	Menu "edit_textstyles"
-		Item "Dissolve Text Style" "inset-dissolve charstyle"
+		Item "Dissolve  " "inset-dissolve charstyle"
 		CharStyles
 		Elements
 		Separator
@@ -193,7 +193,7 @@ Menuset
 # not much we can do to help here
 	Menu "edit_tabular"
 		Item "Multi-page Table|g" "tabular-feature toggle-longtabular"
-		Item "Formal Style|F" "tabular-feature toggle-booktabs"
+		Item "Formal |F" "tabular-feature toggle-booktabs"
 		Separator
 		Item "Multicolumn|M" "tabular-feature multicolumn"
 		Item "Multirow|u" "tabular-feature multirow"
@@ -240,7 +240,7 @@ Menuset
 		Separator
 		Submenu "Change Formula Type|F" "edit_maths_mutate"
 		Separator
-		Submenu "Text Style|T" "edit_maths_fontstyles"
+		Submenu " |T" "edit_maths_fontstyles"
 		Separator
 		Submenu "Use Computer Algebra System|S" "edit_maths_extern"
 		Separator
@@ -288,19 +288,19 @@ Menuset
 		Separator
 		Item "Maths Bold Series|B" "math-font-style mathbf"
 		Separator
-		Item "Text Normal Font|T" "math-font-style textnormal"
+		Item " Normal Font|T" "math-font-style textnormal"
 		Separator
-		Item "Text Roman Family" "math-font-style textrm"
-		Item "Text Sans Serif Family" "math-font-style textsf"
-		Item "Text Typewriter Family" "math-font-style texttt"
+		Item " Roman Family" "math-font-style textrm"
+		Item " Sans Serif Family" "math-font-style textsf"
+		Item " Typewriter Family" "math-font-style texttt"
 		Separator
-		Item "Text Bold Series" "math-font-style textbf"
-		Item "Text Medium Series" "math-font-style textmd"
+		Item " Bold Series" "math-font-style textbf"
+		Item " Medium Series" "math-font-style textmd"
 		Separator
-		Item "Text Italic Shape" "math-font-style textit"
-		Item "Text Small Caps Shape" "math-font-style textsc"
-		Item "Text Slanted Shape" "math-font-style textsl"
-		Item "Text Upright Shape" "math-font-style textup"
+		Item " Italic Shape" "math-font-style textit"
+		Item " Small Caps Shape" "math-font-style textsc"
+		Item " Slanted Shape" "math-font-style textsl"
+		Item " Upright Shape" "math-font-style textup"
 	End
 
 	Menu "edit_maths_extern"
@@ -379,7 +379,7 @@ Menuset
 		Submenu "Box[[Menu]]|x" "insert_box"
 		OptSubmenu "Insert Regular Expression" "context-edit-regexp"
 		Separator
-		Item "Citation...|C" "dialog-show-new-inset citation"
+		Item "...|C" "dialog-show-new-inset citation"
 		Item "Cross-Reference...|R" "dialog-show-new-inset ref"
 		Item "..." "label-insert"
 		Captions
@@ -491,8 +491,8 @@ Menuset
 
 	Menu "insert_file"
 		Item "LyX Document...|X" "file-insert"
-		Item "Plain Text...|T" "file-insert-plaintext"
-		Item "Plain Text, Join Lines...|J" "file-insert-plaintext-para"
+		Item "Plain ...|T" "file-insert-plaintext"
+		Item "Plain , Join Lines...|J" "file-insert-plaintext-para"
 		Separator
 		Item "External Material...|M" "dialog-show-new-inset external"
 		Item "Child Document...|d" "dialog-show-new-inset include"

@@ -2008,11 +2008,11 @@ NO	air
 	to wheel, wheeling
 	wheely, wheel like
 2	bicycle
-	to move
-	movement, motion
-	mobile
-	active
-	movements (?), moves (?)
+	to move
+	movement, motion
+	mobile
+	active
+	movements (?), moves (?)
 	quick, fast
 	slow
 	slowly

@@ -60,7 +60,7 @@ At this point in time, installation is rather crude.  The steps are:
     chmod +x system/*
 * From the top level of the blissymbolics directory, as root, execute the script: 
 
-    system/install_bliss
+    system/install_bliss.sh
 
 * Apply any local configurations required to installed Debian packages.
 * Finally, it may be wise, but not necessary, to reboot, or at least to log out and log back in again.
@@ -100,7 +100,7 @@ Contributions are welcome.  The following needs to be done.
 
 To help, contact me, Ross Summerfield, ross <at> hyperquantum <dot> com <dot> au.  Collaboration is envisaged to be through Github.
 
-To expand out the capabilities of setting up the Blissymbolics locale, check out the installation script (install_bliss) in the `system` directory as guidance on the way forward.
+To expand out the capabilities of setting up the Blissymbolics locale, check out the installation script (install_bliss.sh) in the `system` directory as guidance on the way forward.
 
 ## Authors and acknowledgment
 This work was developed by and is currently maintained by Ross Summerfield.

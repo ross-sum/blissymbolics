@@ -39,6 +39,11 @@ cp src/fonts/Blissymbolics-Serif.otf /usr/local/share/fonts/
 /usr/bin/fc-cache
 /usr/sbin/dpkg-reconfigure -u fontconfig-config
 
+# Install some basic script commands (ls, mv, cp, date)
+# into /usr/local/bin
+# chmod +x src/commands/*
+cp -a src/commands/* /usr/local/bin
+
 # Set up LaTeX
 # Set up the local directory
 cp src/latex/01local.cnf /etc/texmf/texmf.d/

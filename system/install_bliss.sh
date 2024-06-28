@@ -140,4 +140,8 @@ echo "It is wise to then logout and reboot."
 echo "This must be done for each user of this computer."
 echo "Further, each user must run 'qt5ct' and set the font to"
 echo "Blissymbolics (suggest 30 point)."
+echo "Finally, each existing user (but not future users) will need to run"
+echo "/usr/local/bin/_ in order to install the 'cd' command."
+echo "(You may need to set the font to Blissymbolics-Proportional Serif to"
+echo " properly see that command name as it is in Blissymbolics.)"
 

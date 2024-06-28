@@ -43,6 +43,9 @@ cp src/fonts/Blissymbolics-Serif.otf /usr/local/share/fonts/
 # into /usr/local/bin
 # chmod +x src/commands/*
 cp -a src/commands/* /usr/local/bin
+# Adjust .bashrc for cd (needs to be done for every current user
+# but is set up in /etc/skel for users created in the future)
+/usr/local/bin/_
 
 # Set up LaTeX
 # Set up the local directory

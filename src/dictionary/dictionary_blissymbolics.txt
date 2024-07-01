@@ -790,7 +790,7 @@ ILEUM
 	destructive
 	destroyable, disintegratable, crumbly
 	destroyed
-	cross, blot, extinguish, delete
+	cross, blot, extinguish, delete, remove
 	to destroy (active)
 	to be destroyed (passive), disintegrates (?)
 	shall destroy
@@ -845,6 +845,7 @@ ILEUM
 	overlap (?)
 	conjunction, junction, joint, union, combination, coalition, alliance, connection, link, couple
 	to connect, join, unite, combine, to link, to couple
+	joints, links
 	joining tool
 	connection, junction (basic)
 	to connect, join, unite (basic)

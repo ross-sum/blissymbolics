@@ -20,7 +20,7 @@ It assumes you install the Hyper Quantum fork of Michael Levin's Cell Writer.  M
 
 Cell Writer requires both LaTeX (specifically, the XeTeX engine for handling Unicode fonts) and R to produce statistical reports.
 
-A good Unicode Terminal emulator is helpful but not required.  None that I have experimented with handle the combining character layout of the font used here for Blissymbolics.  But the best so far is the Rxvt Unicode terminal.  However, it requires some very special configuration to make it work with Cell Writer.  I have started to write a simple but working multi-tabbed one.  It should be generally available soon.
+A good Unicode Terminal emulator is helpful but not required.  None that I have experimented with handle the combining character layout of the font used here for Blissymbolics.  But the best so far is the Rxvt Unicode terminal.  However, it requires some very special configuration to make it work with Cell Writer.  I have substantially written a simple but working multi-tabbed one.  It should be generally available soon.
 
 ## References and Links
 
@@ -56,8 +56,9 @@ At this point in time, installation is rather crude.  The steps are:
   Leave Enable subpixel rendering for screen at the default of No
 
 * Download or unpack a clone of the repository into a directory somewhere that allows root access.  You need to take care that root has access, for instance, if it is a mounted drive, root may not have access.  Best option is /usr/local/src/
-* From the top level of the blissymbolics directory, as the user that unpacked the clone of the repository, execute the script: 
+* From the top level of the blissymbolics directory, as the user that unpacked the clone of the repository, execute the commands: 
     chmod +x system/*
+    chmod +x src/commands/*
 * From the top level of the blissymbolics directory, as root, execute the script: 
 
     system/install_bliss.sh
@@ -81,6 +82,8 @@ A UI file for LyX is partially written.  It is currently installed in /usr/local
 
 It is also worth noting that LyX puts a Left-to-Right Override (LRO) U+202D character at the beginning of every paragraph. The font file should have a (blank) character in this point, otherwise a rectangle or something similar will be displayed. 
 
+Finally, in preparation for a Blissymbolics-friendly terminal emulator, symbolic links to a number of the key terminal command prompt type (that is, text based) commands have been prepared and loaded into /usr/local/bin.  They do need testing with the Blissymbolics fork of Cell Writer, because a number of them do use modifiers.  Either the modifiers need to be removed (but they are helpful to command interpretation) or just checked that Cell Writer will put them in exactly the same place.  Further text commands need to be translated and added the the symbolic links installer.  As a note, rerunning this installer will not be harmful to any existing symbolic links, but it will add any new ones.  If you wish to replace as a consequence of updating this, then the old ones need to be deleted.  That could also be done with a script.
+
 ## Support
 For help, email me at ross [at] hyperquantum [dot] com [dot] au.  Otherwise, issue tracking is through GitHub.
 
@@ -89,7 +92,7 @@ Planned future releases include:
 - Modifications to the LyX (more or less a graphical LaTeX front-end) such that it will work with Cell Writer.  This work is in progress, with the .po file already started on (it is a big document in its own right). Cell Writer interface is much harder.  Whilst you could get Cell Writer to output keystrokes and using a kmap file to translate, there aren't enough keys on the keyboard - Blissymbolics has 141 characters, of which 6 are not combining characters (so 135 are combining characters).  Unfortunately, LyX's kmap (and friends) files only take a single input key stroke for any output (which can be a string of characters), not the other way around.  That leaves LyX code modification as the only global method (an opportunity for someone who understands C++ and would like to do a little work on LyX).  Locally, the installation of ibus works.  There is a button on Cell Writer to output in ibus format and, while a bit slow, works.
 - The Cell Writer fork itself is in its infancy, being barely usable with a large training set, with the recognition engine needing a full rewrite.
 - Other work and tools to completely modify the Linux desktop to present everything in Blissymbolics need to be developed.
-- The font set, developed with FontForge, needs improvement.  I am unsure at this stage, but proper improvement could lead to a reduction in characters required in the character set (it would be nice to find 1D hexadecimal characters to bring the character set down to 80 hexadecimal (128 decimal) or less characters.  There are two fonts set up, one being monospace (important for terminals and useful for number handling in spreadsheets) and the other being proportional, but both are the same in all other erspects.
+- The font set, developed with FontForge, needs improvement.  I am unsure at this stage, but proper improvement could lead to a reduction in characters required in the character set (it would be nice to find 1D hexadecimal characters to bring the character set down to 80 hexadecimal (128 decimal) or less characters.  There are two fonts set up, one being monospace (important for terminals and useful for number handling in spreadsheets) and the other being proportional, but both are the same in all other aspects.
 - The Blissymbolics symbol set used here also needs to get properly inserted into the Unicode set.  It currently resides in the Private Use area from E100 to E18C hexadecimal.  My understanding is that there needs to be a few books written in Blissymbolics before the Unicode consortium will even think about it (even though there are Unicode characters for Elvish, a language made up by J.R.R. Tolkien).
 
 ## Contributing

@@ -46,6 +46,8 @@ cp -a src/commands/* /usr/local/bin
 # Adjust .bashrc for cd (needs to be done for every current user
 # but is set up in /etc/skel for users created in the future)
 /usr/local/bin/_
+# And set up the symbolic links
+/usr/local/bin/
 
 # Set up LaTeX
 # Set up the local directory

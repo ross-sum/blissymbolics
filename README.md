@@ -20,7 +20,7 @@ It assumes you install the Hyper Quantum fork of Michael Levin's Cell Writer.  M
 
 Cell Writer requires both LaTeX (specifically, the XeTeX engine for handling Unicode fonts) and R to produce statistical reports.
 
-A good Unicode Terminal emulator is helpful but not required.  None that I have experimented with handle the combining character layout of the font used here for Blissymbolics.  But the best so far is the Rxvt Unicode terminal.  However, it requires some very special configuration to make it work with Cell Writer.  I have substantially written a simple but working multi-tabbed one.  It should be generally available soon.
+A good Unicode Terminal emulator is helpful but not required.  None that I have experimented with handle the combining character layout of the font used here for Blissymbolics.  But the best so far is the Rxvt Unicode terminal.  However, it requires some very special configuration to make it work with Cell Writer.  I have substantially written a simple but working multi-tabbed one.  It is now generally available on GitHub.
 
 ## References and Links
 

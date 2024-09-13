@@ -101,7 +101,7 @@ Menuset
 
 	Menu "edit"
 		Item "" "undo"
-		Item "" "redo"
+		Item "" "redo"
 		Separator
 		Item "" "cut"
 		Item "" "copy"
@@ -125,32 +125,32 @@ Menuset
 # Mathed b0rkage means these don't work properly
 		OptSubmenu "" "edit_tabular"
 		OptSubmenu "" "edit_maths"
-		OptSubmenu "Rows  Columns" "edit_tabular_features"
+		OptSubmenu ",  ," "edit_tabular_features"
 		Separator
 # This is where the context-specific stuff is supposed to go.
 # The idea is that everything on here can disappear and should
 # only appear when relevant (getStatus). Only stuff that needs
 # a right-click to bring up the dialogue should appear here (it is not
 # obvious what the context is for the others)
-		OptItem "Increase List Depth|I" "depth-increment"
-		OptItem "Decrease List Depth|D" "depth-decrement"
-		OptItem "Dissolve Inset" "inset-dissolve"
-		OptItem "TeX Code Settings...|C" "inset-settings ert"
+		OptItem "  |I" "depth-increment"
+		OptItem "  |D" "depth-decrement"
+		OptItem " " "inset-dissolve"
+		OptItem "TeX  ...|C" "inset-settings ert"
 # 'a' shortcut to match Insert entry, shouldn't clash with Table Settings
-		OptItem "Float Settings...|a" "inset-settings float"
-		OptItem "Text Wrap Settings...|W" "inset-settings wrap"
-		OptItem "Note Settings...|N" "inset-settings note"
-		OptItem "Phantom Settings...|h" "inset-settings phantom"
-		OptItem "Branch Settings...|B" "inset-settings branch"
-		OptItem "Box Settings...|x" "inset-settings box"
-		OptItem "Index Entry Settings...|y" "inset-settings index"
-		OptItem "Index Settings...|x" "inset-settings index_print"
-		OptItem "Info Settings...|n" "inset-settings info"
-		OptItem "Listings Settings...|g" "inset-settings listings"
+		OptItem "Float ...|a" "inset-settings float"
+		OptItem "  ...|W" "inset-settings wrap"
+		OptItem " ...|N" "inset-settings note"
+		OptItem " ...|h" "inset-settings phantom"
+		OptItem " ...|B" "inset-settings branch"
+		OptItem " ...|x" "inset-settings box"
+		OptItem "   ...|y" "inset-settings index"
+		OptItem "   ...|x" "inset-settings index_print"
+		OptItem " ...|n" "inset-settings info"
+		OptItem " ...|g" "inset-settings listings"
 # Hey, guess what's broken ? Surprise surprise, it's tabular stuff
 # This is in the Table submenu instead for now.
-#	OptItem "Table Settings...|a" "inset-settings tabular"
-		OptItem "Table Settings...|a" "layout-tabular"
+#	OptItem " ...|a" "inset-settings tabular"
+		OptItem " ...|a" "layout-tabular"
 	End
 
 	Menu "edit_paste"
@@ -179,128 +179,129 @@ Menuset
 	End
 
 	Menu "edit_textstyles"
-		Item "Dissolve  " "inset-dissolve charstyle"
+		Item "  " "inset-dissolve charstyle"
 		CharStyles
 		Elements
 		Separator
-		Item "Customised...|C" "dialog-show character"
+		Item "...|C" "dialog-show character"
 		Separator
-		Item "Capitalise|a" "word-capitalize"
-		Item "Uppercase|U" "word-upcase"
-		Item "Lowercase|L" "word-lowcase"
+		Item "Abc|a" "word-capitalize"
+		Item "ABC|U" "word-upcase"
+		Item "abc|L" "word-lowcase"
 	End
 
 # not much we can do to help here
 	Menu "edit_tabular"
-		Item "Multi-page Table|g" "tabular-feature toggle-longtabular"
-		Item "Formal |F" "tabular-feature toggle-booktabs"
+		Item " |g" "tabular-feature toggle-longtabular"
+		Item " |F" "tabular-feature toggle-booktabs"
 		Separator
-		Item "Multicolumn|M" "tabular-feature multicolumn"
-		Item "Multirow|u" "tabular-feature multirow"
+		Item ",|M" "tabular-feature multicolumn"
+		Item ",|u" "tabular-feature multirow"
 		Separator
-		Item "Top Line|T" "tabular-feature toggle-line-top"
-		Item "Bottom Line|B" "tabular-feature toggle-line-bottom"
-		Item "Left Line|L" "tabular-feature toggle-line-left"
-		Item "Right Line|R" "tabular-feature toggle-line-right"
+		Item " |T" "tabular-feature toggle-line-top"
+		Item " |B" "tabular-feature toggle-line-bottom"
+		Item " |L" "tabular-feature toggle-line-left"
+		Item " |R" "tabular-feature toggle-line-right"
 		Separator
-		Item "Top|p" "tabular-feature tabular-valign-top"
-		Item "Middle|i" "tabular-feature tabular-valign-middle"
-		Item "Bottom|o" "tabular-feature tabular-valign-bottom"
+		Item "|p" "tabular-feature tabular-valign-top"
+		Item "|i" "tabular-feature tabular-valign-middle"
+		Item "|o" "tabular-feature tabular-valign-bottom"
 	End
 
 	Menu "edit_tabular_features"
-		Item "Left|L" "tabular-feature align-left"
-		Item "Centre|C" "tabular-feature align-center"
-		Item "Right|R" "tabular-feature align-right"
+		Item "|L" "tabular-feature align-left"
+		Item "|C" "tabular-feature align-center"
+		Item "|R" "tabular-feature align-right"
 		Separator
-		Item "Top|T" "tabular-feature valign-top"
-		Item "Middle|M" "tabular-feature valign-middle"
-		Item "Bottom|B" "tabular-feature valign-bottom"
+		Item "|T" "tabular-feature valign-top"
+		Item "|M" "tabular-feature valign-middle"
+		Item "|B" "tabular-feature valign-bottom"
 		Separator
-		Item "Add Row|A" "tabular-feature append-row"
-		Item "Delete Row|D" "tabular-feature delete-row"
-		Item "Copy Row|o" "tabular-feature copy-row"
-		Item "Move Row Up" "tabular-feature move-row-up"
-		Item "Move Row Down" "tabular-feature move-row-down"
-		# Item "Swap Rows|S" "tabular-feature swap-row" # currently broken
+		Item " ,|A" "tabular-feature append-row"
+		Item " ,|D" "tabular-feature delete-row"
+		Item " ,|o" "tabular-feature copy-row"
+		Item " , " "tabular-feature move-row-up"
+		Item " , " "tabular-feature move-row-down"
+		# Item " ,|S" "tabular-feature swap-row" # currently broken
 		Separator
-		Item "Add Column|u" "tabular-feature append-column"
-		Item "Delete Column|e" "tabular-feature delete-column"
-		Item "Copy Column|p" "tabular-feature copy-column"
-		Item "Move Column Right|v" "tabular-feature move-column-right"
-		Item "Move Column Left" "tabular-feature move-column-left"
-		# Item "Swap Columns|w" "tabular-feature swap-column" # currently broken
+		Item " ,|u" "tabular-feature append-column"
+		Item " ,|e" "tabular-feature delete-column"
+		Item " ,|p" "tabular-feature copy-column"
+		Item " , |v" "tabular-feature move-column-right"
+		Item " , " "tabular-feature move-column-left"
+		# Item " ,|w" "tabular-feature swap-column" # currently broken
 	End
 
 	Menu "edit_maths"
-		Item "Number Whole Formula|N" "math-number-toggle"
-		Item "Number This Line|u" "math-number-line-toggle"
-		Submenu "Change Limits Type|L" "edit_maths_limits"
-		Submenu "Macro Definition" "edit_maths_macro_definition"
+		Item "  |N" "math-number-toggle"
+		Item "  |u" "math-number-line-toggle"
+		Submenu "  |L" "edit_maths_limits"
+		Submenu " " "edit_maths_macro_definition"
 		Separator
-		Submenu "Change Formula Type|F" "edit_maths_mutate"
+		Submenu "  |F" "edit_maths_mutate"
 		Separator
 		Submenu " |T" "edit_maths_fontstyles"
 		Separator
-		Submenu "Use Computer Algebra System|S" "edit_maths_extern"
+# here, 'Algebra' has been substituted with 'mathematics'
+		Submenu "   |S" "edit_maths_extern"
 		Separator
-		Item "Split Cell|C" "cell-split"
+		Item "  |C" "cell-split"
 		Separator
-		Item "Add Line Above|A" "tabular-feature add-hline-above"
-		Item "Add Line Below|B" "tabular-feature add-hline-below"
-		Item "Delete Line Above|D" "tabular-feature delete-hline-above"
-		Item "Delete Line Below|e" "tabular-feature delete-hline-below"
+		Item "  |A" "tabular-feature add-hline-above"
+		Item "  |B" "tabular-feature add-hline-below"
+		Item "  |D" "tabular-feature delete-hline-above"
+		Item "  |e" "tabular-feature delete-hline-below"
 		Separator
-		Item "Add Line to Left" "tabular-feature add-vline-left"
-		Item "Add Line to Right" "tabular-feature add-vline-right"
-		Item "Delete Line to Left" "tabular-feature delete-vline-left"
-		Item "Delete Line to Right" "tabular-feature delete-vline-right"
+		Item "  " "tabular-feature add-vline-left"
+		Item "  " "tabular-feature add-vline-right"
+		Item "  " "tabular-feature delete-vline-left"
+		Item "  " "tabular-feature delete-vline-right"
 	End
 
 	Menu "edit_maths_macro_definition"
-		Item "Append Argument" "math-macro-add-param"
-		Item "Remove Last Argument" "math-macro-remove-param"
+		Item " " "math-macro-add-param"
+		Item " 1 " "math-macro-remove-param"
 		Separator
-		Item "Transform First Non-Optional to Optional Argument" "math-macro-make-optional"
-		Item "Transform Last Optional to Non-Optional Argument" "math-macro-make-nonoptional"
-		Item "Insert Optional Argument" "math-macro-add-optional-param"
-		Item "Remove Optional Argument" "math-macro-remove-optional-param"
+		Item " 1    " "math-macro-make-optional"
+		Item " 1    " "math-macro-make-nonoptional"
+		Item "  " "math-macro-add-optional-param"
+		Item "  " "math-macro-remove-optional-param"
 		Separator
-		Item "Append Argument Eating From the Right" "math-macro-append-greedy-param"
-		Item "Append Optional Argument Eating From the Right" "math-macro-add-greedy-optional-param"
-		Item "Remove Last Argument Spitting Out to the Right" "math-macro-remove-greedy-param"
+		Item "   " "math-macro-append-greedy-param"
+		Item "    " "math-macro-add-greedy-optional-param"
+		Item " 1    " "math-macro-remove-greedy-param"
 	End
 
 	Menu "edit_maths_limits"
-		 Item "Default|t"  "math-limits empty"
-		 Item "Display|D"  "math-limits limits"
-		 Item "Inline|I"  "math-limits nolimits"
+		 Item "|t"  "math-limits empty"
+		 Item "|D"  "math-limits limits"
+		 Item "|I"  "math-limits nolimits"
 	End
 
 	Menu "edit_maths_fontstyles"
-		Item "Maths Normal Font|N" "math-font-style mathnormal"
+		Item "  |N" "math-font-style mathnormal"
 		Separator
-		Item "Maths Calligraphic Family|C" "math-font-style mathcal"
-		Item "Maths Formal Script Family|o" "math-font-style mathscr"
-		Item "Maths Fraktur Family|F" "math-font-style mathfrak"
-		Item "Maths Roman Family|R" "math-font-style mathrm"
-		Item "Maths Sans Serif Family|S" "math-font-style mathsf"
+		Item " Calligraphic   |C" "math-font-style mathcal"
+		Item " Formal Script   |o" "math-font-style mathscr"
+		Item " Fraktur   |F" "math-font-style mathfrak"
+		Item " Roman   |R" "math-font-style mathrm"
+		Item "      |S" "math-font-style mathsf"
 		Separator
-		Item "Maths Bold Series|B" "math-font-style mathbf"
+		Item "    |B" "math-font-style mathbf"
 		Separator
-		Item " Normal Font|T" "math-font-style textnormal"
+		Item "  |T" "math-font-style textnormal"
 		Separator
-		Item " Roman Family" "math-font-style textrm"
-		Item " Sans Serif Family" "math-font-style textsf"
-		Item " Typewriter Family" "math-font-style texttt"
+		Item " Roman    " "math-font-style textrm"
+		Item "      " "math-font-style textsf"
+		Item " Typewriter    " "math-font-style texttt"
 		Separator
-		Item " Bold Series" "math-font-style textbf"
-		Item " Medium Series" "math-font-style textmd"
+		Item "    " "math-font-style textbf"
+		Item "    " "math-font-style textmd"
 		Separator
-		Item " Italic Shape" "math-font-style textit"
-		Item " Small Caps Shape" "math-font-style textsc"
-		Item " Slanted Shape" "math-font-style textsl"
-		Item " Upright Shape" "math-font-style textup"
+		Item "    " "math-font-style textit"
+		Item "  ABC " "math-font-style textsc"
+		Item "  " "math-font-style textsl"
+		Item "  " "math-font-style textup"
 	End
 
 	Menu "edit_maths_extern"
@@ -330,21 +331,21 @@ Menuset
 #
 
 	Menu "view"
-		Item "Open All Insets|O" "inset-forall * inset-toggle open"
-		Item "Close All Insets|C" "inset-forall * inset-toggle close"
+		Item "  |O" "inset-forall * inset-toggle open"
+		Item "  |C" "inset-forall * inset-toggle close"
 		Separator
-		Item "Unfold Maths Macro|n" "math-macro-unfold"
-		Item "Fold Maths Macro|d" "math-macro-fold"
+		Item "  |n" "math-macro-unfold"
+		Item "  |d" "math-macro-fold"
 		Separator
-		Item "Outline Pane|u" "dialog-toggle toc"
-		Item "Code Preview Pane|P" "dialog-toggle view-source"
-		Item "Messages Pane|g" "dialog-toggle progress"
+		Item "  |u" "dialog-toggle toc"
+		Item "   |P" "dialog-toggle view-source"
+		Item "LyX  |g" "dialog-toggle progress"
 		Submenu "" "toolbars"
 		Separator
-		Item "Split View Into Left and Right Half|i" "view-split horizontal"
-		Item "Split View Into Upper and Lower Half|e" "view-split vertical"
-		OptItem "Close Current View|w" "tab-group-close"
-		Item "Fullscreen|l" "ui-toggle fullscreen"
+		Item "       |i" "view-split horizontal"
+		Item "       |e" "view-split vertical"
+		OptItem "  |w" "tab-group-close"
+		Item " |l" "ui-toggle fullscreen"
 		Separator
 		Documents
 	End
@@ -354,11 +355,11 @@ Menuset
 		Separator
 		Item " " "toolbar-movable *"
 		Separator
-		Item "Small-sized Icons" "icon-size small"
-		Item "Normal-sized Icons" "icon-size normal"
-		Item "Big-sized Icons" "icon-size big"
-		Item "Huge-sized Icons" "icon-size huge"
-		Item "Giant-sized Icons" "icon-size giant"
+		Item " " "icon-size small"
+		Item "  " "icon-size normal"
+		Item " " "icon-size big"
+		Item " " "icon-size huge"
+		Item " " "icon-size giant"
 	End
 #
 # INSERT MENU
@@ -368,39 +369,39 @@ Menuset
 # commonly used to good positions (exception being mathed, but
 # most people using mathed learn key shortcuts quite quickly anyway)
 		Submenu "" "insert_maths"
-		Submenu "Special Character|p" "insert_special"
-		Submenu "Formatting|o" "insert_formatting"
-		Submenu "List / TOC|i" "insert_toc"
-		Submenu "Float|a" "insert_float"
-		Submenu "Note|N" "insert_note"
-		Submenu "Branch|B" "insert_branches"
-		Submenu "Custom Insets" "insert_custom"
-		Submenu "File|e" "insert_file"
-		Submenu "Box[[Menu]]|x" "insert_box"
-		OptSubmenu "Insert Regular Expression" "context-edit-regexp"
+		Submenu " |p" "insert_special"
+		Submenu "|o" "insert_formatting"
+		Submenu "    |i" "insert_toc"
+		Submenu "|a" "insert_float"
+		Submenu "|N" "insert_note"
+		Submenu "|B" "insert_branches"
+		Submenu " " "insert_custom"
+		Submenu "|e" "insert_file"
+		Submenu "[[]]|x" "insert_box"
+		OptSubmenu "  " "context-edit-regexp"
 		Separator
 		Item "...|C" "dialog-show-new-inset citation"
-		Item "Cross-Reference...|R" "dialog-show-new-inset ref"
+		Item " ...|R" "dialog-show-new-inset ref"
 		Item "..." "label-insert"
 		Captions
 		Indices
-		Item "Nomenclature Entry...|y" "nomencl-insert"
+		Item " ...|y" "nomencl-insert"
 		Separator
-		Item "..." "tabular-insert"
-		Item "Graphics...|G" "dialog-show-new-inset graphics"
-		Item "URL|U" "flex-insert URL"
-		Item "Hyperlink...|k" "href-insert"
-		Item "Footnote|F" "footnote-insert"
-		Item "Marginal Note|M" "marginalnote-insert"
-		Item "Program Listing[[Menu]]" "listing-insert"
-		Item "Date" "date-insert"
+		Item "...|T" "tabular-insert"
+		Item "...|G" "dialog-show-new-inset graphics"
+		Item " |U" "flex-insert URL"
+		Item "...|k" "href-insert"
+		Item "|F" "footnote-insert"
+		Item "|M" "marginalnote-insert"
+		Item " [[]]" "listing-insert"
+		Item "" "date-insert"
 		Separator
 		EnvironmentSeparators
 		Separator
 		Arguments
 		Separator
-		Item "TeX Code" "ert-insert"
-		Item "Preview|w" "preview-insert"
+		Item " TeX " "ert-insert"
+		Item " |w" "preview-insert"
 	End
 
 	Menu "insert_special"
@@ -470,29 +471,29 @@ Menuset
 		Separator
 		Item "Delimiters...|r" "dialog-show mathdelimiter"
 		Item "Matrix...|x" "dialog-show mathmatrix"
-		Item "Macro|o" "math-macro newmacroname newcommand"
+		Item "|o" "math-macro newmacroname newcommand"
 	End
 
 	Menu "insert_float"
 		FloatInsert
 # This has got to be better than "Wrap", anyway
-		Item "Figure Wrap Float|F" "wrap-insert figure"
-		Item "Table Wrap Float|T" "wrap-insert table"
+		Item "  |F" "wrap-insert figure"
+		Item "  |T" "wrap-insert table"
 	End
 
 	Menu "insert_toc"
-		Item "Table of Contents|C" "inset-insert toc"
+		Item "  |C" "inset-insert toc"
 		FloatListInsert
 		IndicesLists
-		Item "List of Listings|L" "inset-insert toc CommandInset toc LatexCommand lstlistoflistings \end_inset"
-		Item "Nomenclature|N" "nomencl-print"
-		Item "Bib(la)TeX Bibliography...|B" "dialog-show-new-inset bibtex"
+		Item "  |L" "inset-insert toc CommandInset toc LatexCommand lstlistoflistings \end_inset"
+		Item "|N" "nomencl-print"
+		Item " Bib(La)TeX  ...|B" "dialog-show-new-inset bibtex"
 	End
 
 	Menu "insert_file"
 		Item "LyX Document...|X" "file-insert"
-		Item "Plain ...|T" "file-insert-plaintext"
-		Item "Plain , Join Lines...|J" "file-insert-plaintext-para"
+		Item " ...|T" "file-insert-plaintext"
+		Item " ,  ...|J" "file-insert-plaintext-para"
 		Separator
 		Item "External Material...|M" "dialog-show-new-inset external"
 		Item "Child Document...|d" "dialog-show-new-inset include"
@@ -547,7 +548,7 @@ Menuset
 		Separator
 		Item "Compressed|o" "buffer-toggle-compression"
 		Item " |E" "buffer-toggle-read-only"
-		Item "Settings...|S" "dialog-show document"
+		Item "...|S" "dialog-show document"
 	End
 
 	Menu "document_change"
@@ -593,35 +594,35 @@ Menuset
 	Menu "tools"
 		Item "Spellchecker...|S" "dialog-show spellchecker"
 		OptItem "Thesaurus...|T" "thesaurus-entry"
-		Item "Statistics...|a" "statistics"
-		Item "Check TeX|h" "buffer-chktex"
-		Item "TeX Information|I" "dialog-show texinfo"
+		Item "  ...|a" "statistics"
+		Item "  TeX|h" "buffer-chktex"
+		Item "TeX |I" "dialog-show texinfo"
 		Item "...|C" "dialog-show compare"
 		Separator
 # A LOT of applications have Tools->Prefs. Remember this
 # should be rarely used - Edit menu is not a good place to
 # have it.
-		Item "Reconfigure|R" "reconfigure"
-		Item "Preferences...|P" "dialog-show prefs"
+		Item "|R" "reconfigure"
+		Item "...|P" "dialog-show prefs"
 	End
 
 #
 # HELP MENU
 #
 	Menu "help"
-		Item "Introduction|I" "help-open Intro"
-		Item "Tutorial|T" "help-open Tutorial"
-		Item "User's Guide|U" "help-open UserGuide"
-		Item "Additional Features|F" "help-open Additional"
-		Item "Embedded Objects|O" "help-open EmbeddedObjects"
-		Item "Maths|M" "help-open Math"
-		Item "Customisation|C" "help-open Customization"
-		Item "Shortcuts|S" "help-open Shortcuts"
-		Item "LyX Functions|y" "help-open LFUNs"
+		Item "|I" "help-open Intro"
+		Item "|T" "help-open Tutorial"
+		Item " |U" "help-open UserGuide"
+		Item " |F" "help-open Additional"
+		Item " |O" "help-open EmbeddedObjects"
+		Item "|M" "help-open Math"
+		Item "|C" "help-open Customization"
+		Item "abc |S" "help-open Shortcuts"
+		Item "LyX |y" "help-open LFUNs"
 		Item "LaTeX Configuration|L" "help-open LaTeXConfig"
-		Submenu "Specific Manuals|p" "examples"
+		Submenu " |p" "examples"
 		Separator
-		Item "About LyX|X" "dialog-show aboutlyx"
+		Item "  LyX|X" "dialog-show aboutlyx"
 	End
 
 	Menu "examples"

@@ -128,6 +128,24 @@ msgfmt -o aus_AU.mo aus_AU.po
 cd ${WKDIR}
 mkdir -p /usr/local/share/locale/aus_AU/LC_MESSAGES/
 cp src/lyx/aus_AU.mo /usr/local/share/locale/aus_AU/LC_MESSAGES/lyx.mo
+# Although LyX perports to use /usr/local/share/locale stuff, it does not
+# actually appear to.  So we will link across the lyx.mo file
+mkdir -p /usr/share/locale/aus_AU/LC_MESSAGES/
+ln -s /usr/local/share/locale/aus_AU/LC_MESSAGES/lyx.mo /usr/share/locale/aus_AU/LC_MESSAGES/
+# And finally, the /usr/share/lyx/languages file needs to be adusted to insert aus_AU
+if ! grep -e "blissymbolics" /usr/share/lyx/languages ; then
+	sed -i '293i \
+# not yet supported by polyglossia\
+Language blissymbolics\
+        GuiName          "Blissymbolics"\
+        HasGuiSupport    true\
+        BabelName        blissymbolics\
+        QuoteStyle       english\
+        Encoding         utf8\
+        LangCode         aus_AU\
+End\
+' /usr/share/lyx/languages
+fi
 # To set the LyX fonts, qt5ct needs to be installed
 apt-get install qt5ct
 # Reconfigure lyx (actually, it seems that each user needs to do this)

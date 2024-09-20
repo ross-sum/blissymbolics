@@ -823,7 +823,7 @@ ILEUM
 	been equalled
 	the equal
 	the equalling
-1	the equal
+	the equal
 	not equal, different
 	the inequality, difference
 	inequalities, differences
@@ -1164,8 +1164,8 @@ ILEUM
 	drawing the line
 1	egoistic
 1	egotism
-2	altruistic
-2	altruism
+2	altruistic
+2	altruism
 	hairdresser, hair
 	shall be responsible, be responsible
 	information (BCI 23542)
@@ -1226,8 +1226,7 @@ ILEUM
 	knowledges, information, tips, profile (?)
 	(questionable) knowledge (CKB 374)
 	the knowing
-1	the know
-	knowledge
+	the know
 	wisdom, much knowledge
 	man who knows
 	man who knows
@@ -1522,7 +1521,7 @@ NO	air
 	has said, did speak, did tell, spoke
 	been spoken, been said, told (?)
 	the speaking
-1	the speech
+	the speech
 	the speeches, the talks
 	upper lip
 	upper lip
@@ -2762,7 +2761,7 @@ H	acid
 	the breakage
 	the break
 	the breaking
-1	the break
+	the break
 	the breakage
 	table, platform, stage
 	the table

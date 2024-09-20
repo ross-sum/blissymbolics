@@ -123,7 +123,7 @@ Menuset
 		Item " ..." "layout-paragraph"
 		Separator
 # Mathed b0rkage means these don't work properly
-		OptSubmenu "" "edit_tabular"
+		OptSubmenu "" "edit_tabular"
 		OptSubmenu "" "edit_maths"
 		OptSubmenu ",  ," "edit_tabular_features"
 		Separator
@@ -149,13 +149,13 @@ Menuset
 		OptItem " ...|g" "inset-settings listings"
 # Hey, guess what's broken ? Surprise surprise, it's tabular stuff
 # This is in the Table submenu instead for now.
-#	OptItem " ...|a" "inset-settings tabular"
-		OptItem " ...|a" "layout-tabular"
+#	OptItem " ...|a" "inset-settings tabular"
+		OptItem " ...|a" "layout-tabular"
 	End
 
 	Menu "edit_paste"
-		OptItem "    HTML" "paste html"
-		OptItem "    LaTeX" "paste latex"
+		OptItem "   HTML" "paste html"
+		OptItem "   LaTeX" "paste latex"
 		OptItem "    PDF  " "paste linkback"
 		OptItem "   PDF" "paste pdf"
 		OptItem "   PNG" "paste png"
@@ -192,7 +192,7 @@ Menuset
 
 # not much we can do to help here
 	Menu "edit_tabular"
-		Item " |g" "tabular-feature toggle-longtabular"
+		Item " |g" "tabular-feature toggle-longtabular"
 		Item " |F" "tabular-feature toggle-booktabs"
 		Separator
 		Item ",|M" "tabular-feature multicolumn"
@@ -245,7 +245,7 @@ Menuset
 # here, 'Algebra' has been substituted with 'mathematics'
 		Submenu "   |S" "edit_maths_extern"
 		Separator
-		Item "  |C" "cell-split"
+		Item "  |C" "cell-split"
 		Separator
 		Item "  |A" "tabular-feature add-hline-above"
 		Item "  |B" "tabular-feature add-hline-below"
@@ -305,25 +305,25 @@ Menuset
 	End
 
 	Menu "edit_maths_extern"
-		Item "Octave|O" "math-extern octave"
-		Item "Maxima|M" "math-extern maxima"
-		Item "Mathematica|a" "math-extern mathematica"
+		Item "Octave|O" "math-extern octave"
+		Item "Maxima|M" "math-extern maxima"
+		Item "Mathematica|a" "math-extern mathematica"
 		Separator
-		Item "Maple, Simplify|S" "math-extern maple simplify"
-		Item "Maple, Factor|F" "math-extern maple factor"
-		Item "Maple, Evalm|E" "math-extern maple evalm"
-		Item "Maple, Evalf|v" "math-extern maple evalf"
+		Item "Maple,   |S" "math-extern maple simplify"
+		Item "Maple, Factor|F" "math-extern maple factor"
+		Item "Maple, Evalm|E" "math-extern maple evalm"
+		Item "Maple, Evalf|v" "math-extern maple evalf"
 	End
 
 	Menu "edit_maths_mutate"
-		Item "Inline Formula|I" "math-mutate simple"
-		Item "Displayed Formula|D" "math-mutate equation"
-		Item "Eqnarray Environment|E" "math-mutate eqnarray"
-		Item "AMS align Environment|a" "math-mutate align"
-		Item "AMS alignat Environment|t" "math-mutate alignat"
-		Item "AMS flalign Environment|f" "math-mutate flalign"
-		Item "AMS gather Environment|g" "math-mutate gather"
-		Item "AMS multline Environment|m" "math-mutate multline"
+		Item " |I" "math-mutate simple"
+		Item " |D" "math-mutate equation"
+		Item "Eqnarray |E" "math-mutate eqnarray"
+		Item "   AMS  align |a" "math-mutate align"
+		Item "   AMS   alignat |t" "math-mutate alignat"
+		Item "   AMS  flalign |f" "math-mutate flalign"
+		Item "   AMS   gather |g" "math-mutate gather"
+		Item "   AMS  multline |m" "math-mutate multline"
 	End
 
 #
@@ -371,9 +371,9 @@ Menuset
 		Submenu "" "insert_maths"
 		Submenu " |p" "insert_special"
 		Submenu "|o" "insert_formatting"
-		Submenu "    |i" "insert_toc"
+		Submenu "    |i" "insert_toc"
 		Submenu "|a" "insert_float"
-		Submenu "|N" "insert_note"
+		Submenu "|N" "insert_note"
 		Submenu "|B" "insert_branches"
 		Submenu " " "insert_custom"
 		Submenu "|e" "insert_file"
@@ -387,9 +387,9 @@ Menuset
 		Indices
 		Item " ...|y" "nomencl-insert"
 		Separator
-		Item "...|T" "tabular-insert"
+		Item "...|T" "tabular-insert"
 		Item "...|G" "dialog-show-new-inset graphics"
-		Item " |U" "flex-insert URL"
+		Item " |U" "flex-insert URL"
 		Item "...|k" "href-insert"
 		Item "|F" "footnote-insert"
 		Item "|M" "marginalnote-insert"
@@ -405,72 +405,72 @@ Menuset
 	End
 
 	Menu "insert_special"
-		Item "Symbols...|b" "dialog-show symbols"
-		Item "Ellipsis|i" "specialchar-insert dots"
-		Item "End of Sentence|E" "specialchar-insert end-of-sentence"
-		Item "Plain Quotation Mark|Q" "quote-insert outer auto plain"
-		Item "Inner Quotation Mark|n" "quote-insert inner"
-		Item "Protected Hyphen|y" "specialchar-insert nobreakdash"
-		Item "Breakable Slash|a" "specialchar-insert slash"
-		Item "Visible Space|V" "space-insert visible"
-		Item "Menu Separator|M" "specialchar-insert menu-separator"
-		Item "Phonetic Symbols|P" "ipa-insert"
-		Submenu "Logos|L" "insert_logos"
+		Item "...|b" "dialog-show symbols"
+		Item "'...'|i" "specialchar-insert dots"
+		Item "  |E" "specialchar-insert end-of-sentence"
+		Item "  |Q" "quote-insert outer auto plain"
+		Item "  |n" "quote-insert inner"
+		Item " '-'|y" "specialchar-insert nobreakdash"
+		Item " '/'|a" "specialchar-insert slash"
+		Item " ' '|V" "space-insert visible"
+		Item " |M" "specialchar-insert menu-separator"
+		Item "1 |P" "ipa-insert"
+		Submenu "  |L" "insert_logos"
 	End
 
 	Menu "insert_logos"
-		Item "LyX Logo|L" "specialchar-insert lyx"
-		Item "TeX Logo|T" "specialchar-insert tex"
-		Item "LaTeX Logo|a" "specialchar-insert latex"
-		Item "LaTeX2e Logo|e" "specialchar-insert latex2e"
+		Item "  LyX|L" "specialchar-insert lyx"
+		Item "   TeX|T" "specialchar-insert tex"
+		Item "   LaTeX|a" "specialchar-insert latex"
+		Item "   LaTeX2e|e" "specialchar-insert latex2e"
 	End
 
 	Menu "insert_formatting"
-		Item "Superscript|S" "script-insert superscript"
-		Item "Subscript|u" "script-insert subscript"
+		Item "   |S" "script-insert superscript"
+		Item "   |u" "script-insert subscript"
 		Separator
-		Item "Protected Space|P" "space-insert protected"
-		Item "Interword Space|w" "space-insert normal"
-		Item "Thin Space|T" "space-insert thin"
-		Item "Horizontal Space...|o" "command-alternatives dialog-show-new-inset space;dialog-show-new-inset mathspace"
-		Item "Horizontal Line...|L" "dialog-show-new-inset line"
-		Item "Vertical Space...|V" "dialog-show-new-inset vspace"
-		Submenu "Phantom|m" "insert_phantom"
+		Item " ' '|P" "space-insert protected"
+		Item "  ' '|w" "space-insert normal"
+		Item " ' '|T" "space-insert thin"
+		Item " ' '...|o" "command-alternatives dialog-show-new-inset space;dialog-show-new-inset mathspace"
+		Item " ...|L" "dialog-show-new-inset line"
+		Item " ' '...|V" "dialog-show-new-inset vspace"
+		Submenu "|m" "insert_phantom"
 		Separator
-		Item "Hyphenation Point|H" "specialchar-insert hyphenation"
-		Item "Ligature Break|k" "specialchar-insert ligature-break"
-		Item "Optional Line Break|B" "specialchar-insert allowbreak"
-		Item "Ragged Line Break|R" "newline-insert newline"
-		Item "Justified Line Break|J" "newline-insert linebreak"
+		Item "'-' |H" "specialchar-insert hyphenation"
+		Item "  |k" "specialchar-insert ligature-break"
+		Item "  |B" "specialchar-insert allowbreak"
+		Item "  |R" "newline-insert newline"
+		Item "     |J" "newline-insert linebreak"
 		Separator
-		Item "New Page|N" "newpage-insert newpage"
-		Item "Page Break|a" "newpage-insert pagebreak"
-		Item "Clear Page|C" "newpage-insert clearpage"
-		Item "Clear Double Page|D" "newpage-insert cleardoublepage"
+		Item " |N" "newpage-insert newpage"
+		Item " |a" "newpage-insert pagebreak"
+		Item " |C" "newpage-insert clearpage"
+		Item " 2 |D" "newpage-insert cleardoublepage"
 	End
 
 	Menu "insert_maths"
 # Always use "math-mode on" instead of "math-display" etc. because this disables the commands in maths mode
-		Item "Inline Formula|I" "math-mode on"
-		Item "Display Formula|D" "command-sequence math-mode on; math-mutate equation"
-		Item "Numbered Formula|N" "command-sequence math-mode on; math-mutate equation; math-number-toggle;"
-		Item "Eqnarray Environment|E" "command-sequence math-mode on; math-mutate eqnarray;"
-		Item "AMS align Environment|a" "command-sequence math-mode on; math-mutate align;"
-		Item "AMS alignat Environment|t" "command-sequence math-mode on; math-mutate alignat;"
-		Item "AMS flalign Environment|f" "command-sequence math-mode on; math-mutate flalign;"
-		Item "AMS gather Environment|g" "command-sequence math-mode on; math-mutate gather;"
-		Item "AMS multline Environment|m" "command-sequence math-mode on; math-mutate multline;"
+		Item " |I" "math-mode on"
+		Item " |D" "command-sequence math-mode on; math-mutate equation"
+		Item " |N" "command-sequence math-mode on; math-mutate equation; math-number-toggle;"
+		Item "Eqnarray |E" "command-sequence math-mode on; math-mutate eqnarray;"
+		Item "   AMS  align |a" "command-sequence math-mode on; math-mutate align;"
+		Item "   AMS   alignat |t" "command-sequence math-mode on; math-mutate alignat;"
+		Item "   AMS  flalign |f" "command-sequence math-mode on; math-mutate flalign;"
+		Item "   AMS   gather |g" "command-sequence math-mode on; math-mutate gather;"
+		Item "   AMS  multline |m" "command-sequence math-mode on; math-mutate multline;"
 		Separator
 # "math-matrix" and "math-insert" create an inline formula first if called from text mode
-		Item "Array Environment|y" "math-matrix 2 2"
-		Item "Cases Environment|C" "math-insert \cases"
-		Item "Aligned Environment|l" "command-sequence math-insert \aligned; tabular-feature append-column"
-		Item "AlignedAt Environment|v" "command-sequence math-insert \alignedat; tabular-feature append-column"
-		Item "Gathered Environment|h" "math-insert \gathered"
-		Item "Split Environment|S" "command-sequence math-insert \split; tabular-feature append-column"
+		Item " |y" "math-matrix 2 2"
+		Item " |C" "math-insert \cases"
+		Item " |l" "command-sequence math-insert \aligned; tabular-feature append-column"
+		Item "  |v" "command-sequence math-insert \alignedat; tabular-feature append-column"
+		Item "  |h" "math-insert \gathered"
+		Item " |S" "command-sequence math-insert \split; tabular-feature append-column"
 		Separator
-		Item "Delimiters...|r" "dialog-show mathdelimiter"
-		Item "Matrix...|x" "dialog-show mathmatrix"
+		Item " ...|r" "dialog-show mathdelimiter"
+		Item "...|x" "dialog-show mathmatrix"
 		Item "|o" "math-macro newmacroname newcommand"
 	End
 
@@ -478,11 +478,11 @@ Menuset
 		FloatInsert
 # This has got to be better than "Wrap", anyway
 		Item "  |F" "wrap-insert figure"
-		Item "  |T" "wrap-insert table"
+		Item "  |T" "wrap-insert table"
 	End
 
 	Menu "insert_toc"
-		Item "  |C" "inset-insert toc"
+		Item "  |C" "inset-insert toc"
 		FloatListInsert
 		IndicesLists
 		Item "  |L" "inset-insert toc CommandInset toc LatexCommand lstlistoflistings \end_inset"
@@ -491,40 +491,40 @@ Menuset
 	End
 
 	Menu "insert_file"
-		Item "LyX Document...|X" "file-insert"
+		Item "LyX ...|X" "file-insert"
 		Item " ...|T" "file-insert-plaintext"
 		Item " ,  ...|J" "file-insert-plaintext-para"
 		Separator
-		Item "External Material...|M" "dialog-show-new-inset external"
-		Item "Child Document...|d" "dialog-show-new-inset include"
+		Item " ...|M" "dialog-show-new-inset external"
+		Item "  ...|d" "dialog-show-new-inset include"
 	End
 
 	Menu "insert_box"
-		Item "Frameless|l" "box-insert Frameless"
-		Item "Simple Frame|F" "box-insert Boxed"
-		Item "Oval, Thin|a" "box-insert ovalbox"
-		Item "Oval, Thick|v" "box-insert Ovalbox"
-		Item "Drop Shadow|w" "box-insert Shadowbox"
-		Item "Shaded Background|B" "box-insert Shaded"
-		Item "Double Frame|u" "box-insert Doublebox"
+		Item "|l" "box-insert Frameless"
+		Item "  |F" "box-insert Boxed"
+		Item ", |a" "box-insert ovalbox"
+		Item ", |v" "box-insert Ovalbox"
+		Item " |w" "box-insert Shadowbox"
+		Item " |B" "box-insert Shaded"
+		Item "2 |u" "box-insert Doublebox"
 	End
 
 	Menu "insert_note"
-		Item "LyX Note|N" "note-insert Note"
-		Item "Comment|C" "note-insert Comment"
-		Item "Greyed Out|G" "note-insert Greyedout"
+		Item " LyX|N" "note-insert Note"
+		Item "|C" "note-insert Comment"
+		Item " |G" "note-insert Greyedout"
 	End
 
 	Menu "insert_branches"
 		Branches
 		Separator
-		Item "Insert New Branch...|I" "branch-add-insert"
+		Item "  ...|I" "branch-add-insert"
 	End
 
 	Menu "insert_phantom"
-		Item "Phantom|P" "phantom-insert Phantom"
-		Item "Horizontal Phantom|H" "phantom-insert HPhantom"
-		Item "Vertical Phantom|V" "phantom-insert VPhantom"
+		Item "|P" "phantom-insert Phantom"
+		Item " |H" "phantom-insert HPhantom"
+		Item " |V" "phantom-insert VPhantom"
 	End
 
 	Menu "insert_custom"
@@ -536,54 +536,54 @@ Menuset
 #
 
 	Menu "document"
-		Submenu "Change Tracking|C" "document_change"
-		OptItem "Build Program|B" "build-program"
-		Item "LaTeX Log|L" "dialog-show latexlog"
-		Item "Start Appendix Here|x" "appendix"
+		Submenu " |C" "document_change"
+		OptItem " |B" "build-program"
+		Item "   LaTeX|L" "dialog-show latexlog"
+		Item "   |x" "appendix"
 		Separator
 		ViewFormats
 		UpdateFormats
-		OptItem " Master Document|M" "master-buffer-view"
-		OptItem " Master Document|a" "master-buffer-update"
+		OptItem " 1 |M" "master-buffer-view"
+		OptItem " 1 |a" "master-buffer-update"
 		Separator
-		Item "Compressed|o" "buffer-toggle-compression"
+		Item " |o" "buffer-toggle-compression"
 		Item " |E" "buffer-toggle-read-only"
 		Item "...|S" "dialog-show document"
 	End
 
 	Menu "document_change"
-		Item "Track Changes|T" "changes-track"
-		Item "Merge Changes...|M" "changes-merge"
-		Item "Accept Change|A" "change-accept"
-		Item "Reject Change|R" "change-reject"
-		Item "Accept All Changes|c" "all-changes-accept"
-		Item "Reject All Changes|e" "all-changes-reject"
-		Item "Show Changes in Output|S" "changes-output"
+		Item " |T" "changes-track"
+		Item " ...|M" "changes-merge"
+		Item " |A" "change-accept"
+		Item " |R" "change-reject"
+		Item "  |c" "all-changes-accept"
+		Item "  |e" "all-changes-reject"
+		Item "   |S" "changes-output"
 	End
 
 #
 # NAVIGATE MENU
 #
 	Menu "navigate"
-		Submenu "Bookmarks|B" "navigate_bookmarks"
-		Item "Next Note|N" "note-next"
-		Item "Next Change|C" "change-next"
-		Item "Next Cross-Reference|R" "reference-next"
-		OptItem "Go to Label|L" "label-goto"
-		Item "Forward Search|F" "forward-search"
+		Submenu "|B" "navigate_bookmarks"
+		Item "|N" "note-next"
+		Item "|C" "change-next"
+		Item " ...|R" "reference-next"
+		OptItem " |L" "label-goto"
+		Item " |F" "forward-search"
 		Separator
 		Toc
 	End
 
 	Menu "navigate_bookmarks"
-		Item "Save Bookmark 1|S" "bookmark-save 1"
-		Item "Save Bookmark 2" "bookmark-save 2"
-		Item "Save Bookmark 3" "bookmark-save 3"
-		Item "Save Bookmark 4" "bookmark-save 4"
-		Item "Save Bookmark 5" "bookmark-save 5"
-		Item "Clear Bookmarks|C" "bookmark-clear"
+		Item "   1|S" "bookmark-save 1"
+		Item "   2" "bookmark-save 2"
+		Item "   3" "bookmark-save 3"
+		Item "   4" "bookmark-save 4"
+		Item "   5" "bookmark-save 5"
+		Item " |C" "bookmark-clear"
 		Separator
-		Item "Navigate Back|B" "bookmark-goto 0"
+		Item " |B" "bookmark-goto 0"
 		Bookmarks
 	End
 
@@ -592,8 +592,8 @@ Menuset
 #
 
 	Menu "tools"
-		Item "Spellchecker...|S" "dialog-show spellchecker"
-		OptItem "Thesaurus...|T" "thesaurus-entry"
+		Item "  ...|S" "dialog-show spellchecker"
+		OptItem "...|T" "thesaurus-entry"
 		Item "  ...|a" "statistics"
 		Item "  TeX|h" "buffer-chktex"
 		Item "TeX |I" "dialog-show texinfo"
@@ -626,20 +626,20 @@ Menuset
 	End
 
 	Menu "examples"
-		Item "Beamer Presentations|B" "help-open beamer"
-		Item "Braille|a" "help-open Braille"
-		Item "Coloured boxes|r" "help-open colored-boxes"
-		Item "Feynman-diagram|F" "help-open FeynmanDiagrams"
-		Item "Knitr|K" "help-open knitr"
-		Item "LilyPond|P" "help-open lilypond"
-		Item "Linguistics|L" "help-open linguistics"
-		Item "Multilingual Captions|C" "help-open MultilingualCaptions"
-		Item "Paralist|t" "help-open paralist"
-		Item "PDF comments|D" "help-open PDF-comment"
-		Item "PDF forms|o" "help-open PDF-form"
-		Item "Hazard and Precautionary Statements|H" "help-open H-P-statements"
-		Item "Sweave|S" "help-open sweave"
-		Item "XY-pic|X" "help-open xypic"
+		Item "Beamer |B" "help-open beamer"
+		Item "  |a" "help-open Braille"
+		Item " |r" "help-open colored-boxes"
+		Item "  |F" "help-open FeynmanDiagrams"
+		Item " Knitr|K" "help-open knitr"
+		Item "LilyPond|P" "help-open lilypond"
+		Item "|L" "help-open linguistics"
+		Item " |C" "help-open MultilingualCaptions"
+		Item "    |t" "help-open paralist"
+		Item " PDF |D" "help-open PDF-comment"
+		Item " PDF |o" "help-open PDF-form"
+		Item "   |H" "help-open H-P-statements"
+		Item "R  LyX Sweave|S" "help-open sweave"
+		Item "|X" "help-open xypic"
 	End
 
 

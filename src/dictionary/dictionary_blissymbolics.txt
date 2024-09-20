@@ -1,8 +1,8 @@
 	Blissymbolics, world writing
 	Blissymbolic symbol, semantographic symbol
 	!, speciality, specialities, It is, It's
-	left bracket (( or [)
-	right bracket () or ])
+	left bracket (( or [)
+	right bracket () or ])
 	question, Have, Will, Do, Is, What, Are, what
 	Are, Will, Have
 	percentage
@@ -340,7 +340,7 @@
 	twin star
 	planet, globe, earth
 	earth's crust
-	centre of the earth
+	centre of the earth  (CKB 248)
 	north pole
 	south pole
 	northern hemisphere
@@ -376,7 +376,7 @@
 	the roof, the cover, the cladding
 	to cover, to protect
 	roofs, covers
-	covered, cladded
+	covered, cladded, protected
 	protector, police
 	protection for future
 	walls
@@ -614,8 +614,10 @@
 	gathering
 	meeting
 	separation
+	the separation, separator
 	repulsion, separate
 	to repulse, to separate
+	the repulser
 	expansion
 	distribution
 	moving up
@@ -855,6 +857,7 @@ ILEUM
 	soap
 	overlap (?)
 	conjunction, junction, joint, union, combination, coalition, alliance, connection, link, couple
+	the conjunction, the junction, the union, the joint, the link, the coupling
 	to connect, join, unite, combine, to link, to couple, to merge {?)
 	joints, links
 	joining tool, linker (?)
@@ -921,10 +924,10 @@ ILEUM
 	ionisation
 	action, the act, physical action, Affairs
 	to act
+	acted
 	stable (position)
 	how, what action
 	so
-	to act
 	to work, occupation, job
 	work like, yacka (adverb)
 	workable
@@ -938,7 +941,7 @@ ILEUM
 	the job, the occupation
 	the works, the jobs, the occupations
 	the working (verbal noun)
-1	the work (verbal noun)
+	the work (verbal noun)
 	toilers
 	laboratory
 	project (?), collection of work (?)
@@ -979,6 +982,7 @@ ILEUM
 	to make, made, to prepare, to produce, to process
 	was made, produced
 	will make
+	the make, the thing made, the build
 	manufacturing, industry
 	to hide, to conceal (BCI 14710)
 	hand-craft, craft (BCI 25722), custom(?)
@@ -1090,6 +1094,9 @@ ILEUM
 	to interest
 	strong interest
 	idea, mind flash
+	ideas, mind flashes
+	to idea, to formulate(?)
+	formulated (?)
 	the interest
 	correct
 	correctingly
@@ -1127,7 +1134,7 @@ ILEUM
 	observation
 	observable, perceivable
 	perceived, observed (adjective)
-	perception, to observe
+	perception, to observe, to track (?)
 	perception, to observe, to perceive
 	to be perceived, to be observed
 	shall perceive, shall observe
@@ -1161,6 +1168,9 @@ ILEUM
 2	altruism
 	hairdresser, hair
 	shall be responsible, be responsible
+	information (BCI 23542)
+	to inform
+	informed
 	use, useful
 	to use
 	to use, using
@@ -1200,11 +1210,12 @@ ILEUM
 	prophet
 	meaning, sense, significance (BCI 15441)
 	meanings, siginficances
-	knowledge
-	to know, knowing
+	to mean, to be significant
+	knowledge, know (CKB 374, 502, 522)
+	to know, knowing (CKB 374)
 	to know
 	to be known, known as
-	knowingly
+	knowingly (CKB 374)
 	knowable
 	shall know
 	known
@@ -1213,6 +1224,7 @@ ILEUM
 	the knowledge, point
 	the knowledge
 	knowledges, information, tips, profile (?)
+	(questionable) knowledge (CKB 374)
 	the knowing
 1	the know
 	knowledge
@@ -1238,6 +1250,7 @@ ILEUM
 	to enclose, to close
 	enclosure
 	will be enclosed
+	enclosures, frames (?)
 	bottom (CKB 247), oven
 	lid, top (CKB 247), hotplate
 	side (CKB 247)
@@ -1269,16 +1282,16 @@ ILEUM
 	will be open, to open
 	are/is open
 	latch
-	question, INFORMATION, information (CKB 237), problem
+	question, (place to get) INFORMATION, information [open for question] (CKB 237, 358), problem
 	did question, questioned, is investigated
 	trial, attempt, experiment, test, probe
-	answer, solution
+	answer, solution (CKB 237)
 	result
-	unconscious, asleep, fainted
-	subconscious, awake
-	preconscious
-	conscious of emotions
-	conscious of reason
+	unconscious, asleep, fainted (CKB 533)
+	subconscious, awake (CKB 533)
+	preconscious (CKB 533)
+	conscious of emotions (CKB 534)
+	conscious of reason (CKB 534)
 	conscious of conscience
 	love, affection, loves
 	did love
@@ -1309,8 +1322,9 @@ ILEUM
 	science of physics
 	science of medicine
 	science of people, humanities
+	science of language, linguistics (BCI 21557)
 	science of mathematics
-	knowledge of mathematics
+	knowledge of mathematics, maths
 	calculate
 	calculator
 	calculation
@@ -1326,8 +1340,8 @@ ILEUM
 	crystallography, science of crystals
 	doubt, truth (in a human's mind)
 	scientific theory, theory
-	hypothesis
-	a scientific hunch
+	hypothesis (CKB 516)
+	a scientific hunch, feeling, thought emerging from the ID into EGO (CKB 516)
 	law of nature
 	congress (science meeting)
 	congresses, science meetings
@@ -1355,6 +1369,7 @@ ILEUM
 	organisations, arrangements, settings
 	eye, seeing
 	the eye
+	eyes
 	vision, to see, to visualise, to sight, to display (?)
 	shall see
 	saw
@@ -1392,6 +1407,7 @@ ILEUM
 	found
 	to demonstrate, to cause to be observed (BCI 16967)
 	the demonstration, tutorial (?)
+	Blind (BCI 12856)
 	discoverer, discovery
 	discovered
 	picture, photo, photograph, view finder, depict, image, figure, graphic
@@ -1409,7 +1425,8 @@ ILEUM
 	lens (eye)
 	cornea
 	mark spot, mark blot
-	form, shape, pattern (?)
+	marks spot, marks blot
+	form, shape, pattern (?), feature (?)
 	optics
 	optical
 	camera
@@ -1422,6 +1439,7 @@ ILEUM
 	movie, film
 	colour
 	to colour
+	coloured
 	colours
 	red
 	orange
@@ -1863,8 +1881,7 @@ NO	air
 	liquid, similar to water
 	weather
 	change
-	to change, to alterate, to mutate, to modulate, to vary, to permutate, varying
-	to revert (?), reset (?)
+	to change, to alterate, to mutate, to modulate, to vary, to permutate, varying, to revert (?), reset (?)
 	changed (thing), changing, product, transform
 	the changed (things), products, variants
 	changingly, varyingly, mutatingly
@@ -1873,6 +1890,7 @@ NO	air
 	to change, to alterate, to mutate, to modulate, to vary, to permutate, to overturn
 	to be changed, to be altered, to be mutated, to be modulated, to be varied, to be permutated, to be overturned
 	the change, the alteration, the mutation, the modulation, the variation, the permutation, version (Unit of Action)
+	past change
 	transforms, changes
 	unchanged (thing), unaltered, plain (in the computer sense, e.g. 'plain' text) (?)
 	development
@@ -2174,6 +2192,7 @@ NO	air
 	contained, held, did contain, did hold
 	can hold, is holding, capacious
 	containment
+	containable, loadable
 	bowls, vessels
 	contents, load, cargo, freight, filling, collection, accumulation, hoard, store, treasure
 	the holding
@@ -2213,12 +2232,13 @@ NO	air
 	been given
 	the gift (unit of action)
 	the gift (thing given)
+	gifts (things given)
 	to exchange, to change, interchange, substitute, convert, barter, swap, reciprocate
 	exchanged product
 	exchangingly
 	exchangeable
 	exchanged (adjective)
-	to exchange
+	to exchange, to change, to convert, to swap, to reciprocate, to substitute
 	to exchange (active)
 	to be exchanged, exchanged
 	shall exchange
@@ -2449,6 +2469,8 @@ NO	air
 	cation
 	anion
 	anion
+	sub-atomic, sub-atomic particle
+	sub-atomic particles
 .	proton
 	electron
 	positron
@@ -2594,6 +2616,7 @@ H	acid
 	parallel
 	vertical, upright
 	this side up, vertically align
+	(has been) vertically aligned
 	horizontal
 	horizontally align
 	rectangle
@@ -2602,6 +2625,7 @@ H	acid
 	tesseral (axis perspective)
 	rhombic
 	cube, box, container, case, tesseral
+	boxes
 	quadrangular prism
 	pyramid
 	cylinder, drum
@@ -2619,6 +2643,7 @@ H	acid
 	straight pole, straight rod, straight bar, straight stick, rod, bar, pole, stick
 	to straighten
 	straight
+	not straight, bent, ragged (?)
 	self, itself
 	other, others, al.
 	any other
@@ -3088,7 +3113,8 @@ H	acid
 	computer joystick (? FSBW)
 	computer screen (?), display (?)
 	computer touch screen (?)
-	internet
+	grid, matrix (BCI 24904), array (?), network fabric (?)
+	internet
 abc	keyboard (BCI 23555)
 abc	keyboard key (BCI 23553)
 	pointing device (?)
@@ -3122,7 +3148,7 @@ H	acid
 	have turned
 	will turn, shall turn
 	the turning, the rotating
-1	the turn, the rotation
+	the turn, the rotation
 	jump
 	swing
 	swinging, oscillating
@@ -3245,10 +3271,12 @@ H	acid
 	coherent (?)
 NaCl	salt
 NaCl	to salt
-	table, grid of data (?)
-	data base, database, information store
-	data location, (database or file) field (?)
-	data locations, fields (?)
+	table, grid of data (?)
+	tables, grids of data (?)
+	data base, database, information store
+	databases
+	information location, data location, (database or file) field (?)
+	information locations, data locations, fields (?)
 	claw (GS)
 	swan (GS)
 	penguin (GS)
@@ -3301,6 +3329,7 @@ NaCl	to salt
 	record, register, paper on information
 	repository (?)
 	reference, source (BCI 28070)
+	references, sources
 	not allow, disable, prevent
 	to undo (BCI 23700)
 	thing label
@@ -3325,7 +3354,7 @@ NaCl	to salt
 	to embed (make inside) (?)
 	view location, pane (?)
 	rule, regulation (BCI 16697)
-	book on word meanings, thesaurus (?)
+	book on word meanings, dictionary, thesaurus (?)
 	to redo (BCI 23630)
 	work duplicate, exercise, practice, drill, rehearsal (BCI 26224)
 	to exercise, to practise, drill, to rehearse (BCI 16235)
@@ -3346,3 +3375,14 @@ NaCl	to salt
 1	prefix (BCI 27117)
 	bookmark (?)
 	bookmarks (?)
+	holding location, buffer (?)
+	language classification, dialect (?)
+	symbol (CKB ?)
+	symbols
+1	unit of small different sound, phoneme (BCI 27107)
+	without frame, frameless (?)
+	oval shape, elipse shape (BCI 15946)
+	oval (BCI 23599)
+	shadow (BCI 24746)
+	paper on things, form (?)
+	papers on  things, forms (?)

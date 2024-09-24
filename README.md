@@ -1,6 +1,6 @@
 # Blissymbolics
 
-$Date: Thu 19 Sep 2024 20:39:01 AEST$
+$Date: Tue 24 Sep 2024 21:37:11 AEST$
 
 ## Description
 
@@ -45,11 +45,12 @@ Cell Writer requires both LaTeX (specifically, the XeTeX engine for handling Uni
 fonts) and R to produce statistical reports.
 
 A good Unicode Terminal emulator is helpful but not required.  None that I have 
-experimented with handle the combining character layout of the font used here for 
-Blissymbolics.  But the best so far is the Rxvt Unicode terminal.  However, it 
-requires some very special configuration to make it work with Cell Writer.  I have 
-substantially written a simple but working multi-tabbed one.  It is now generally 
-available on GitHub (see https://github.com/ross-sum/bliss_term).
+experimented with terminal emulators to see if they can handle the combining 
+character layout of the font used here for Blissymbolics.  But the best so far is 
+the Rxvt Unicode terminal.  However, it requires some very special configuration to 
+make it work with Cell Writer.  I have substantially written a simple but mostly
+working multi-tabbed one.  It is now generally available on GitHub (see 
+https://github.com/ross-sum/bliss_term).
 
 ## References and Links
 
@@ -113,7 +114,7 @@ upgrades are not affected).
 
 LyX doesn't actually recognise the LaTeX directories, so the install_bliss 
 script also copies files for LaTeX into the /usr/share/texmf/tex/latex/ 
-directory structure.
+directory structure and makes other symbolic links.
 
 R is often used by LyX for its graphical output, generating encapsulated 
 postscript (.eps) files.
@@ -138,15 +139,16 @@ For a document, though, you may need to check the 'Use non-TeX fonts
 
 A UI file for LyX is partially written.  It is currently installed in 
 /usr/local/share/lyx/ui/, but it cannot be used from there.  If you 
-wish to try it out, then copy all the files in that directory to 
-~/.lyx/ui/ and then select it as the User interface file, which is 
-located in the User Interface subsection of Look & Feel in 
-Tools|Preferences.  However, LyX does not have a mechanism built in 
-to change its own menu font.  LyX documentation says to run qtconfig, 
-but there is no such thing anymore.  Apparently qt5ct replaces it.  
-It needs to be run by each of the computer's users that plans to use 
-LyX with Blissymbolics. After the system/install_bliss package 
-installs it, you will need to run it (go to a terminal emulator, 
+wish to try it out, then copy or make symolic links all the files in 
+that directory to ~/.lyx/ui/ and then select it as the User interface 
+file, which is located in the User Interface subsection of Look & Feel 
+in Tools|Preferences.  Alternatively, you can select Blissymbolics from
+the Tools|Preferences|Language Settings.  However, LyX does not have a 
+mechanism built in to change its own menu font.  LyX documentation says 
+to run qtconfig, but there is no such thing anymore.  Apparently qt5ct 
+replaces it.  It needs to be run by each of the computer's users that 
+plans to use LyX with Blissymbolics. After the system/install_bliss 
+package installs it, you will need to run it (go to a terminal emulator, 
 type `qt5ct`, then select the Blissymbolics-Courier font.  Once done 
 and saved, log out and log in again for the font to take effect.
 
@@ -159,8 +161,8 @@ Finally, in preparation for a Blissymbolics-friendly terminal emulator,
 symbolic links to a number of the key terminal command prompt type 
 (that is, text based) commands have been prepared and loaded 
 into /usr/local/bin.  They do need testing with the Blissymbolics fork 
-of Cell Writer, because a number of them do use modifiers.  Either the 
-modifiers need to be removed (but they are helpful to command 
+of Cell Writer, because a number of them do use indicators.  Either the 
+indicators need to be removed (but they are helpful to command 
 interpretation) or just checked that Cell Writer will put them in 
 exactly the same place.  Further text commands need to be translated 
 and added the the symbolic links installer.  As a note, rerunning 

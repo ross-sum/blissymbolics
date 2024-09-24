@@ -154,13 +154,13 @@ Menuset
 	End
 
 	Menu "edit_paste"
-		OptItem "   HTML" "paste html"
-		OptItem "   LaTeX" "paste latex"
-		OptItem "    PDF  " "paste linkback"
-		OptItem "   PDF" "paste pdf"
-		OptItem "   PNG" "paste png"
-		OptItem "   JPEG" "paste jpeg"
-		OptItem "   EMF" "paste emf"
+		OptItem "  HTML" "paste html"
+		OptItem "  LaTeX" "paste latex"
+		OptItem "   PDF  " "paste linkback"
+		OptItem "  PDF" "paste pdf"
+		OptItem "  PNG" "paste png"
+		OptItem "  JPEG" "paste jpeg"
+		OptItem "  EMF" "paste emf"
 		Separator
 		Item " " "clipboard-paste"
 		Item " ,  " "clipboard-paste paragraph"
@@ -400,7 +400,7 @@ Menuset
 		Separator
 		Arguments
 		Separator
-		Item " TeX " "ert-insert"
+		Item "TeX " "ert-insert"
 		Item " |w" "preview-insert"
 	End
 
@@ -420,9 +420,9 @@ Menuset
 
 	Menu "insert_logos"
 		Item "  LyX|L" "specialchar-insert lyx"
-		Item "   TeX|T" "specialchar-insert tex"
-		Item "   LaTeX|a" "specialchar-insert latex"
-		Item "   LaTeX2e|e" "specialchar-insert latex2e"
+		Item "  TeX|T" "specialchar-insert tex"
+		Item "  LaTeX|a" "specialchar-insert latex"
+		Item "  LaTeX2e|e" "specialchar-insert latex2e"
 	End
 
 	Menu "insert_formatting"
@@ -518,7 +518,7 @@ Menuset
 	Menu "insert_branches"
 		Branches
 		Separator
-		Item "  ...|I" "branch-add-insert"
+		Item "  ...|I" "branch-add-insert"
 	End
 
 	Menu "insert_phantom"
@@ -619,7 +619,7 @@ Menuset
 		Item "|C" "help-open Customization"
 		Item "abc |S" "help-open Shortcuts"
 		Item "LyX |y" "help-open LFUNs"
-		Item "LaTeX Configuration|L" "help-open LaTeXConfig"
+		Item "LaTeX |L" "help-open LaTeXConfig"
 		Submenu " |p" "examples"
 		Separator
 		Item "  LyX|X" "dialog-show aboutlyx"
@@ -635,8 +635,8 @@ Menuset
 		Item "|L" "help-open linguistics"
 		Item " |C" "help-open MultilingualCaptions"
 		Item "    |t" "help-open paralist"
-		Item " PDF |D" "help-open PDF-comment"
-		Item " PDF |o" "help-open PDF-form"
+		Item "PDF |D" "help-open PDF-comment"
+		Item "PDF |o" "help-open PDF-form"
 		Item "   |H" "help-open H-P-statements"
 		Item "R  LyX Sweave|S" "help-open sweave"
 		Item "|X" "help-open xypic"

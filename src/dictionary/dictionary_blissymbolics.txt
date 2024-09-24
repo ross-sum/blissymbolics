@@ -1,4 +1,4 @@
-	Blissymbolics, world writing
+	Semantography, Blissymbolics, world writing (CKB 361)
 	Blissymbolic symbol, semantographic symbol
 	!, speciality, specialities, It is, It's
 	left bracket (( or [)
@@ -7,7 +7,7 @@
 	Are, Will, Have
 	percentage
 	not, opposite
-	number
+	number (CKB 517)
 	(has been) numbered (?)
 	repeating (from above, of word before), which (CKB 445)
 	:, that
@@ -215,8 +215,8 @@
 	male
 	female
 	ring
-	life, existence, exists, lives, available (?)
-	to live, to be, to exist
+	life, existence, exists, lives (CKB 148), available (?)
+	to live, to be, to exist (CKB 151)
 	living, being, living thing
 	lively
 	death
@@ -229,7 +229,7 @@
 	lifeless, dead
 	become lifeless, dieing
 	blood
-	to be, to exist (in-animated), is
+	to be, to exist (in-animated, non-living), is (CKB 149)
 	thing
 	will stay, to stay, will be
 	to be (in mind), there is, is
@@ -461,6 +461,7 @@
 	relatively
 	absoluteness
 	position, order, level
+	the position, the order, the level, placement
 	to pose
 	positions, states
 	point of view (emotional)
@@ -542,11 +543,11 @@
 	mostly, essentially
 	least
 	the muchness
-	all (within limits)
-	all (everything)
-	nothing, none
-1	each, every
-1	only, single, singular
+	all (within limits) (CKB 362)
+	all (everything) (CKB 146, 362)
+	nothing, none (CKB 363)
+1	each, every (of all) (CKB 363)
+1	only, single, singular (CKB 363)
 2	pair
 12	dozen
 144	gross
@@ -554,6 +555,7 @@
 2	double
 3	triple
 1	unit, sample, example
+1	units, samples, examples
 1	first
 1	to make first
 1	firstly, first
@@ -583,6 +585,7 @@
 	attraction
 	to meet
 	conformity, concord, harmony, agreement
+	the conformity, the concord, the harmony, the agreement, standard
 	conform, harmonise, agree
 	agree (?), accept (?)
 	the conformity
@@ -832,6 +835,8 @@ ILEUM
 	things, chemical things	
 	what?
 1	piece
+	waste, garbage, rubbish, trash (BCI 18043)
+	to waste, to trash, to discard
 	solid, solid thing
 	melting
 	solidifying
@@ -1159,8 +1164,8 @@ ILEUM
 	wish, desire, want
 	desire, wish, want, like to have, like
 	lust, desire, glutton
-	stupid
-,	idiot
+	stupid (CKB 149)
+,	idiot (CKB 149)
 	drawing the line
 1	egoistic
 1	egotism
@@ -1208,7 +1213,7 @@ ILEUM
 	anticipation, future, prophecy, prediction, forecast
 	could predict, might predict
 	prophet
-	meaning, sense, significance (BCI 15441)
+	meaning of a term in a mind (CKB 567), meaning, sense, significance (BCI 15441)
 	meanings, siginficances
 	to mean, to be significant
 	knowledge, know (CKB 374, 502, 522)
@@ -1244,6 +1249,7 @@ ILEUM
 	definition (BCI 25690)
 	defined (?)
 	to define (?)
+	definitions
 	closed, enclosed, square, engaged
 	closed, enclosed, shut
 	to enclose, to close
@@ -1258,7 +1264,7 @@ ILEUM
 	left plate
 	right plate
 	unit of enclosure
-	into, to move into, to enter, to insert, to deposit, to input, absorption
+	into, to move into, to enter, to insert, to deposit, to input, absorption, penetrate (CKB 236, 397, BCI 13940)
 	will deposit, will insert, will enter
 	deposited, inserted
 	entered, inserted, deposited, absorption
@@ -1315,33 +1321,34 @@ ILEUM
 	ugliness, depressing sight
 	gorgeousness
 	gorgeous
-	science, philosophy, mind contemplating nature, research
+	science, philosophy, mind contemplating nature, research (CKB 516)
 	scientist, philosopher
 	science of chemistry
 	science of physics
 	science of medicine
 	science of people, humanities
 	science of language, linguistics (BCI 21557)
-	science of mathematics
-	knowledge of mathematics, maths
-	calculate
+	science of mathematics (CKB 517)
+	knowledge of mathematics, maths (CKB 517)
+	to calculate, to figure out (CKB 517)
 	calculator
 	calculation
 	to calculate, to figure out
 	calculators
-	a cardinal number, a cipher, a figure, digital (?)
+	a cardinal number, a cipher, a figure (CKB 517), digital (?)
 	figures
-	ordinal number
+	ordinal number (CKB 517)
 	equation (?), formula (?)
 	equations (?), formulae (?)
 	any number, arbitrary number
 	metallurgy, science of metals
 	crystallography, science of crystals
 	doubt, truth (in a human's mind)
-	scientific theory, theory
+	scientific theory, theory, theorem (CKB 516)
+	theories, theorems
 	hypothesis (CKB 516)
-	a scientific hunch, feeling, thought emerging from the ID into EGO (CKB 516)
-	law of nature
+	a scientific hunch, feeling, thought emerging from the ID into EGO (CKB 516), conjecture
+	law of nature (CKB 516)
 	congress (science meeting)
 	congresses, science meetings
 	designing, planning, design, plan, method
@@ -1405,6 +1412,7 @@ ILEUM
 	find, discovery
 	to find
 	found
+	not found, missing
 	to demonstrate, to cause to be observed (BCI 16967)
 	the demonstration, tutorial (?)
 	Blind (BCI 12856)
@@ -1530,6 +1538,8 @@ NO	air
 	chatterer, prattler, gossiper
 	lecture, orate, recite, declaim
 	lecturer, orator, reciter, declamator
+	to describe (BCI 13661)
+	description (?)
 	dumb
 	discussion
 	greeting
@@ -1537,7 +1547,7 @@ NO	air
 	admittance, agreeance
 	denial
 	speechless
-	speaker, storyteller
+	speaker, storyteller (CKB 360)
 	speakers, storytellers
 	cry
 	shout
@@ -1545,7 +1555,7 @@ NO	air
 	generalisation
 	to generalise
 	general
-	name, sign, signature, name is, label, term, title
+	name, sign, signature, name is (CKB 254 567), label, term, title (BCI 15691)
 	names
 	did name, did cite (?)
 	named (adjective), cited, termed
@@ -1607,6 +1617,7 @@ NO	air
 b	consonant
 ab	syllable
 	language
+	languages
 	word
 	words, text
 	worded
@@ -1759,6 +1770,7 @@ NO	air
 	place, address
 	to place, to put
 	places, locations
+	the place, the location, placement
 	address
 	where?
 	anywhere, wherever
@@ -1951,29 +1963,29 @@ NO	air
 	shall converse, will converse
 	has conversed
 	conversations, communications, statements (?)
-	sheet of paper, leaf, page, paper, written page
+	sheet of paper, leaf, page, paper, written page (CKB 130, 360)
 	the paper (leaf)
 	to paper (to leaf)
 	papery (leafy)
 	papers (leaves)
-	reading
+	reading (CKB 130, 360)
 	to read
 	to be read
-	reader
+	reader (CKB 130, 360)
 	notice
-	spoken story, reading aloud, speech, story for printing
-	printed story, description, report
+	spoken story, reading aloud, speech, story for printing (CKB 130, 360)
+	printed speach, printed story, report (CKB 130, 360), description (?)
 	the report
 	reports
 	reporting
 	will report
-	has reported, described
+	has reported, described (?)
 	reported
-	reporting, to report, to describe
-	paragraph
-	paragraph
+	reporting, to report, to describe (?)
+	paragraph (CKB 130)
+	paragraph (CKB 360)
 	sub-paragraph (?)
-	copy
+	copy (CKB 130)
 	printed copy, reproduction, duplicate, a photocopy
 	a writing, document, file
 	documents
@@ -1986,19 +1998,20 @@ NO	air
 	document classification, document type, document format
 	line
 	lines
-	letter, word
+	letter (CKB 130), word
 	letter
 	letters
-	book, a writing
+	book, a writing (CKB 130, 360)
 	the book
 	books
 	to read, to study
-	chapter
-	chapter
+	chapter (CKB 130)
+	chapters
+	chapter (CKB 360)
 	section (of chapter) (?)
 	sub-section (of chapter) (?)
 	sub-sub-section (of chapter) (?)
-	book cover, cover of book
+	book cover, cover of book (CKB 130)
 	collection
 	library
 	librarian
@@ -2529,7 +2542,7 @@ NO	air
 	liquid chemical, chemical liquid
 	chemist
 	agricultural chemists
-	chemical symbol
+	chemical symbol (CKB 518)
 	chemical analysis
 	the chemical analysis, the analysis
 	analysing
@@ -2650,6 +2663,7 @@ H	acid
 2	another
 	graph, plot
 	graphing, plotting
+	graphs, plots
 	x axis, x-axis
 	y axis, y-axis
 	x and y axis, x & y axis
@@ -2717,10 +2731,12 @@ H	acid
 	to widen
 	to be widened
 	the width, size
+	widths, sizes
 25cm	width: 25cm
 	narrow
 	thick
 25cm	thickness: 25cm
+	thickness
 	thin
 	together
 	together
@@ -2736,11 +2752,11 @@ H	acid
 	below, under
 	before, in front, ago
 	after, behind
-	in, inside
+	in, inside (CKB 237, 369)
 	in, inside
-	to insert, to include, including
-	in
-	out, outside
+	to have inside (?), to include, including
+	in (in the location sense) (CKB 149)
+	out, outside (CKB 237, 369)
 	out, outside
 	to eject, except
 	outsider
@@ -3064,9 +3080,9 @@ H	acid
 	France, French
 	Japan, Japanese
 G	Germany, German
-	door
-	entrance, IN, reception
-	exit, OUT
+	door (CKB 236)
+	entrance, IN, reception (CKB 236)
+	exit, OUT (CKB 236)
 	curtain
 	curtains
 	fire exit
@@ -3306,7 +3322,8 @@ NaCl	to salt
 	to shave (GS)
 	shaver, razor (GS)
 	computer disk, disc (BCI 13685)
-	mistake, error, fault (BCI 15479)
+	mistakes, errors, faults
+
 	directory (?)
 	(cut-and-)paste (BCI 23465)
 	change number, version number
@@ -3352,10 +3369,12 @@ NaCl	to salt
 	lists of things, menus (?)
 	the listing, the listing of things
 	footnote (?) more information at bottom (?)
+	margin note (?) more information at side (?)
 	to embed (make inside) (?)
 	view location, pane (?)
 	rule, regulation (BCI 16697)
 	book on word meanings, dictionary, thesaurus (?)
+	thesauruses (?)
 	to redo (BCI 23630)
 	work duplicate, exercise, practice, drill, rehearsal (BCI 26224)
 	to exercise, to practise, drill, to rehearse (BCI 16235)
@@ -3378,7 +3397,7 @@ NaCl	to salt
 	bookmarks (?)
 	holding location, buffer (?)
 	language classification, dialect (?)
-	symbol (CKB ?)
+	symbol (CKB 518)
 	symbols
 1	unit of small different sound, phoneme (BCI 27107)
 	without frame, frameless (?)
